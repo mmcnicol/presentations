@@ -1,0 +1,55 @@
+
+# enterprise java - micro profile
+
+## context
+* enterprise java technologies like java ee have evolved with the industry for nearly two decades to support distributed application architectures based on soap and rest web services. micro-profile is the next step in that evolution
+
+
+## what?
+* "MicroProfile" is an eclipse foundation project based on a specification for a set of apis appropriate to building microservices
+* the project was announced in june 2016 by a number of java industry vendors & community groups including payara, redhat, ibm, tomitribe, ...
+* JAX-RS + CDI + JSON-P
+
+## why?
+* the whole philosophy is to turn the idea of application servers on its head and change the perception that they are large, complex and unwieldy environments for building server side applications
+* it enables you to run war files from the command line without any application server installation
+
+
+## benefits
+* it is small, less than 70MB in size
+* perfect for container projects (e.g. using docker)
+
+
+## specification versions
+* version 1.0
+* version 1.1 
+* version 1.2
+* version 1.3 <- current version (vendor implementations are in progress)
+
+
+## how?
+* create enterprise java project as normal that builds a war file e.g. with maven pom dependency javax javaee-api
+* download a vendor micro profile jar file
+* use command-line to execute the vendor jar file with the enterprise java project war file as a parameter
+
+
+```
+java -jar payara-micro-4.1.2.174.jar --deploy payara-micro-1/target/payara-micro-1.war
+```
+
+
+![run output](run-output.png "run output")
+
+
+![web browser output](web-browser-output.png "web browser output")
+
+
+## links
+* [microprofile.io website](https://microprofile.io/)
+* [eclipse micro-profile project wiki](https://wiki.eclipse.org/MicroProfile)
+* [eclipse micro-profile project wiki - implementations page](https://wiki.eclipse.org/MicroProfile/Implementation)
+* [eclipse project proposal](https://projects.eclipse.org/proposals/eclipse-microprofile)
+* [source code on github](https://github.com/microprofile)
+* [payara micro website](https://www.payara.fish/payara_micro)
+
+
