@@ -8,7 +8,11 @@
 ## what?
 * "MicroProfile" is an eclipse foundation project based on a specification for a set of apis appropriate to building microservices
 * the project was announced in june 2016 by a number of java industry vendors & community groups including payara, redhat, ibm, tomitribe, ...
-* JAX-RS + CDI + JSON-P
+* micro-profile is a baseline platform definition that optimizes enterprise java for a microservices architecture and delivers application portability across multiple MicroProfile runtimes. while java ee is a very feature rich platform and is like a toolbox that can be used to to address a wide variety of application architectures, micro-profile focuses on defining a small and a minimum set of java ee standards that can be used to deliver applications based on a microservice architecture, they are:
+** JAX-RS
+** CDI
+** JSON-P
+
 
 ## why?
 * the whole philosophy is to turn the idea of application servers on its head and change the perception that they are large, complex and unwieldy environments for building server side applications

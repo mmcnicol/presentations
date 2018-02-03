@@ -1,4 +1,4 @@
 # presentations
 
-[enterprise java](enterprise-java/README.md)
-
+* [enterprise java](enterprise-java/README.md)
+* [devops](devops/README.md)

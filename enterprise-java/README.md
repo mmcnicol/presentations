@@ -1,3 +1,3 @@
 
-[micro profile](micro-profile/README.md)
+* [micro profile](micro-profile/README.md)
 
