@@ -7,7 +7,7 @@
 * for continuous testing, the scope of testing extends from validating bottom-up requirements or user stories to assessing the system requirements associated with overarching business goals
 
 
-# adoption drivers
+## adoption drivers
 * traditional testing processes/cycles are too slow. traditional methods of testing rely heavily on manual testing
 * even after more automation is added to the existing test process, managers still lack adequate insight into the level of risk associated with an application at any given point in time
 ** understanding these risks is critical for making the rapid go/no go decisions involved in continuous delivery processes
@@ -30,7 +30,7 @@
 
 
 ## common practices
-* testing should be a collaboration of development, qa, and operations — aligned with the priorities of the line of business—within a coordinated, end-to-end quality process
+* testing should be a collaboration of development, qa, and operations - aligned with the priorities of the line of business - within a coordinated, end-to-end quality process
 * tests should be logically-componentized, incremental, and repeatable; results must be deterministic and meaningful
 * all tests need to be run at some point in the build pipeline, but not all tests need be run all the time
 * eliminate test data and environment constraints so that tests can run constantly and consistently in production-like environments
@@ -39,3 +39,5 @@
 
 # links
 * [wikipedia - continuous testing](https://en.wikipedia.org/wiki/Continuous_testing)
+
+
