@@ -2,6 +2,11 @@
 # devops - continuous integration
 
 
+https://www.martinfowler.com/articles/continuousIntegration.html
+
+
+
+
 * continuous integration (CI) is the practice, in software engineering, of merging all developer working copies with a shared mainline several times a day
 * it was adopted as part of extreme programming (XP), which did advocate integrating more than once per day, perhaps as many as tens of times per day
 * the main aim of CI is to prevent integration problems, referred to as "integration hell" in early descriptions of XP

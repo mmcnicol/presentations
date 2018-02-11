@@ -56,4 +56,7 @@ java -jar payara-micro-4.1.2.174.jar --deploy payara-micro-1/target/payara-micro
 * [source code on github](https://github.com/microprofile)
 * [payara micro website](https://www.payara.fish/payara_micro)
 
+MicroProfile: Optimizing Java EE for a microservices architecture
+https://www.youtube.com/watch?v=YGC2b8k2nfg&feature=youtu.be
+
 

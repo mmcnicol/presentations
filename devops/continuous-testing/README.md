@@ -37,7 +37,26 @@
 * to minimize false positives, minimize test maintenance, and more effectively validate use cases across modern systems with multitier architectures, teams should emphasize api testing over gui testing
 
 
+
+* Unit: Unit Tests
+* Integration: Integration Tests
+* Service: Test on service layer (SOAP, REST)
+* Functional: tests that want to guarantee the operation against different business rules (happy path, sad path and alternative flows)
+* Non-functional tests: performance, load, security, etc...
+* Acceptance: acceptance testing (testing focus on the user perspective)
+
+Aim to create an entire automated test architecture to support the continuous, automated, and least-maintenance run possible with:
+* screenshots to evidence the execution of each test, or evidence when an error ocurrs
+* logs to analyse and see any error occurred
+* reports to show up a feedback about the test execution
+* data management for the sensitive data on a test script
+* parameterize commonly changed data like URL's, endpoints, etc...
+
+
 # links
 * [wikipedia - continuous testing](https://en.wikipedia.org/wiki/Continuous_testing)
+* [Trust Your Pipeline: Automatically Testing an End-to-End Java Application] (https://medium.com/@eliasnogueira/trust-your-pipeline-automatically-testing-an-end-to-end-java-application-4a33232180c3)
+* [wikipedia - Regression testing](https://en.wikipedia.org/wiki/Regression_testing)
+* [Agile testing directions: tests and examples - Brian Marick](http://www.exampler.com/old-blog/2003/08/22/#agile-testing-project-2)
 
 

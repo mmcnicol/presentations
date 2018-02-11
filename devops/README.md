@@ -56,6 +56,8 @@
 
 
 ## links
-* (wikipedia - devops)[https://en.wikipedia.org/wiki/DevOps)
-* (AWS - What is DevOps?)[https://aws.amazon.com/devops/what-is-devops/]
+* [wikipedia; devops](https://en.wikipedia.org/wiki/DevOps)
+* [AWS; What is DevOps?](https://aws.amazon.com/devops/what-is-devops/)
+* []nfoq.com; presentation; gov-uk-devops](https://www.infoq.com/presentations/gov-uk-devops)
+
 
