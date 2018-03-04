@@ -11,25 +11,15 @@ https://kafka.apache.org/quickstart
 * Kafka uses ZooKeeper 
 
 
-http://cloudurable.com/blog/what-is-kafka/index.html
+[What is Kafka?](http://cloudurable.com/blog/what-is-kafka/index.html)
 
+[Apache Kafka goes 1.0. November 1, 2017](https://www.confluent.io/blog/apache-kafka-goes-1-0/)
 
-http://cloudurable.com/blog/kafka-vs-jms/index.html
+[Kafka Tutorial: Writing a Kafka Producer in Java](http://cloudurable.com/blog/kafka-tutorial-kafka-producer/index.html)
 
+[Kafka Tutorial: Writing a Kafka Consumer in Java](http://cloudurable.com/blog/kafka-tutorial-kafka-consumer/index.html)
 
+[Kafka vs JMS](http://cloudurable.com/blog/kafka-vs-jms/index.html)
 
-https://www.confluent.io/blog/apache-kafka-goes-1-0/
-November 1, 2017
-
-
-http://cloudurable.com/blog/kafka-tutorial-kafka-producer/index.html
-Kafka Tutorial: Writing a Kafka Producer in Java
-May 15, 2017
-
-
-http://cloudurable.com/blog/kafka-tutorial-kafka-consumer/index.html
-Kafka Tutorial: Writing a Kafka Consumer in Java
-May 15, 2017
-
-
+[ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka](https://youtu.be/I32hmY4diFY)
 
