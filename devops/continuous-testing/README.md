@@ -59,4 +59,9 @@ Aim to create an entire automated test architecture to support the continuous, a
 * [wikipedia - Regression testing](https://en.wikipedia.org/wiki/Regression_testing)
 * [Agile testing directions: tests and examples - Brian Marick](http://www.exampler.com/old-blog/2003/08/22/#agile-testing-project-2)
 
+https://upload.wikimedia.org/wikipedia/commons/8/80/Agile_DevOps_Shift_Left_Testing.jpg
+
+https://github.com/in28minutes/java-best-practices/blob/master/pdf/LoadAndPerformanceTestingBestPractices.pdf
+
+https://github.com/in28minutes/java-best-practices/blob/master/pdf/SecuringYourApplication-OWASP.pdf
 

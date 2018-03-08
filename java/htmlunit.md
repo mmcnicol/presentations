@@ -11,10 +11,9 @@ HtmlUnit is not a generic unit testing framework. It is specifically a way to si
 
 HtmlUnit is used as the underlying "browser" by different Open Source tools like Canoo WebTest, JWebUnit, WebDriver, JSFUnit, WETATOR, Celerity, Spring MVC Test HtmlUnit, ...
 
-HtmlUnit was originally written by Mike Bowler of Gargoyle Software and is released under the Apache 2 license.
-
 http://htmlunit.sourceforge.net/
 
+http://htmlunit.sourceforge.net/gettingStarted.html
 
 <dependency>
     <groupId>net.sourceforge.htmlunit</groupId>
@@ -22,6 +21,5 @@ http://htmlunit.sourceforge.net/
     <version>2.29</version>
 </dependency>
 
-http://htmlunit.sourceforge.net/gettingStarted.html
 
 
