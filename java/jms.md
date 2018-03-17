@@ -152,6 +152,13 @@ Conclusion
 "When applied correctly, message queuing (MQ) technology can greatly simplify the processing of complex tasks by facilitating decomposing the task into simple subtasks, and can increase the flexibility and scalability of our applications..."
 
 
+Introduction to Oracle Advanced Queuing​
+https://docs.oracle.com/cd/B10500_01/appdev.920/a96587/qintro.htm
+
+Advanced Queuing is able to meet requirements in the following situations:
+* Applications that do not have the resources to handle multiple unprocessed messages arriving simultaneously from external clients or from programs internal to the application.
+* Communication links between databases that are not available all the time or are reserved for other purposes. If the system falls short in its capacity to deal with these messages immediately, the application must be able to store the messages until they can be processed.
+* Eternal clients or internal programs that are not ready to receive messages that have been processed.
 
 
 https://www.javaworld.com/article/2074634/java-web-development/should-you-go-with-jms-.html
@@ -221,5 +228,7 @@ http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
 https://github.com/apache/camel/blob/master/components/readme.adoc
 
 http://sensatic.net/messaging/messaging-anti-patterns-part-1.html
+
+https://www.ivankrizsan.se/2016/02/22/running-an-activemq-broker-with-maven/
 
 

@@ -13,3 +13,7 @@
   * conflict management
 
 
+links:
+
+https://leadershipchamps.wordpress.com/2011/05/20/the-five-dysfunctions-of-a-team/amp/
+https://leadershipchamps.wordpress.com/2011/05/20/the-five-dysfunctions-of-a-team/

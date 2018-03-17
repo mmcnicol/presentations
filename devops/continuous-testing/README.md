@@ -31,7 +31,7 @@
 
 ## common practices
 * testing should be a collaboration of development, qa, and operations - aligned with the priorities of the line of business - within a coordinated, end-to-end quality process
-* tests should be logically-componentized, incremental, and repeatable; results must be deterministic and meaningful
+* tests should be logically-componentized, incremental, and repeatable; results must be deterministic (always produce the same output from a given starting condition or initial state) and meaningful
 * all tests need to be run at some point in the build pipeline, but not all tests need be run all the time
 * eliminate test data and environment constraints so that tests can run constantly and consistently in production-like environments
 * to minimize false positives, minimize test maintenance, and more effectively validate use cases across modern systems with multitier architectures, teams should emphasize api testing over gui testing

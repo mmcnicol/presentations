@@ -23,3 +23,5 @@ https://kafka.apache.org/quickstart
 
 [ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka](https://youtu.be/I32hmY4diFY)
 
+[Building event-driven (Micro)Services with Apache Kafka by Guido Schmutz](https://youtu.be/IR1NLfaq7PU)
+
