@@ -59,18 +59,18 @@ Aim to create an entire automated test architecture to support the continuous, a
 
 specific to java:
 
-test category | legacy | more modern
------------- | ------------ | -------------
-unit | junit | junit
-integration | ? | junit, arquillian?
-service | ? | junit, rest assured, wire mock
-functional | ? | junit, selenium
-(non-functional) performance | jmeter | gatling
-(non-functional) load | jmeter | gatling
-(non-functional) security | ? | ?
-acceptance | ? | ?
-(acceptance) usability | ? | ?
-(acceptance) accessibility | ? | ?
+test category | testing tools
+------------ | -------------
+unit | junit
+integration | junit, arquillian?
+service | junit, rest assured, wire mock
+functional | junit, selenium
+(non-functional) performance | jmeter, gatling
+(non-functional) load | jmeter, gatling
+(non-functional) security | ?
+acceptance | ?
+(acceptance) usability | ?
+(acceptance) accessibility | pa11y, tenon
 
 
 ## links
@@ -85,3 +85,8 @@ https://github.com/in28minutes/java-best-practices/blob/master/pdf/LoadAndPerfor
 
 https://github.com/in28minutes/java-best-practices/blob/master/pdf/SecuringYourApplication-OWASP.pdf
 
+https://blogs.gov.scot/digital/2016/12/20/accessibility/
+
+http://pa11y.org/
+
+https://tenon.io/
