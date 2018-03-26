@@ -54,7 +54,11 @@ http://digital.nhs.uk/
 
 ## general
 
+https://www.recallact.com/
+
 http://continuousdelivery.com/
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413685/Digital_and_technology_skills_matrix.xlsx
 
 
 ## guides and standards
