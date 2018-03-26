@@ -20,3 +20,8 @@
 Patterns such as feature toggles can be very useful for committing code early which is not yet ready for use by end users.
 
 
+## links
+
+* [Continuous Delivery In Agile - Jez Humble](https://vimeo.com/229954108)
+
+

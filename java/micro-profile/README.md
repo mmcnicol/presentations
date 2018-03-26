@@ -59,3 +59,7 @@ java -jar payara-micro-4.1.2.174.jar --deploy payara-micro-1/target/payara-micro
 [MicroProfile: Optimizing Java EE for a microservices architecture](https://www.youtube.com/watch?v=YGC2b8k2nfg&feature=youtu.be)
 
 [Preview: MicroProfile Fault Tolerance in Payara Micro](http://blog.payara.fish/preview-microprofile-fault-tolerance-in-payara-micro?utm_campaign=Payara%205%20Launch)
+
+[Microprofile - by Example : Ivar Grimstad](https://vimeo.com/233982410)
+
+

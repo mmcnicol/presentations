@@ -89,6 +89,8 @@ https://upload.wikimedia.org/wikipedia/commons/8/80/Agile_DevOps_Shift_Left_Test
 
 https://github.com/ministryofjustice/apvs/wiki/moj-noms-apvs-0000-test-strategy
 
+https://danashby.co.uk/2016/10/19/continuous-testing-in-devops/
+
 ### performance
 
 https://github.com/in28minutes/java-best-practices/blob/master/pdf/LoadAndPerformanceTestingBestPractices.pdf

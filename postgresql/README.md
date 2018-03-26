@@ -90,6 +90,8 @@ systemctl restart postgresql
 ---
 
 
+https://www.javaworld.com/article/3244345/open-source-tools/why-old-school-postgresql-is-so-hip-again.html
+
 PostgreSQL - A Crash Course
 https://youtu.be/AtIopyyumvk
 

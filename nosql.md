@@ -38,3 +38,6 @@
 
 https://en.wikipedia.org/wiki/NoSQL
 
+* [What Is Redis And What Is It Used For?](https://youtu.be/OeVHnyztV9A)
+* [memcached Tutorial Caching Story](https://github.com/memcached/memcached/wiki/TutorialCachingStory)
+

@@ -58,6 +58,6 @@
 ## links
 * [wikipedia; devops](https://en.wikipedia.org/wiki/DevOps)
 * [AWS; What is DevOps?](https://aws.amazon.com/devops/what-is-devops/)
-* []nfoq.com; presentation; gov-uk-devops](https://www.infoq.com/presentations/gov-uk-devops)
-
+* [infoq.com; presentation; gov-uk-devops](https://www.infoq.com/presentations/gov-uk-devops)
+* [Enterprise 2.0: why it should never take three weeks to make a change to your web application](https://betanews.com/2015/01/13/enterprise-2-0-why-it-should-never-take-three-weeks-to-make-a-change-to-your-web-application/)
 

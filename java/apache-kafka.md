@@ -25,3 +25,8 @@ https://kafka.apache.org/quickstart
 
 [Building event-driven (Micro)Services with Apache Kafka by Guido Schmutz](https://youtu.be/IR1NLfaq7PU)
 
+https://www.javaworld.com/article/3212846/application-development/all-your-streaming-data-are-belong-to-kafka.html​
+
+[Developing Real-Time Data Pipelines with Apache Kafka](https://youtu.be/GRPLRONVDWY)
+
+

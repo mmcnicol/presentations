@@ -2,6 +2,7 @@
 # cdi
 
 
+http://piotrnowicki.com/2013/05/asynchronous-cdi-events/
 
 
 
