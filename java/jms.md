@@ -204,6 +204,7 @@ https://developer.jboss.org/thread/155277
 * [2011; JBOSS 7 AS; Setting up HornetQ JMS](https://www.techartifact.com/blogs/2012/10/jboss-as-7-setting-up-hornetq-jms.html)
 * [Should you use JMS in your next enterprise application?](https://www.ibm.com/developerworks/library/j-jtp0205/index.html)
 * [Should you go with JMS?](https://www.javaworld.com/article/2074634/java-web-development/should-you-go-with-jms-.html)
+* [Introduction to RabbitMQ](https://youtu.be/GoIkHMCXFCU)
 * [Java EE 8; The Java EE Tutorial; Overview of the JMS Examples](https://javaee.github.io/tutorial/jms-examples002.html)
 * [Java JMS helloworld on JBoss 5.0 AS example](https://examples.javacodegeeks.com/enterprise-java/jms/java-jms-helloworld-on-jboss-example/)
 * [wikipedia JMS](https://en.m.wikipedia.org/wiki/Java_Message_Service)
