@@ -206,29 +206,16 @@ https://developer.jboss.org/thread/155277
 * [Should you go with JMS?](https://www.javaworld.com/article/2074634/java-web-development/should-you-go-with-jms-.html)
 * [Java EE 8; The Java EE Tutorial; Overview of the JMS Examples](https://javaee.github.io/tutorial/jms-examples002.html)
 * [Java JMS helloworld on JBoss 5.0 AS example](https://examples.javacodegeeks.com/enterprise-java/jms/java-jms-helloworld-on-jboss-example/)
-
-https://en.m.wikipedia.org/wiki/Java_Message_Service
-
-https://en.m.wikipedia.org/wiki/Apache_ActiveMQ
-
-https://javainsider.wordpress.com/2012/09/25/simple-guide-to-java-message-service-jms-using-activemq/amp/
-
-https://www.slideshare.net/mobile/rajdavies/enterprise-integration-patterns-with-activemq
-
-https://j2eereference.com/advantages-java-message-service-jms/
-
-http://sujitpal.blogspot.co.uk/2007/12/jms-patterns-with-activemq.html
-
-http://activemq.apache.org/enterprise-integration-patterns.html
-
-http://activemq.apache.org/rest.html
-
-http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
-
-https://github.com/apache/camel/blob/master/components/readme.adoc
-
-http://sensatic.net/messaging/messaging-anti-patterns-part-1.html
-
-https://www.ivankrizsan.se/2016/02/22/running-an-activemq-broker-with-maven/
-
-
+* [wikipedia JMS](https://en.m.wikipedia.org/wiki/Java_Message_Service)
+* [wikipedia Apache ActiveMQ](https://en.m.wikipedia.org/wiki/Apache_ActiveMQ)
+* [Simple Guide to JMS using ActiveMQ](https://javainsider.wordpress.com/2012/09/25/simple-guide-to-java-message-service-jms-using-activemq/amp/)
+* [Advantages of JMS](https://j2eereference.com/advantages-java-message-service-jms/)
+* [JMS Patterns with ActiveMQ](http://sujitpal.blogspot.co.uk/2007/12/jms-patterns-with-activemq.html)
+* [Apache ActiveMQ REST API](http://activemq.apache.org/rest.html)
+* [Enterprise Integration Patterns with ActiveMQ](https://www.slideshare.net/mobile/rajdavies/enterprise-integration-patterns-with-activemq)
+* [Apache ActiveMQ Enterprise Integration Patterns](http://activemq.apache.org/enterprise-integration-patterns.html)
+* [enterpriseintegrationpatterns.com; messaging patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html)
+* [Apache Camel; Components](https://github.com/apache/camel/blob/master/components/readme.adoc)
+* [Messaging Anit-Patterns: Part 1](http://sensatic.net/messaging/messaging-anti-patterns-part-1.html)
+* [Running an ActiveMQ Broker with Maven](https://www.ivankrizsan.se/2016/02/22/running-an-activemq-broker-with-maven/)
+* [O'REILLY Learning Path: Enterprise Messaging Techniques](https://player.oreilly.com/videos/9781491964958)
