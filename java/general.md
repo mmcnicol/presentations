@@ -35,3 +35,7 @@ Simple example on how to quickly generate @SwaggerApi with jaxrs-analyzer-maven-
 https://github.com/afrunt/examples/tree/master/misc/jax-rs-analyzer
 
 
+## CompletableFuture
+
+* [CompletableFuture_- The_Promises_of_Java_-_Venkat_Subramaniam](https://vimeo.com/267930513)
+
