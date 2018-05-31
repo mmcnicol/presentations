@@ -10,6 +10,7 @@ event-driven programming
 
 * [The Principles of Clean Architecture by Uncle Bob Martin](https://youtu.be/o_TH-Y78tt4)
 * [12 Stories Every Architect Should Know : Neal Ford](https://vimeo.com/233966656)
+* [O'Reilly Software Architecture Conference 2015](https://www.youtube.com/playlist?list=PL055Epbe6d5aFJdvWNtTeg_UEHZEHdInE)
 * [Decomposing Twitter: Adventures in Service-Oriented Architecture](https://www.infoq.com/presentations/twitter-soa)
 * [NHS to replace its Oracle Spine in favour of open source Riak datastore, Redis, Nginx, Tornado, and RabbitMQ](http://www.pricare.co.uk/NHS_to_replace_its_Oracle_Spine_in_favour_of_open_source_Riak_datastore_Redis_Nginx_Tornado_RabbitMQ)
 * [NHS grows a NoSQL backbone and rips out its Oracle Spine](http://www.theregister.co.uk/2014/09/09/nhs_spin2_rips_out_oracle/)
