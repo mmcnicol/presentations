@@ -9,6 +9,9 @@ event-driven programming
 # links
 
 * [The Principles of Clean Architecture by Uncle Bob Martin](https://youtu.be/o_TH-Y78tt4)
+* [Making Architecture Matter - Martin Fowler Keynote](https://youtu.be/DngAZyWMGR0​)
+* ["Agile Architecture" - Molly Dishman & Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
+* [Architecture without Architects - Erik Dörnenburg](https://www.youtube.com/watch?v=qVyt3qQ_7TA)
 * [12 Stories Every Architect Should Know : Neal Ford](https://vimeo.com/233966656)
 * [O'Reilly Software Architecture Conference 2015](https://www.youtube.com/playlist?list=PL055Epbe6d5aFJdvWNtTeg_UEHZEHdInE)
 * [Decomposing Twitter: Adventures in Service-Oriented Architecture](https://www.infoq.com/presentations/twitter-soa)
