@@ -20,5 +20,11 @@ kanban is just a tool to help you manage your projects, to continually deliver v
 * doing
 * done
 
+## other
+* the scrum concept of time-boxing (sprints) is not used.
+* the scrum concept of retrospectives is not used (because blockages are visible on a day-to-day basis)
+  * periodic retrospectives could still have value
+
 ## links
 * [Eric Brechner: "Agile Project Management with Kanban" | Talks at Google](https://youtu.be/CD0y-aU1sXo)
+* [Agile Project Management with Kanban: Eric Brechner Presentation](https://youtu.be/CKWvmiY7f_g)
