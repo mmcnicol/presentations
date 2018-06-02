@@ -1,8 +1,6 @@
 # kanban
 
-kanban is just a tool to help you manage your projects
-to continually deliver value to your customers
-using visualisation of work
+kanban is just a tool to help you manage your projects, to continually deliver value to your customers, using visualisation of work.
 
 * you can have as many steps as you want
 * you can call the steps what you want
