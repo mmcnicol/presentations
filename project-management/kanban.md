@@ -2,6 +2,8 @@
 
 kanban is just a tool to help you manage your projects
 
+to continually deliver value to your customers
+
 * you can have as many steps as you want
 * you can call the steps what you want
 * each step has an active and a done column (to specify what it means to be done)
