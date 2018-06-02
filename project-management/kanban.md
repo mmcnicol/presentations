@@ -7,6 +7,7 @@ kanban is just a tool to help you manage your projects, to continually deliver v
 * each step has an active and a done column (to specify what it means to be done)
 ** optionally, add a trak column for things which as stuck/blocked 
 * each step has a work in progress limit
+** low work in progress gives agility, the ability to switch and work on something else
 
 ## example steps
 * backlog (feature list, prioritised, not all same size)
