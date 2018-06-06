@@ -119,4 +119,4 @@ https://www.gitbook.com/book/dennis-xlc/restful-java-with-jax-rs-2-0-2rd-edition
 
 https://github.com/AdamBien/cors/blob/master/src/main/java/com/airhacks/cors/CorsResponseFilter.java​
 
-
+https://www.javaworld.com/article/2824163/application-performance/stability-patterns-applied-in-a-restful-architecture.html
