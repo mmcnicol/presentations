@@ -24,6 +24,15 @@ https://developers.redhat.com/products/eap/overview/
 
 https://developers.redhat.com/products/eap/docs-and-apis/
 
+https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/?version=7.0
+
+https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.0/html/development_guide/
+
+https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.0/html/developing_ejb_applications/
+
+https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.0/html/developing_web_services_applications/
+
+
 
 
 
