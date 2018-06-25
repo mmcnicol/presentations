@@ -13,6 +13,9 @@
 https://www.javaworld.com/article/2945040/testing-debugging/are-you-over-testing-your-software.html
 
 
+Adam Bien - A Note On Java EE Testing  
+https://youtu.be/x4Fxur-0SB0
+
 
 ## unit testing
 
