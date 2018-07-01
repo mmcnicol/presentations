@@ -220,3 +220,5 @@ https://developer.jboss.org/thread/155277
 * [Messaging Anit-Patterns: Part 1](http://sensatic.net/messaging/messaging-anti-patterns-part-1.html)
 * [Running an ActiveMQ Broker with Maven](https://www.ivankrizsan.se/2016/02/22/running-an-activemq-broker-with-maven/)
 * [O'REILLY Learning Path: Enterprise Messaging Techniques](https://player.oreilly.com/videos/9781491964958)
+* [AWS Public Sector Summit 2018 - Washington, D.C.; Breaking Down the "Monowhat"](https://youtu.be/xwXmeQ-1r5E) // 2nd half of the talk is about domain events
+
