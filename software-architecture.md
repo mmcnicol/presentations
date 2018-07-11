@@ -12,6 +12,7 @@ event-driven programming
 * [Making Architecture Matter - Martin Fowler Keynote](https://youtu.be/DngAZyWMGR0​)
 * ["Agile Architecture" - Molly Dishman & Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
 * [Architecture without Architects - Erik Dörnenburg](https://www.youtube.com/watch?v=qVyt3qQ_7TA)
+* [Indecisions are not all bad - Boris Litvinsky](https://youtu.be/NB0C6BpO0Pg)
 * [12 Stories Every Architect Should Know : Neal Ford](https://vimeo.com/233966656)
 * [O'Reilly Software Architecture Conference 2015](https://www.youtube.com/playlist?list=PL055Epbe6d5aFJdvWNtTeg_UEHZEHdInE)
 * [Decomposing Twitter: Adventures in Service-Oriented Architecture](https://www.infoq.com/presentations/twitter-soa)
