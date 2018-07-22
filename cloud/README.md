@@ -14,7 +14,7 @@ cloud should now be the default option - principle of "Cloud First"
 * Stop spending money on running and maintaining data centers
 * Go global in minutes
 
-## 3 main types of Cloud computing:
+## 3 main types of cloud computing:
 * Infrastructure as a Service (IaaS)
 * Platform as a Service (PaaS)
 * Software as a Service (SaaS)
