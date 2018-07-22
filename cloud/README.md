@@ -1,7 +1,11 @@
 
 # cloud computing
 
-On-demand delivery of compute power, database storage, applications, and other IT resources through a cloud services platform via the internet with pay-as-you-go pricing.
+on-demand delivery of (commodity) compute power, database storage, applications, and other IT resources through a cloud services platform via the internet with pay-as-you-go pricing.
+
+established & trusted model for the delivery of IT services in both the public and private sectors.
+
+cloud should now be the default option - principle of "Cloud First"
 
 * Trade capital expense for variable expense (with cloud computing, you don’t need to make large upfront investments in hardware)
 * Benefit from massive economies of scale
@@ -10,9 +14,18 @@ On-demand delivery of compute power, database storage, applications, and other I
 * Stop spending money on running and maintaining data centers
 * Go global in minutes
 
-There are 3 main types of Cloud computing:
+## 3 main types of Cloud computing:
 * Infrastructure as a Service (IaaS)
 * Platform as a Service (PaaS)
 * Software as a Service (SaaS)
+
+## cloud adoption considerations
+* security
+* data (e.g. if subject to regulations)
+* availability
+* cost-effectiveness
+* agility
+* people / skills
+
 
 
