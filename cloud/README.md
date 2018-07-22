@@ -24,7 +24,7 @@ cloud should now be the default option - principle of "Cloud First"
 * data (e.g. if subject to regulations)
 * availability
 * cost-effectiveness
-* agility
+* agility, elasticity/scalability
 * people / skills
 
 
