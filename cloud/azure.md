@@ -1,5 +1,11 @@
 # azure
 
+## products - compute
+* virtual machines
+* functions (process events with serverless code)
+* ...
+
+
 
 ## links
 * [microsoft azure website](https://azure.microsoft.com/en-us/)
