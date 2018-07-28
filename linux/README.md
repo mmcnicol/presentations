@@ -45,3 +45,7 @@ export SSHPASS=$USER_PASS
 sshpass -e scp -o stricthostkeychecking=no -r directory-to-copy user@host:path-to-copy-files-to
 
 
+## generate a random password
+
+cat < /dev/urandom | tr -dc a-zA-Z0-9 | head -c 12
+
