@@ -27,3 +27,4 @@
 
 ## links
 * [Amazon Web Services website](https://aws.amazon.com/)
+* [Getting Started with Amazon MQ - Managed Message Broker Service](https://youtu.be/iDT1zFpy1kE)
