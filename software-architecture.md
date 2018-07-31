@@ -13,7 +13,8 @@
 * [GOTO 2017 • Serverless: the Future of Software Architecture • Peter Sbarski](https://youtu.be/LAWjdZYrUgI)
 
 
-## monolithic (layered)
+## monolithic
+* [Pattern: Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
 
 
 
