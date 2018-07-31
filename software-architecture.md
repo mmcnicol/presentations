@@ -9,6 +9,14 @@
 * [Design Patterns: Why Event Sourcing?](https://youtu.be/rUDN40rdly8)
 
 
+## serverless
+* [GOTO 2017 • Serverless: the Future of Software Architecture • Peter Sbarski](https://youtu.be/LAWjdZYrUgI)
+
+
+## monolithic (layered)
+
+
+
 ## links
 
 * [The Principles of Clean Architecture by Uncle Bob Martin](https://youtu.be/o_TH-Y78tt4)
