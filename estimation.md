@@ -12,7 +12,7 @@ a good estimate would minimise the difference between how long something should 
 
 if you give a single date estimate you are making a commitment, a promise. if you deliver late then you loose trust. 
 
-a single date estimate is not treated as an estimate - it is treated as fact; an actual delivery date because a typical managers next step is to project a project plan on a calendar using known resource (developer) availability and the provided estimates, to provide a delivery date to their manager.
+any estimate is not treated as an estimate - it is treated as fact; an actual delivery date because a managers typical next step is to arrange the individually estimated project tasks onto a calendar using known resource (developer) availability, adding some contingency factor (e.g. 20%), which reveals the anticipated completion date which is passed to their manager and on up the organisational hierarchy.
 
 an estimate is a deadline, a contract, which increases stress and leads to working at an unsustainable pace.
 
