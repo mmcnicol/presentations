@@ -25,12 +25,27 @@ an estimate should be:
 
 any request for an estimate, especially for a large amount of work, should be answered with something like a three point—minimum, expected, maximum—answer. if that shape of answer, never mind the actual numbers, is not acceptable then you’ve learned that you weren’t being asked for an estimate in the first place.
 
+can we get better at estimates?
+* clearer requirements?
+* compare against previous actuals? ...we are not using the same technology & frameworks that we did 5 years ago.
+* less waste? e.g. wasted effort, scope change.
+* fewer interruptions?
+* less work in progress?
+
+what are we estimating?
+* from beginning to done (released)
+* to implement the business requirements
+* to meet non-business requirements... being well engineered (clean code, maintainable, robust, performant)
+* ancillary tasks: dev environment setup, task prioritisation, requirements clarification, team collaboration, giving progress updates, recording time spent on a task and adjusting time remaining, updating task status, refactoring code, code documentation, coding, unit testing, integration testing, issue investigation, code reviews, multiple manual releases to test environments, quality assurance, user acceptance testing, release checklists, pre-release meetings, handover documentation for other teams (e.g. operations).
+
 
 ## no estimates
 
 this idea was encapsulated in the #NoEstimates hashtag on twitter.
 
 in essence this means not trying to estimate the size of the work; we just make sure we slice work into a size that we can bite on and turn around quickly.
+
+by doing the work, we discover what is required to do the work.
 
 
 ## links
