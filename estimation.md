@@ -16,12 +16,12 @@ any estimate is not treated as an estimate - it is treated as fact; an actual de
 
 an estimate is a deadline, a contract, which increases stress and leads to working at an unsustainable pace.
 
+the only honest estimate is "I don't know". all estimates are lies.
+
 an estimate should be:
 * accurate - 100%
 * precise - just the right amount.
 * honest
-
-"I don't know" is not an acceptable answer to a manager.
 
 any request for an estimate, especially for a large amount of work, should be answered with something like a three point—minimum, expected, maximum—answer. if that shape of answer, never mind the actual numbers, is not acceptable then you’ve learned that you weren’t being asked for an estimate in the first place.
 
