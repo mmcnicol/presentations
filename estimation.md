@@ -6,7 +6,7 @@ an organisation runs on goals and commitments. it wants and needs both speed and
 
 estimates help in project selection over a wider time frame. so the organisation can make rational economic decisions.
 
-estimates are made with imperfect information. an estimate is a best guess based on available information. your guess will often be wrong. 
+estimates are made with imperfect information. an estimate is a best guess, a forcast about the future, based on available information. your guess will often be wrong. 
 
 a good estimate would minimise the difference between how long something should take, and how long it actually took.
 
@@ -35,5 +35,6 @@ in essence this means not trying to estimate the size of the work; we just make 
 
 ## links
 * [2016 Robert C. Martin - Effective Estimation (or: How not to Lie)](https://youtu.be/eisuQefYw_o)
+* [No Estimates? By Woody Zuill (@WoodyZuill) At Agile India 2017](https://youtu.be/3f1JebvRnOw)
 * [#NoEstimates (Allen Holub)](https://youtu.be/QVBlnCTu9Ms)
 * [#NoEstimates: 6 Software Experts Give Their View on the Movement](https://plan.io/blog/noestimates-6-software-experts-give-their-view/)
