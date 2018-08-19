@@ -35,7 +35,7 @@ can we get better at estimates?
 what are we estimating?
 * from beginning to done (released)
 * to implement the business requirements
-* to meet non-business requirements... being well engineered (clean code, maintainable, robust, performant)
+* to meet non-business requirements... being well engineered (clean code, maintainable, robust, secure, performant)
 * ancillary tasks: dev environment setup, task prioritisation, requirements clarification, team collaboration, giving progress updates, recording time spent on a task and adjusting time remaining, updating task status, refactoring code, code documentation, coding, unit testing, integration testing, issue investigation, code reviews, multiple manual releases to test environments, quality assurance, user acceptance testing, release checklists, pre-release meetings, handover documentation for other teams (e.g. operations).
 
 
