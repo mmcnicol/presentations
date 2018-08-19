@@ -8,18 +8,20 @@ estimates help in project selection over a wider time frame. so the organisation
 
 estimates are made with imperfect information. an estimate is a best guess based on available information. your guess will often be wrong. 
 
+a good estimate would minimise the difference between how long something should take, and how long it actually took.
+
 if you give a single date estimate you are making a commitment, a promise. if you deliver late then you loose trust. 
 
-a single date estimate is not treated as an estimate - it is treated as fact; an actual delivery date.
+a single date estimate is not treated as an estimate - it is treated as fact; an actual delivery date because a typical managers next step is to project a project plan on a calendar using known resource (developer) availability and the provided estimates, to provide a delivery date to their manager.
 
-an estimate is a deadline, a contract, which increases stress.
+an estimate is a deadline, a contract, which increases stress and leads to working at an unsustainable pace.
 
 an estimate should be:
 * accurate - 100%
 * precise - just the right amount.
 * honest
 
-"I don't know" is not acceptable.
+"I don't know" is not an acceptable answer to a manager.
 
 any request for an estimate, especially for a large amount of work, should be answered with something like a three point—minimum, expected, maximum—answer. if that shape of answer, never mind the actual numbers, is not acceptable then you’ve learned that you weren’t being asked for an estimate in the first place.
 
