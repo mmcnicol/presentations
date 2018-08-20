@@ -32,6 +32,14 @@ Continuous Delivery friendly Maven versions
 https://blog.sebastian-daschner.com/entries/cd-friendly-maven-versions
 
 
+## run jenkins using docker with a volume
+
+docker run -p 8080:8080 -p 50000:50000 -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts
+
+docker run -p 8080:8080 -p 50000:50000 -v $PWD/jenkins:/var/jenkins_home jenkins/jenkins:lts
+
+[docker hub; jenkins/jenkins](https://hub.docker.com/r/jenkins/jenkins/)
+
 
 # links
 
