@@ -20,7 +20,13 @@ public void addPet(@RequestBody Pet pet) {
 use session.setAttribute() and session.getAttribute()
 e.g. session.setAttribute("user", user);
 
-## links
-* [SPRING INITIALIZR](https://start.spring.io/)
 * [httpsession-management-in-springmvc](https://stackoverflow.com/questions/17145526/httpsession-management-in-springmvc)
 * [spring-mvc-session-tutorial](https://www.javacodegeeks.com/2013/04/spring-mvc-session-tutorial.html)
+
+## validate form input
+
+* [spring guide validating-form-input](https://spring.io/guides/gs/validating-form-input/)
+
+## links
+* [SPRING INITIALIZR](https://start.spring.io/)
+* [spring guides](https://spring.io/guides)
