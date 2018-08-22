@@ -3,6 +3,21 @@
 
 ## controller
 
+
+URI variables can be declared at the class and method level:
+
+```java
+@Controller
+@RequestMapping("/owners/{ownerId}")
+public class OwnerController {
+
+    @GetMapping("/pets/{petId}")
+    public Pet findPet(@PathVariable Long ownerId, @PathVariable Long petId) {
+        // ...
+    }
+}
+```
+
 ```java
 @GetMapping(path = "/pets/{petId}", produces = "application/json;charset=UTF-8")
 @ResponseBody
