@@ -1,0 +1,26 @@
+# spring mvc
+
+```java
+@GetMapping(path = "/pets/{petId}", produces = "application/json;charset=UTF-8")
+@ResponseBody
+public Pet getPet(@PathVariable String petId) {
+    // ...
+}
+```
+
+```java
+@PostMapping(path = "/pets", consumes = "application/json")
+public void addPet(@RequestBody Pet pet) {
+    // ...
+}
+```
+
+## session management
+
+use session.setAttribute() and session.getAttribute()
+e.g. session.setAttribute("user", user);
+
+## links
+* [SPRING INITIALIZR](https://start.spring.io/)
+* [httpsession-management-in-springmvc](https://stackoverflow.com/questions/17145526/httpsession-management-in-springmvc)
+* [spring-mvc-session-tutorial](https://www.javacodegeeks.com/2013/04/spring-mvc-session-tutorial.html)
