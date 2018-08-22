@@ -80,4 +80,4 @@ e.g. session.setAttribute("user", user);
 * [SPRING INITIALIZR](https://start.spring.io/)
 * [spring guides](https://spring.io/guides)
 * [Spring Framework Documentation](https://docs.spring.io/spring/docs/5.0.8.RELEASE/spring-framework-reference/index.html)
-
+* [spring blog](https://spring.io/blog/)
