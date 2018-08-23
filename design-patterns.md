@@ -1,6 +1,6 @@
 # design patterns
 
-
+almost all design patterns exist to make future changes easier.
 
 
 # links
