@@ -32,4 +32,6 @@ benefits:
 
 # links
 * [Hexagonal Architecture Is Powerful](https://dzone.com/articles/hexagonal-architecture-is-powerful)
+* [Hexagonal Architecture](http://fideloper.com/hexagonal-architecture)
+
 
