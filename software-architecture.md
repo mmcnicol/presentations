@@ -1,6 +1,12 @@
 
 # software architecture
 
+
+we talk about architecture because we want our applications to contain two attributes:
+* high maintainability
+* low technical debt
+
+
 ## microservices
 * [microservices](microservices.md)
 
