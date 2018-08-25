@@ -4,11 +4,14 @@ React is a JavaScript library for building user interfaces.
 
 
 # individual react ui components
+* [table](https://www.npmjs.com/package/rc-table)
+* [reactable](https://www.npmjs.com/package/reactable)
+* [datepicker](https://www.npmjs.com/package/rc-datepicker)
 * [menu](https://www.npmjs.com/package/rc-menu)
 * [dialog](https://www.npmjs.com/package/rc-dialog)
 * [notification](https://www.npmjs.com/package/rc-notification)
-* [datepicker](https://www.npmjs.com/package/rc-datepicker)
-* [table](https://www.npmjs.com/package/rc-table)
+* [toastify](https://www.npmjs.com/package/react-toastify)
+
 
 # collections of react ui components
 * [responsive-ui](https://www.npmjs.com/package/react-responsive-ui)
