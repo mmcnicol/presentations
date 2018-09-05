@@ -48,6 +48,90 @@ in essence this means not trying to estimate the size of the work; we just make 
 by doing the work, we discover what is required to do the work.
 
 
+
+## project estimation issues
+
+### what is the level of productivity and quality on past projects?
+* if we do not measure we do not know
+* include bugs found before and after release
+* accessibility of such information
+* maintain accessible historical audit records using appropriate issue tracking and project issue/diary logs
+  * such knowledge management is difficult (a subject for another day) due to volume of detail, the passage of time, and staff changes
+
+### software complexity
+* wherever possible, use the 80/20 rule to keep complexity low e.g. 80% of the functionality should be achievable with 20% of the effort.
+* complex requirements increase opportunities for ambiguity and bugs.
+* application usability
+* remember that even apparently straight forward requirements are taking time to implement
+* we continue to re-invent the wheel despite utilising industry leading technology
+* time and mistakes cost money and credibility
+
+### the software testing phase is prone to getting squeezed.
+* establish a set of evenly spaced project milestones then track and manage them closely.
+* focus on detection of bugs as early in the coding process as possible.
+* tightly manage code and database changes between servers (e.g. dev, test, live)
+
+### estimation is not easy.
+* Simple calculations such as number of modules, forms, fields are unlikely to highlight complex factors which lead to project overruns.
+* guestimates should be avoided
+* our techniques of estimating as poorly developed which reflect an unvoiced assumption that is quite untrue, i.e. "that all will go well".
+* we are uncertain of our estimates and want to keep credibility so we lack the courteous stubbornness to make people wait for a good product.
+* a good project manager is a person with the ability to know what will go wrong before it actually does and has the courage to estimate when the future is cloudy.
+* estimation requires experience, access to good historical information, and the courage to commit quantitative measures when qualitative data are all that exist.
+
+### although asking a programmer how long each task will take might improve buy-in you might as well multiply his answer by a factor of 3 or more.
+* without a record of past performance an answer is nothing more than a guess which excludes day to day, week to week realities of unforeseen delays.
+* a man day never works out to exactly 7.5 hours of productive work.
+
+### an analyst programmer is tasked to do almost everything to a high standard
+* availability of a business analyst on the project is perceived by a programmer as taking the heat off requirements analysis and testing effort.
+* for most projects, a programmer should not be responsible for testing his own work.
+
+### consultation, reviewing, and close supervision should be perceived as important
+* "two sets of eyes are better than one"
+* this applies to requirements analysis, coding, and detailed testing strategy
+
+### people factors
+* competence, degree of methodical approach, experience, review / supervision, re-iterating best practice, unforeseen absence / holidays, etc.
+* movement of changes between servers (dev, test, live)
+* application testing well is difficult and takes time
+
+### managers focus exclusively on a target deadline date. 
+* credibility is reduced if this slips one or more times.
+* one option: issue a target delivery date as late in the software development cycle as possible.
+
+### managing change requests and scope creep (requirements that change once development has started)
+
+
+
+
+## Project Estimation Guidelines
+
+### project scope must be established in advance
+* we will continue to be pushed to provide estimates for woolly requirements
+* even knowing the specific details doesn't help us
+
+### we will always be playing a guessing game
+* have the confidence to use a combination of the following:
+  * over-estimate
+  * delay setting a target deliverable date (don't feel bad about delaying a deliverable date)
+
+### past measurements should be used as a basis from which estimates are made
+* but even that will be imperfect
+
+### tightly manage opportunities for "scope creep"
+
+
+### a project is to be broken into small pieces which are estimated individually
+* use realistic breakdowns such as:
+  * analysis and design (business and technical): 40-50%
+  * coding: 15-20%
+  * testing and debugging (includes writing test cases and capturing evidence): 30-40%
+* instead of providing an guestimate for analysis, coding, and testing, for each item, specify optimistic, most likely, and pessimistic guestimates. an "expected" value should then be taken forward for each.
+  * perhaps we should two target dates, the optimistic and the pessimistic?
+* if guestimating, it should be advantageous to use a multiple of 3 or more.
+
+
 ## links
 * [2016 Robert C. Martin - Effective Estimation (or: How not to Lie)](https://youtu.be/eisuQefYw_o)
 * [No Estimates? By Woody Zuill (@WoodyZuill) At Agile India 2017](https://youtu.be/3f1JebvRnOw)
