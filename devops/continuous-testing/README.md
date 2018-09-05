@@ -45,7 +45,7 @@
 * Non-functional tests: performance, load, security, etc...
 * Acceptance: acceptance testing (testing focus on the user perspective)
   * Usability
-  * accessibility
+  * Accessibility
 
 Aim to create an entire automated test architecture to support the continuous, automated, and least-maintenance run possible with:
 * screenshots to evidence the execution of each test, or evidence when an error ocurrs
@@ -76,36 +76,13 @@ acceptance | ?
 ## links
 * [wikipedia - continuous testing](https://en.wikipedia.org/wiki/Continuous_testing)
 * [Trust Your Pipeline: Automatically Testing an End-to-End Java Application] (https://medium.com/@eliasnogueira/trust-your-pipeline-automatically-testing-an-end-to-end-java-application-4a33232180c3)
-* [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
-* [Eradicating Non-Determinism in Tests](https://martinfowler.com/articles/nonDeterminism.html)
-* [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
-* [InMemoryTestDatabase](https://martinfowler.com/bliki/InMemoryTestDatabase.html)
-* [wikipedia - Regression testing](https://en.wikipedia.org/wiki/Regression_testing)
 * [Agile testing directions: tests and examples - Brian Marick](http://www.exampler.com/old-blog/2003/08/22/#agile-testing-project-2)
-
-https://martinfowler.com/tags/testing.html
 
 https://upload.wikimedia.org/wikipedia/commons/8/80/Agile_DevOps_Shift_Left_Testing.jpg
 
 https://github.com/ministryofjustice/apvs/wiki/moj-noms-apvs-0000-test-strategy
 
 https://danashby.co.uk/2016/10/19/continuous-testing-in-devops/
-
-### performance
-
-https://github.com/in28minutes/java-best-practices/blob/master/pdf/LoadAndPerformanceTestingBestPractices.pdf
-
-https://www.gov.uk/service-manual/technology/test-your-services-performance
-
-https://github.com/ministryofjustice/apvs/wiki/moj-noms-apvs-0405-performance-testing
-
-### security
-
-https://github.com/in28minutes/java-best-practices/blob/master/pdf/SecuringYourApplication-OWASP.pdf
-
-### accessibility
-
-https://blogs.gov.scot/digital/2016/12/20/accessibility/
 
 http://pa11y.org/
 
