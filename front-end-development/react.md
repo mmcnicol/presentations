@@ -3,6 +3,20 @@
 React is a JavaScript library for building user interfaces.
 
 ## why use react?
+* react enables developers to 
+  * declaratively describe their user interfaces
+  * model the state of those interfaces
+* components
+  * enable deveopers to break down a complex UI into simple reusable components
+  * components are your lego pieces
+  * components can contain other components
+* simplicity
+  * easy to learn. fast learning curve.
+  * react is just javaScript, there is a very small api to learn. 
+  * react is a javascript library. it’s not a framework.
+  * react only deals with the view layer
+
+
 * [Why ReactJS is gaining so much popularity these days](https://medium.com/@thinkwik/why-reactjs-is-gaining-so-much-popularity-these-days-c3aa686ec0b3)
 * [Yes, React is taking over front-end development. The question is why.](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
 * [What Is ReactJS and Why Should We Use It?](https://www.c-sharpcorner.com/article/what-and-why-reactjs/)
@@ -44,6 +58,18 @@ React is a JavaScript library for building user interfaces.
 * [material design](https://www.npmjs.com/package/react-md)
 
 
-## links
-* [redux](https://redux.js.org/)
+## state
 * [Storing JSON data in React with setState](https://medium.com/@brettcelestre/storing-json-data-in-react-with-setstate-3b588b74dcce)
+
+
+### redux
+* provides a single store; a single source of truth
+* there is only one single object where you keep all the application data
+* any change on the store (data) will trigger a render for related components and the view is always kept in sync with data
+
+* [redux](https://redux.js.org/)
+
+
+## links
+* [reactjs website](https://reactjs.org/)
+
