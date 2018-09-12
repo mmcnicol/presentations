@@ -70,6 +70,10 @@ React is a JavaScript library for building user interfaces.
 * [redux](https://redux.js.org/)
 
 
+## example projects
+* [github.com/UKHomeOffice/hocs-frontend](https://github.com/UKHomeOffice/hocs-frontend)
+
+
 ## links
 * [reactjs website](https://reactjs.org/)
 
