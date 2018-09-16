@@ -28,6 +28,14 @@ React is a JavaScript library for building user interfaces.
 * [How to build sturdy React apps with TDD and the React Testing Library](https://medium.freecodecamp.org/how-to-build-sturdy-react-apps-with-tdd-and-the-react-testing-library-47ad3c5c8e47)
 
 
+## error handling
+https://reactjs.org/blog/2017/07/26/error-handling-in-react-16.html  
+https://stackoverflow.com/questions/36897434/error-handling-in-react-best-practices
+
+## server-side vs client-side rendering
+https://hackernoon.com/server-side-vs-client-side-rendering-in-react-apps-443efd6f2e87
+
+
 ## how to make ajax requests?
 * [AJAX and APIs](https://reactjs.org/docs/faq-ajax.html)
 * [How to make AJAX requests in React? – Bartosz Szczeciński – Medium](https://medium.com/@baphemot/how-to-make-ajax-requests-in-react-a6a52bb5a8b1)
@@ -64,6 +72,10 @@ https://www.npmtrends.com/react-bs-datatable-vs-react-handsontable-vs-react-list
 ## collections of react ui components
 * [responsive-ui](https://www.npmjs.com/package/react-responsive-ui)
 * [material design](https://www.npmjs.com/package/react-md)
+
+
+### how to show in-app messages using material-ui
+https://medium.freecodecamp.org/how-to-show-informational-messages-using-material-ui-in-a-react-web-app-5b108178608
 
 
 ## state
