@@ -89,7 +89,7 @@ https://www.npmjs.com/package/radium
 https://github.com/react-tools/react-table/issues/206
 
 
-### how to identify most populate components
+### how to compare the popularity of components
 https://www.npmtrends.com/react-bs-datatable-vs-react-handsontable-vs-react-list-vs-react-table-vs-reactable
 
 
