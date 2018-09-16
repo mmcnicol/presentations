@@ -45,12 +45,20 @@ React is a JavaScript library for building user interfaces.
 
 ## individual react ui components
 * [table](https://www.npmjs.com/package/rc-table)
-* [reactable](https://www.npmjs.com/package/reactable)
+* [react-table](https://www.npmjs.com/package/react-table)
 * [datepicker](https://www.npmjs.com/package/rc-datepicker)
 * [menu](https://www.npmjs.com/package/rc-menu)
 * [dialog](https://www.npmjs.com/package/rc-dialog)
 * [notification](https://www.npmjs.com/package/rc-notification)
 * [toastify](https://www.npmjs.com/package/react-toastify)
+
+
+### react-table - How to link the whole row in the table?
+https://github.com/react-tools/react-table/issues/206
+
+
+### how to identify most populate components
+https://www.npmtrends.com/react-bs-datatable-vs-react-handsontable-vs-react-list-vs-react-table-vs-reactable
 
 
 ## collections of react ui components
@@ -69,6 +77,27 @@ React is a JavaScript library for building user interfaces.
 
 * [redux](https://redux.js.org/)
 
+
+## how to add inline style
+https://reactjs.org/docs/dom-elements.html  
+also see:  
+https://www.npmjs.com/package/radium
+
+
+## how to include 3rd party libraries
+
+### moment.js
+http://momentjs.com/docs/  
+https://www.npmjs.com/package/moment  
+https://github.com/react-tools/react-table/issues/515  
+
+npm install moment
+
+```
+import Moment from "moment";
+...
+Moment(d.date).local().format("DD/MM/YYYY")
+```
 
 
 ## links
