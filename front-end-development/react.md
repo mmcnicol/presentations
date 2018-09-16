@@ -15,12 +15,17 @@ React is a JavaScript library for building user interfaces.
   * react is just javaScript, there is a very small api to learn. 
   * react is a javascript library. it’s not a framework.
   * react only deals with the view layer
+* error messages at build time are helpful and concise (compared to java stacktraces)
 
 
 * [Why ReactJS is gaining so much popularity these days](https://medium.com/@thinkwik/why-reactjs-is-gaining-so-much-popularity-these-days-c3aa686ec0b3)
 * [Yes, React is taking over front-end development. The question is why.](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
 * [What Is ReactJS and Why Should We Use It?](https://www.c-sharpcorner.com/article/what-and-why-reactjs/)
 * [7 Reasons why you should use React](https://stories.jotform.com/7-reasons-why-you-should-use-react-ad420c634247)
+
+
+## ecosystem
+* [navigating the react ecosystem](https://www.toptal.com/react/navigating-the-react-ecosystem)
 
 
 ## testing
