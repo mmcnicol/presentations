@@ -37,14 +37,33 @@ React is a JavaScript library for building user interfaces.
 https://reactjs.org/blog/2017/07/26/error-handling-in-react-16.html  
 https://stackoverflow.com/questions/36897434/error-handling-in-react-best-practices
 
-## server-side vs client-side rendering
-https://hackernoon.com/server-side-vs-client-side-rendering-in-react-apps-443efd6f2e87
-
 
 ## how to make ajax requests?
 * [AJAX and APIs](https://reactjs.org/docs/faq-ajax.html)
 * [How to make AJAX requests in React? – Bartosz Szczeciński – Medium](https://medium.com/@baphemot/how-to-make-ajax-requests-in-react-a6a52bb5a8b1)
 * [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)
+
+
+## server-side vs client-side rendering
+https://hackernoon.com/server-side-vs-client-side-rendering-in-react-apps-443efd6f2e87
+
+
+## state
+* [Storing JSON data in React with setState](https://medium.com/@brettcelestre/storing-json-data-in-react-with-setstate-3b588b74dcce)
+
+
+### redux
+* provides a single store; a single source of truth
+* there is only one single object where you keep all the application data
+* any change on the store (data) will trigger a render for related components and the view is always kept in sync with data
+
+* [redux](https://redux.js.org/)
+
+
+## how to add inline style
+https://reactjs.org/docs/dom-elements.html  
+also see:  
+https://www.npmjs.com/package/radium
 
 
 ## components
@@ -87,22 +106,8 @@ https://www.npmtrends.com/react-bs-datatable-vs-react-handsontable-vs-react-list
 https://medium.freecodecamp.org/how-to-show-informational-messages-using-material-ui-in-a-react-web-app-5b108178608
 
 
-## state
-* [Storing JSON data in React with setState](https://medium.com/@brettcelestre/storing-json-data-in-react-with-setstate-3b588b74dcce)
-
-
-### redux
-* provides a single store; a single source of truth
-* there is only one single object where you keep all the application data
-* any change on the store (data) will trigger a render for related components and the view is always kept in sync with data
-
-* [redux](https://redux.js.org/)
-
-
-## how to add inline style
-https://reactjs.org/docs/dom-elements.html  
-also see:  
-https://www.npmjs.com/package/radium
+## forms
+* [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form)
 
 
 ## how to include 3rd party libraries
