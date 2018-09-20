@@ -34,8 +34,8 @@ React is a JavaScript library for building user interfaces.
 
 
 ## error handling
-https://reactjs.org/blog/2017/07/26/error-handling-in-react-16.html  
-https://stackoverflow.com/questions/36897434/error-handling-in-react-best-practices
+* [error handling in react 16](https://reactjs.org/blog/2017/07/26/error-handling-in-react-16.html)
+* [error handling in react best practices](https://stackoverflow.com/questions/36897434/error-handling-in-react-best-practices)
 
 
 ## how to make ajax requests?
@@ -64,7 +64,9 @@ https://stackoverflow.com/questions/36897434/error-handling-in-react-best-practi
 ## how to add inline style
 https://reactjs.org/docs/dom-elements.html  
 also see:  
-https://www.npmjs.com/package/radium
+* [radium](https://www.npmjs.com/package/radium)
+* [Getting started with CSS modules in React](https://blog.pusher.com/css-modules-react/)
+* [babel-plugin-react-css-modules](https://github.com/gajus/babel-plugin-react-css-modules)
 
 
 ## components
