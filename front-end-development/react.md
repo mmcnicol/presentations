@@ -45,7 +45,8 @@ https://stackoverflow.com/questions/36897434/error-handling-in-react-best-practi
 
 
 ## server-side vs client-side rendering
-https://hackernoon.com/server-side-vs-client-side-rendering-in-react-apps-443efd6f2e87
+* [server-side vs client-side rendering in React apps](https://hackernoon.com/server-side-vs-client-side-rendering-in-react-apps-443efd6f2e87)
+* [Demystifying server-side rendering in React](https://medium.freecodecamp.org/demystifying-reacts-server-side-render-de335d408fe4)
 
 
 ## state
