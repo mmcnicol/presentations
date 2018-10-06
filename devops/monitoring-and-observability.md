@@ -19,10 +19,24 @@ production is just the start.
 
 ## monitoring
 
+application performance management (APM) is the monitoring and management of performance and availability of software applications.
+
+expected level of service
+
+the translation of IT metrics into business meaning e.g. value.
+
 is about alterts. are things working within thresholds?
+
+agent-based vs agentless monitoring
+
+example tools:
+* [nagios](https://www.nagios.org/)
+* [app dynamics](https://www.appdynamics.com/)
 
 
 ## observability
+
+observability is a measure of how well internal states of a system can be inferred from knowledge of its external outputs.
 
 the 4 pillars of observability:
 * health checks
@@ -36,7 +50,7 @@ monitoring and resilience:
 * health checks
 * metrics (alerts)
 
-debugging and logging
+debugging and logging:
 * metrics (queries)
 * tracing
 * logs
@@ -117,11 +131,7 @@ example tools:
 
 
 ## links
-
-https://www.stubbornjava.com/posts/monitoring-your-java-services-with-dropwizard-health-checks
-
-http://metrics.dropwizard.io/4.0.0/
-Metrics is a Java library which gives you unparalleled insight into what your code does in production.
-
-https://www.nagios.org/
+* [How to Build Observable Distributed Systems](https://youtu.be/ACL_YVPD3gw)
+* [monitoring your java services with dropwizard health checks](https://www.stubbornjava.com/posts/monitoring-your-java-services-with-dropwizard-health-checks)
+* [metrics.dropwizard.io](http://metrics.dropwizard.io/4.0.0/) Metrics is a Java library which gives you unparalleled insight into what your code does in production.
 
