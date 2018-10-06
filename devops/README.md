@@ -52,7 +52,7 @@
 * microservices
 * configuration management
 * infrastructure as code
-* monitoring and Logging
+* [monitoring and observability](monitoring-and-observability.md)
 
 
 ## links
