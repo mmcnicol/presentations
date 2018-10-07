@@ -9,7 +9,7 @@ using tools with ability to ask questions. when something happens, can we ask qu
 
 should be:
 * cheap to instrument
-* easy to explore.
+* easy to explore
 * reliable and trustworthy
 
 don't spend all your time testing. use some for instrumenting.
@@ -87,7 +87,8 @@ hardware-level:
 
 application-level:
 * error rates
-* latency (response times)
+* latency
+* response times
 
 business-level:
 * number of purchases (e-commerce)
@@ -126,8 +127,11 @@ example tools:
 
 ability to see timeline chain of method/service calls and time taken
 
+request tracing.
+
 example tools:
 * [zipkin](https://zipkin.io/)
+* [jaeger](https://www.jaegertracing.io/)
 
 
 ## links
