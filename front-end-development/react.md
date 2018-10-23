@@ -40,6 +40,7 @@ React is a JavaScript library for building user interfaces.
 
 ## how to make ajax requests?
 * [AJAX and APIs](https://reactjs.org/docs/faq-ajax.html)
+* [axios react](https://alligator.io/react/axios-react/)
 * [How to make AJAX requests in React? – Bartosz Szczeciński – Medium](https://medium.com/@baphemot/how-to-make-ajax-requests-in-react-a6a52bb5a8b1)
 * [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)
 
