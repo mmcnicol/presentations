@@ -48,6 +48,44 @@ java -jar payara-micro-4.1.2.174.jar --deploy payara-micro-1/target/payara-micro
 ![web browser output](web-browser-output.png "web browser output")
 
 
+## microprofile projects
+
+
+### config
+* [microprofile-config](https://microprofile.io/project/eclipse/microprofile-config)
+* [JSR 382: Configuration](https://www.youtube.com/watch?v=EBbFcaUx2Sk)
+
+
+### metrics
+* [microprofile-metrics](https://microprofile.io/project/eclipse/microprofile-metrics)
+* [MicroProfile Metrics: Practical Use Cases](https://www.youtube.com/watch?v=eUiXJWDy_g0)
+
+
+### fault tolerance
+* [microprofile-fault-tolerance](https://microprofile.io/project/eclipse/microprofile-fault-tolerance)
+* [Preview: MicroProfile Fault Tolerance in Payara Micro](http://blog.payara.fish/preview-microprofile-fault-tolerance-in-payara-micro?utm_campaign=Payara%205%20Launch)
+
+
+### health
+* [microprofile-health](https://microprofile.io/project/eclipse/microprofile-health)
+
+
+### jwt auth
+* [microprofile-jwt-auth](https://microprofile.io/project/eclipse/microprofile-jwt-auth)
+
+
+### open api
+* [microprofile-open-api](https://microprofile.io/project/eclipse/microprofile-open-api)
+
+
+### open tracing
+* [microprofile-opentracing](https://microprofile.io/project/eclipse/microprofile-opentracing)
+
+
+### rest client
+* [microprofile-rest-client](https://microprofile.io/project/eclipse/microprofile-rest-client)
+
+
 ## links
 * [microprofile.io website](https://microprofile.io/)
 * [eclipse micro-profile project wiki](https://wiki.eclipse.org/MicroProfile)
@@ -55,11 +93,6 @@ java -jar payara-micro-4.1.2.174.jar --deploy payara-micro-1/target/payara-micro
 * [eclipse project proposal](https://projects.eclipse.org/proposals/eclipse-microprofile)
 * [source code on github](https://github.com/microprofile)
 * [payara micro website](https://www.payara.fish/payara_micro)
-
-[MicroProfile: Optimizing Java EE for a microservices architecture](https://www.youtube.com/watch?v=YGC2b8k2nfg&feature=youtu.be)
-
-[Preview: MicroProfile Fault Tolerance in Payara Micro](http://blog.payara.fish/preview-microprofile-fault-tolerance-in-payara-micro?utm_campaign=Payara%205%20Launch)
-
-[Microprofile - by Example : Ivar Grimstad](https://vimeo.com/233982410)
-
+* [MicroProfile: Optimizing Java EE for a microservices architecture](https://www.youtube.com/watch?v=YGC2b8k2nfg&feature=youtu.be)
+* [Microprofile - by Example : Ivar Grimstad](https://vimeo.com/233982410)
 
