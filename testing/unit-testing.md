@@ -21,7 +21,7 @@
   * if the test passes, the bug isn't what you think it is
 * use continuous integration (e.g. jenkins)
 
-## Testing Behavior vs. Testing Implementation
+## testing behavior vs. testing implementation
 * In most cases, tests should focus on testing your code's public API, and your code's implementation details shouldn't need to be exposed to tests.
 * Tests that are independent of implementation details are easier to maintain since they don't need to be changed each time you make a change to the implementation.
 
