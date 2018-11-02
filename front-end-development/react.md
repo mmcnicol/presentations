@@ -53,6 +53,7 @@ React is a JavaScript library for building user interfaces.
 
 ## state
 * [Storing JSON data in React with setState](https://medium.com/@brettcelestre/storing-json-data-in-react-with-setstate-3b588b74dcce)
+* [React State Museum - Gant Laborde](https://vimeo.com/298276409 )
 
 
 ### redux
