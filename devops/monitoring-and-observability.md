@@ -138,4 +138,4 @@ example tools:
 * [How to Build Observable Distributed Systems](https://youtu.be/ACL_YVPD3gw)
 * [monitoring your java services with dropwizard health checks](https://www.stubbornjava.com/posts/monitoring-your-java-services-with-dropwizard-health-checks)
 * [metrics.dropwizard.io](http://metrics.dropwizard.io/4.0.0/) Metrics is a Java library which gives you unparalleled insight into what your code does in production.
-
+* [We can do better than percentile latencies](https://medium.com/theburningmonk-com/we-can-do-better-than-percentile-latencies-2257d20c3b39)
