@@ -101,6 +101,18 @@ example tools:
 * [kibana](https://www.elastic.co/products/kibana)
 
 
+#### alerts
+
+An actionable alert is when:
+1. Something breaks
+2. A customer notices
+3. You're the best person to fix it
+4. You can fix it now
+If we have 4/4 then wake me up
+
+source: [a devopsdaysnz quote from Katrina Clokie](https://twitter.com/katrina_tester/status/1059195138621169664?s=03)
+
+
 ### logging
 
 aggregated, centralised.
