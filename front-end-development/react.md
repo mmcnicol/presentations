@@ -133,6 +133,10 @@ import Moment from "moment";
 Moment(d.date).local().format("DD/MM/YYYY")
 ```
 
+### Integrating React with Other Libraries
+* [Integrating with Other Libraries – React](https://reactjs.org/docs/integrating-with-other-libraries.html)
+
+
 ## security
 * [Exploiting Script Injection Flaws in ReactJS Apps](https://medium.com/dailyjs/exploiting-script-injection-flaws-in-reactjs-883fb1fe36c1)
 * [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0)
