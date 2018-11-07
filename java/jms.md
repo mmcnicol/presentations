@@ -139,6 +139,13 @@ public class HelloWorldJMSClient {
 http://activemq.apache.org/how-to-unit-test-jms-code.html
 
 
+## how to browse the messages in a queue
+
+https://timjansen.github.io/jarfiller/guide/jms/browsing.xhtml#browsing
+
+http://activemq.apache.org/getting-started.html#GettingStarted-MonitoringActiveMQ
+
+
 ## Why Use JMS?
 
 https://www.ibm.com/developerworks/library/j-jtp0205/index.html
