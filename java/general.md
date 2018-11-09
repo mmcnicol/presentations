@@ -39,3 +39,19 @@ https://github.com/afrunt/examples/tree/master/misc/jax-rs-analyzer
 
 * [CompletableFuture_- The_Promises_of_Java_-_Venkat_Subramaniam](https://vimeo.com/267930513)
 
+
+## override equals method (e.g. in a DTO)
+
+```
+@Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) 
+            return false;
+        ClassA that = (ClassA) o;
+        return Objects.equals(fieldA, that.fieldA) &&
+               Objects.equals(fieldB, that.fieldB);
+    }
+```
+
+
