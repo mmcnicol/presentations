@@ -11,7 +11,19 @@
 * optionally, can have business methods
 * one attribute must have the annotation @Id (@javax.persistence.Id)
 
+example:
+```
+@Temporal(TemporalType.DATE)
+private Date dateOfBirth;
+@Temporal(TemporalType.TIMESTAMP)
+private Date creationDate;
+```
 
+example:
+```
+@Transient
+private Integer age;
+```
 
 
 ## persistence context
@@ -93,24 +105,7 @@ public Parent getParentById(Long id) {
 ```
 
 
-### named query
-
-https://github.com/javaee-samples/javaee7-samples/blob/master/jpa/default-datasource/src/main/java/org/javaee7/jpa/defaultdatasource/EmployeeService.java
-
-
-### named stored procedure
-
-https://github.com/javaee-samples/javaee7-samples/blob/master/jpa/storedprocedure/src/main/java/org/javaee7/jpa/storedprocedure/Movie.java
-
-https://github.com/javaee-samples/javaee7-samples/blob/master/jpa/storedprocedure/src/main/java/org/javaee7/jpa/storedprocedure/MovieBean.java
-
-
-### native query
-
-https://github.com/javaee-samples/javaee7-samples/blob/master/jpa/native-sql-resultset-mapping/src/main/java/org/javaee7/jpa/nativesql/resultset/mapping/EmployeeBean.java
-
-
-### JPQL
+### query (JPQL)
 
 ```
 List<Customer> arr_cust = (List<Customer>)em.createQuery("SELECT c FROM Customer c")
@@ -135,10 +130,89 @@ If needed, set the maximum number of instances to retrieve and/or specify the po
 
 * [Querying JPA Entities with JPQL and Native SQL](https://www.oracle.com/technetwork/articles/vasiliev-jpql-087123.html)
 
-### criteria builder
+query (JPQL); named query
+
+https://github.com/javaee-samples/javaee7-samples/blob/master/jpa/default-datasource/src/main/java/org/javaee7/jpa/defaultdatasource/EmployeeService.java
+
+
+### query (criteria API, aka Object-Oriented Queries)
+
+new in JPA 2.0
+
+criteria builder
+
+example:
+```
+CriteriaBuilder builder = em.getCriteriaBuilder();
+CriteriaQuery<Customer> criteriaQuery = builder.createQuery(Customer.class);
+Root<Customer> c = criteriaQuery.from(Customer.class);
+criteriaQuery.select(c).where(builder.equal(c.get("firstName"), "Smith"));
+Query query = em.createQuery(criteriaQuery).getResultList();
+List<Customer> customers = query.getResultList();
+```
 
 https://github.com/javaee-samples/javaee7-samples/blob/master/jpa/criteria/src/main/java/org/javaee7/jpa/criteria/MovieBean.java
 
+
+### query (native query)
+
+The main reason to use JPA native queries rather than JDBC calls is because the result of the query will be automatically converted back to entities.
+
+example:
+```
+Query query = em.createNativeQuery("SELECT * FROM customer", Customer.class);
+List<Customer> customers = query.getResultList();
+```
+
+https://github.com/javaee-samples/javaee7-samples/blob/master/jpa/native-sql-resultset-mapping/src/main/java/org/javaee7/jpa/nativesql/resultset/mapping/EmployeeBean.java
+
+
+### query (stored procedures)
+
+https://github.com/javaee-samples/javaee7-samples/blob/master/jpa/storedprocedure/src/main/java/org/javaee7/jpa/storedprocedure/Movie.java
+
+https://github.com/javaee-samples/javaee7-samples/blob/master/jpa/storedprocedure/src/main/java/org/javaee7/jpa/storedprocedure/MovieBean.java
+
+
+## caching
+
+The entity manager is a first-level cache used to process data comprehensively for the database and to cache short-lived entities.
+
+all JPA implementations use a performance cache (a.k.a. a second-level cache) to optimize database access, queries, joins, and so on.
+
+example:
+```
+@Entity
+@Cacheable(true)
+public class Customer {
+...
+```
+
+If you decide to mark an entity as cacheable, you then need to inform the provider which caching mechanism to use. The way to do this with JPA is to set the shared-cache-mode attribute in the persistence.xml file.
+
+## versioning
+
+when you persist an entity for the first time in the database, it will get the version number 1. Later, if you update an attribute and commit this change to the database, the entity version will get the number 2, and so on.
+
+an entity can access the value of its version property but must not modify it.
+
+
+## callbacks
+
+Each life cycle has a "pre" and "post" event that can be intercepted by the entity manager to invoke a business method.
+
+@PrePersist  
+@PostPersist  
+@PreUpdate  
+@PostUpdate  
+@PreRemove  
+@PostRemove  
+@PostLoad  
+
+
+## listeners
+
+Entity listeners are used to extract the business logic to a separate class and share it between other entities. An entity listener is just a POJO on which you can define one or more life-cycle callback methods. To register a listener, the entity needs to use the @EntityListeners annotation.
 
 
 ## links
