@@ -18,8 +18,16 @@
 
 ### persistence unit
 
-persistence.xml
+the persistence unit is the bridge between the persistence context and the database.  
+it is defined ina file named "persistence.xml".  
+It does the following:
+* the <class> tag lists all the entities that could be managed in the persistence context
+* it also gives all the information to physically connect to the database (using properties)
+  * in an application-managed environment, transaction-type="RESOURCE_LOCAL"
+  * in a container-managed environment, the persistence.xml would define a data source instead of the database connection properties and set the transaction type to JTA, transaction-type="JTA"
 
+in JPA 2.1, some properties of the persistence.xml file have been standardized - they all start with javax.persistence such as "javax.persistence.jdbc.url"
+   
 https://github.com/javaee-samples/javaee7-samples/blob/master/jpa/native-sql-resultset-mapping/src/main/resources/META-INF/persistence.xml
 
 for a data source:  
