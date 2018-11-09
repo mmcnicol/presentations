@@ -206,6 +206,8 @@ https://developer.jboss.org/thread/155277
 
 ## links
 
+* [What's New in JMS 2.0, Part One: Ease of Use](https://www.oracle.com/technetwork/articles/java/jms20-1947669.html)
+* [What's New in JMS 2.0, Part Two—New Messaging Features](https://www.oracle.com/technetwork/articles/java/jms2messaging-1954190.html)
 * [JBOSS EAP 7.1; Developer Materials; helloworld-jms](https://developers.redhat.com/quickstarts/eap/helloworld-jms/)
 * [JBOSS EAP 7.1; Quickstarts; helloworld-jms; code on github](https://github.com/jboss-developer/jboss-eap-quickstarts/tree/7.1.0.GA/helloworld-jms)
 * [2011; JBOSS 7 AS; Setting up HornetQ JMS](https://www.techartifact.com/blogs/2012/10/jboss-as-7-setting-up-hornetq-jms.html)
