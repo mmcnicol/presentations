@@ -42,8 +42,9 @@ https://github.com/javaee-samples/javaee7-samples/blob/master/jpa/jndi-context/s
 ## entity manager
 
 The operations made to entities fall into four categories which correspond to the equivalent database operations:
+
 | jpa concept | database concept |
-|---|---|
+| --- | --- |
 | persisting | inserting |
 | updating | updating |
 | removing | deleting |
