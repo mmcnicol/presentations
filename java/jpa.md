@@ -25,6 +25,12 @@ example:
 private Integer age;
 ```
 
+example:
+```
+@Enumerated(EnumType.STRING)
+private Result result;
+```
+
 
 ## persistence context
 
