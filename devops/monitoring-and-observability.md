@@ -152,3 +152,4 @@ example tools:
 * [metrics.dropwizard.io](http://metrics.dropwizard.io/4.0.0/) Metrics is a Java library which gives you unparalleled insight into what your code does in production.
 * [We can do better than percentile latencies](https://medium.com/theburningmonk-com/we-can-do-better-than-percentile-latencies-2257d20c3b39)
 * [Observability-Driven Development (is the Future of DevOps) by Charity Majors](https://youtu.be/z2JoDjoZCM4)
+* [Observability pre-release: Using Prometheus to test and fix new software - GitHub Universe 2018](https://youtu.be/6gh9CcC_i5c)
