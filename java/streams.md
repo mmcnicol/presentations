@@ -63,3 +63,7 @@ repeatedly applies an operation (for example, adding two numbers) on each elemen
 * [OTN; Processing Data with Java SE 8 Streams, Part 1](https://www.oracle.com/technetwork/articles/java/ma14-java-se-8-streams-2177646.html)
 * [OTN; Part 2: Processing Data with Java SE 8 Streams](https://www.oracle.com/technetwork/articles/java/architect-streams-pt2-2227132.html)
 * [Sorting in java 8](https://www.leveluplunch.com/java/tutorials/007-sort-arraylist-stream-of-objects-in-java8/)
+* [Dynamic filtering using Java 8 streams](https://gist.github.com/stuart-marks/10076102)
+* [Lambda Multiple Filters example Java 8](https://gist.github.com/vulab/1e7ca7ce8bfa4ac445de)
+* [lambda - Java 8 Streams: multiple filters vs. complex condition](https://stackoverflow.com/questions/24054773/java-8-streams-multiple-filters-vs-complex-condition)
+
