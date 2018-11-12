@@ -66,4 +66,5 @@ repeatedly applies an operation (for example, adding two numbers) on each elemen
 * [Dynamic filtering using Java 8 streams](https://gist.github.com/stuart-marks/10076102)
 * [Lambda Multiple Filters example Java 8](https://gist.github.com/vulab/1e7ca7ce8bfa4ac445de)
 * [lambda - Java 8 Streams: multiple filters vs. complex condition](https://stackoverflow.com/questions/24054773/java-8-streams-multiple-filters-vs-complex-condition)
+* [Streams: The Real Powerhouse in Java 8 by Venkat Subramaniam](https://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/)
 
