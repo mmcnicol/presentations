@@ -226,4 +226,4 @@ Entity listeners are used to extract the business logic to a separate class and 
 * [difference between jpa hibernate eclipselink](https://www.thoughts-on-java.org/difference-jpa-hibernate-eclipselink/)
 * [A beginner’s guide to flush strategies in JPA and Hibernate](https://vladmihalcea.com/a-beginners-guide-to-jpahibernate-flush-strategies/)
 * [Query pagination with JPA and Hibernate](https://vladmihalcea.com/query-pagination-jpa-hibernate/#more-10933)
-
+* [What's new in JPA 2.2 - Stream the result of a Query execution - Vlad Mihalcea](https://vladmihalcea.com/whats-new-in-jpa-2-2-stream-the-result-of-a-query-execution/)
