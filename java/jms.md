@@ -230,4 +230,4 @@ https://developer.jboss.org/thread/155277
 * [Running an ActiveMQ Broker with Maven](https://www.ivankrizsan.se/2016/02/22/running-an-activemq-broker-with-maven/)
 * [O'REILLY Learning Path: Enterprise Messaging Techniques](https://player.oreilly.com/videos/9781491964958)
 * [AWS Public Sector Summit 2018 - Washington, D.C.; Breaking Down the "Monowhat"](https://youtu.be/xwXmeQ-1r5E) // 2nd half of the talk is about domain events
-
+* [How to configure JMS in JBoss EAP 7](https://stackoverflow.com/questions/40015829/how-to-configure-jms-in-jboss-eap-7​)
