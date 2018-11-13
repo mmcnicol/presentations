@@ -39,3 +39,4 @@ https://www.elastic.co/products/elasticsearch
 https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html
 
 * [How to Build an E-commerce Search UI with React and Elasticsearch](https://codeburst.io/how-to-build-an-e-commerce-search-ui-with-react-and-elasticsearch-a581c823b2c3)
+* [Search Your DynamoDB Data with Amazon Elasticsearch Service - AWS Online Tech Talks](https://youtu.be/WXmghnE1_vU)
