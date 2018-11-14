@@ -118,6 +118,10 @@ https://medium.freecodecamp.org/how-to-show-informational-messages-using-materia
 * [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form)
 
 
+## efficiently render large lists and tabular data
+* [react-virtualized](https://github.com/bvaughn/react-virtualized)
+
+
 ## how to include 3rd party libraries
 
 ### moment.js
