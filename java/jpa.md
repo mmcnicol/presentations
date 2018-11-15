@@ -221,6 +221,13 @@ Each life cycle has a "pre" and "post" event that can be intercepted by the enti
 Entity listeners are used to extract the business logic to a separate class and share it between other entities. An entity listener is just a POJO on which you can define one or more life-cycle callback methods. To register a listener, the entity needs to use the @EntityListeners annotation.
 
 
+## attribute converters
+
+A Converter must implement the javax.persistence.AttributeConverter interface.
+* [How to persist LocalDate and LocalDateTime with JPA](https://youtu.be/vnTUJFQCLfs)
+* [How to implement a Converter?](https://www.thoughts-on-java.org/jpa-21-how-to-implement-type-converter/)
+
+
 ## links
 * [java ee 7 jpa samples](https://github.com/javaee-samples/javaee7-samples/tree/master/jpa)
 * [difference between jpa hibernate eclipselink](https://www.thoughts-on-java.org/difference-jpa-hibernate-eclipselink/)
