@@ -233,6 +233,11 @@ A Converter must implement the javax.persistence.AttributeConverter interface.
 * [The best way to soft delete with Hibernate](https://vladmihalcea.com/the-best-way-to-soft-delete-with-hibernate/)
 
 
+## java 8 date time support
+* [What’s new in JPA 2.2 – Java 8 Date and Time Types](https://vladmihalcea.com/whats-new-in-jpa-2-2-java-8-date-and-time-types/)
+* [How to map java.time.Year and java.time.Month with JPA and Hibernate](https://vladmihalcea.com/java-time-year-month-jpa-hibernate/)
+
+
 ## links
 * [java ee 7 jpa samples](https://github.com/javaee-samples/javaee7-samples/tree/master/jpa)
 * [difference between jpa hibernate eclipselink](https://www.thoughts-on-java.org/difference-jpa-hibernate-eclipselink/)
