@@ -228,6 +228,11 @@ A Converter must implement the javax.persistence.AttributeConverter interface.
 * [How to implement a Converter?](https://www.thoughts-on-java.org/jpa-21-how-to-implement-type-converter/)
 
 
+## how to implement soft/logical delete
+* [How to implement a soft delete with Hibernate](https://youtu.be/2Ttsh8JUH5g)
+* [The best way to soft delete with Hibernate](https://vladmihalcea.com/the-best-way-to-soft-delete-with-hibernate/)
+
+
 ## links
 * [java ee 7 jpa samples](https://github.com/javaee-samples/javaee7-samples/tree/master/jpa)
 * [difference between jpa hibernate eclipselink](https://www.thoughts-on-java.org/difference-jpa-hibernate-eclipselink/)
