@@ -46,7 +46,8 @@ https://github.com/18f/api-standards
 -- general  
 https://www.recallact.com/  
 http://continuousdelivery.com/  
-https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413685/Digital_and_technology_skills_matrix.xlsx
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413685/Digital_and_technology_skills_matrix.xlsx  
+https://developers.redhat.com/blog/​
 
 
 ## github
