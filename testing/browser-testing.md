@@ -1,12 +1,12 @@
 # browser testing
 
-Selenium
+## Selenium
 
 
-Cypress
+## Cypress
 * [Test-Driven Development in React with Cypress - Josh Justice](https://vimeo.com/298277470)
 * [Testing React Components using Storybook and Cypress](https://medium.com/@mtiller/testing-react-components-using-storybook-and-cypress-1689a27f55aa)
 
 
-##links
+## links
 * [Cypress vs Selenium WebDriver: Better, or just different?](https://applitools.com/blog/cypress-vs-selenium-webdriver-better-or-just-different)
