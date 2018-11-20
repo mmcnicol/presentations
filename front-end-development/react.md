@@ -148,4 +148,4 @@ Moment(d.date).local().format("DD/MM/YYYY")
 
 ## links
 * [reactjs website](https://reactjs.org/)
-
+* [react howto](https://github.com/petehunt/react-howto)
