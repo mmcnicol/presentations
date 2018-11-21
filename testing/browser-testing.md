@@ -4,8 +4,10 @@
 
 
 ## cypress.io
-* Electron is the default browser
-* many browsers such as Firefox, Safari, and Internet Explorer are not currently supported
+* Electron is the default browser.
+* many browsers such as Firefox, Safari, and Internet Explorer are not currently supported.
+* cypress supports both BDD (expect/should) and TDD (assert) style assertions.
+* when running in interactive mode using "cypress open", cypress watches the filesystem for changes to your spec files. soon after adding or updating a test cypress will reload it and run all of the tests in that spec file.
 
 ```javascript
 describe('...', function () {
