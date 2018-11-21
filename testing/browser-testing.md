@@ -1,9 +1,11 @@
 # browser testing
 
-## Selenium
+## selenium
 
 
-## Cypress
+## cypress.io
+* Electron is the default browser
+* [cypress.io website](https://www.cypress.io/)
 * [Test-Driven Development in React with Cypress - Josh Justice](https://vimeo.com/298277470)
 * [Testing React Components using Storybook and Cypress](https://medium.com/@mtiller/testing-react-components-using-storybook-and-cypress-1689a27f55aa)
 
