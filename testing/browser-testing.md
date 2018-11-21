@@ -28,6 +28,7 @@ describe('...', function () {
 * [core concepts; cypress is simple](https://docs.cypress.io/guides/core-concepts/introduction-to-cypress.html#Cypress-Is-Simple)
 * [core concepts; dynamically generate tests](https://docs.cypress.io/guides/core-concepts/writing-and-organizing-tests.html#Dynamically-Generate-Tests)
 * [core concepts; when elements are missing](https://docs.cypress.io/guides/core-concepts/introduction-to-cypress.html#When-Elements-Are-Missing)
+* [core concepts; custom environment variables](https://docs.cypress.io/guides/guides/continuous-integration.html#Custom-Environment-Variables)
 * [Test-Driven Development in React with Cypress - Josh Justice](https://vimeo.com/298277470)
 * [Testing React Components using Storybook and Cypress](https://medium.com/@mtiller/testing-react-components-using-storybook-and-cypress-1689a27f55aa)
 
