@@ -29,3 +29,9 @@ describe('...', function () {
 * [Test-Driven Development in React with Cypress - Josh Justice](https://vimeo.com/298277470)
 * [Testing React Components using Storybook and Cypress](https://medium.com/@mtiller/testing-react-components-using-storybook-and-cypress-1689a27f55aa)
 * [Cypress vs Selenium WebDriver: Better, or just different?](https://applitools.com/blog/cypress-vs-selenium-webdriver-better-or-just-different)
+* [cypress io vs selenium test automation](https://www.joecolantonio.com/cypress-io-vs-selenium-test-automation/)
+* [getting started with cypress io](https://gorrion.io/blog/getting-started-with-cypress-io/)
+* [testing react apps with cypress](https://blog.bitsrc.io/testing-react-apps-with-cypress-658bc482678)
+* [testing react app with cypress](https://blog.callstack.io/testing-react-app-with-cypress-246a7732ee63)
+
+
