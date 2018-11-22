@@ -24,4 +24,4 @@ There are two ways to mock functions: Either by creating a mock function to use 
 
 ## links
 * [jest website](https://jestjs.io/en/)
-
+* [separating unit and integration tests in jest](https://medium.com/coding-stones/separating-unit-and-integration-tests-in-jest-f6dd301f399c​)
