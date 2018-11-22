@@ -28,6 +28,10 @@ React is a JavaScript library for building user interfaces.
 * [navigating the react ecosystem](https://www.toptal.com/react/navigating-the-react-ecosystem)
 
 
+## starter kits
+* [starter kits](https://reactjs.org/community/starter-kits.html)
+
+
 ## testing
 * [Introducing the react-testing-library](https://blog.kentcdodds.com/introducing-the-react-testing-library-e3a274307e65)
 * [How to build sturdy React apps with TDD and the React Testing Library](https://medium.freecodecamp.org/how-to-build-sturdy-react-apps-with-tdd-and-the-react-testing-library-47ad3c5c8e47)
