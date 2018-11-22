@@ -32,6 +32,7 @@ React is a JavaScript library for building user interfaces.
 * [Introducing the react-testing-library](https://blog.kentcdodds.com/introducing-the-react-testing-library-e3a274307e65)
 * [How to build sturdy React apps with TDD and the React Testing Library](https://medium.freecodecamp.org/how-to-build-sturdy-react-apps-with-tdd-and-the-react-testing-library-47ad3c5c8e47)
 * [Test-Driven Development in React with Cypress - Josh Justice](https://vimeo.com/298277470)
+* [how we landed on jest snapshot testing for javascript](https://blog.grommet.io/post/2016/09/01/how-we-landed-on-jest-snapshot-testing-for-javascript)
 
 
 ## error handling
