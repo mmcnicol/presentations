@@ -17,7 +17,10 @@
 * [Are you over-testing your software?](https://www.javaworld.com/article/2945040/testing-debugging/are-you-over-testing-your-software.html)
 * [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 * [Eradicating Non-Determinism in Tests](https://martinfowler.com/articles/nonDeterminism.html)
+* [the challenges of testing in a non-deterministic world](https://insights.sei.cmu.edu/sei_blog/2017/01/the-challenges-of-testing-in-a-non-deterministic-world.html)
 * [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
-* [InMemoryTestDatabase](https://martinfowler.com/bliki/InMemoryTestDatabase.html)
-
+* [whats the difference between faking mocking and stubbing](https://stackoverflow.com/questions/346372/whats-the-difference-between-faking-mocking-and-stubbing)
+* [In Memory Test Database](https://martinfowler.com/bliki/InMemoryTestDatabase.html)
+* [state of the art testability; by Chad Parry](http://docs.google.com/present/view?id=dg4jbg5c_7cwkvrhfq)
+* [design for testability](https://www.slideshare.net/gasproni/design-for-testability-57456302)
 
