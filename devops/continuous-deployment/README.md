@@ -27,3 +27,4 @@ Patterns such as feature toggles can be very useful for committing code early wh
 * [Continuous Delivery In Agile - Jez Humble](https://vimeo.com/229954108)
 * [How to move from CI to CD with Jenkins](https://jaxenter.com/how-to-move-from-ci-to-cd-with-jenkins-workflow-128135.html)
 * [Continuous Delivery with Docker and Kubernetes](https://youtu.be/xAziflV3ah4)
+* [Acceptance Testing for Continuous Delivery - Dave Farley](https://youtu.be/SBhgteA2szg)
