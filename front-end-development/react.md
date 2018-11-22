@@ -139,6 +139,12 @@ Moment(d.date).local().format("DD/MM/YYYY")
 
 ### Integrating React with Other Libraries
 * [Integrating with Other Libraries – React](https://reactjs.org/docs/integrating-with-other-libraries.html)
+* [add react to a website](https://reactjs.org/docs/add-react-to-a-website.html)
+* [integrate reactjs into jquery webapps](https://winterbe.com/posts/2015/08/24/integrate-reactjs-into-jquery-webapps/)
+* [how to sprinkle reactjs into an existing web application](https://scotch.io/tutorials/how-to-sprinkle-reactjs-into-an-existing-web-application)
+* [Bring React to an existing app](https://youtu.be/8zmmYxyc9Uc)
+* [react without jsx](https://reactjs.org/docs/react-without-jsx.html)
+* [react without npm babel or webpack](https://medium.com/@chrislewisdev/react-without-npm-babel-or-webpack-1e9a6049714)
 
 
 ## security
