@@ -9,8 +9,8 @@ Git is a free and open source distributed version control system.
 * Feature Branch Workflow
   * One of the biggest advantages of Git is its branching capabilities. Unlike centralized version control systems, Git branches are cheap and easy to merge. This facilitates the feature branch workflow popular with many Git users.
   * The feature branch workflow also provides flexibility when priorities change. For instance, if you’re halfway through a release cycle and you want to postpone one feature in lieu of another time-critical one, it’s no problem. That initial feature can sit around in its own branch until engineering has time to come back to it.
-  * ability to do commits on a feature branch before a change it complete. It doesn't matter because other peoples won't see them until you publish.
-* pull requests
+  * ability to do commits on a feature branch before a change is complete. Because of this you can commit more often. It doesn't matter because other people won't see them until you publish.
+* Collaboration Before Public Commits
   * Many source code management tools enhance core Git functionality with pull requests, which let developers initiate discussions around their work before integrating it with the rest of the codebase.
 * Staging Area
   * One thing that sets Git apart from other tools is that it's possible to quickly stage some of your files and commit them without committing all of the files you have modified.
@@ -41,7 +41,7 @@ Git is a free and open source distributed version control system.
 * ability to save a change with a note about what was changed and why, who made the change and when.
   * operation / data centre - scripts, configuration, documentation, on call manual, procedures.
   * business analysts - business requirements documentation.
-  * testers - manual and automation test documentation.
+  * testers - manual test documentation and test automation code.
   * service desk - FAQs and call workflow.
 
 ## clients
