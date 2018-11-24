@@ -31,6 +31,142 @@ example:
 private Result result;
 ```
 
+## entity relationships
+
+There is a mappedBy element on the @OneToOne, @OneToMany, and @ManyToMany annotations, but not on the @ManyToOne annotation.
+
+
+### @OneToOne Unidirectional
+
+```java
+@Entity
+public class Parent {
+  @Id
+  private Long id;
+  private Child child;
+}
+
+@Entity
+public class Child {
+  @Id
+  private Long id;
+}
+```
+
+```sql
+create table PARENT (
+ ID BIGINT not null,
+ CHILD_ID BIGINT,
+ primary key (ID),
+ foreign key (CHILD_ID) references CHILD(ID)
+ );
+
+create table CHILD (
+ ID BIGINT not null,
+ primary key (ID)
+ );
+```
+
+with JPA, if you do not annotate an attribute, the default mapping rules are applied. So, by default,
+the name of the foreign key column is CHILD_ID. Also notice that, in the DDL, the CHILD_ID column is nullable by
+default, meaning that, by default, a one-to-one association is mapped to a zero (null value) or one.
+
+To customize the mapping, you can use two annotations. The first one is @OneToOne (that’s because the
+cardinality of the relation is one), and it can modify some attributes of the association itself such as the way it has to be
+fetched.
+
+The other is @JoinColumn. It is used to customize the join column (foreign key column), meaning the foreign key, of the owning side.
+
+```java
+@Entity
+public class Parent {
+  @Id
+  private Long id;
+  @OneToOne // could add (fwtch = FetchType.LAZY)
+  @JoinColumn(name="child_fk", nullable = false) // foreign key renamed
+  private Child child;
+}
+```
+
+### @OneToMany Unidirectional
+
+```java
+@Entity
+public class Parent {
+  @Id
+  private Long id;
+  private List<Child> children;
+}
+
+@Entity
+public class Child {
+  @Id
+  private Long id;
+}
+```
+By default, one-to-many unidirectional relationships use a join table to keep the
+relationship information, with two foreign key columns.
+
+If you don’t like the join table and foreign key names, or if you are mapping to an existing table, you can use JPA
+annotations to redefine these default values.
+
+```java
+@Entity
+public class Parent {
+  @Id
+  private Long id;
+  @OneToMany
+  @JoinTable(name = "parent_child_join",
+    joinColumns = @JoinColumn(name = "parent_fk"),
+    inverseJoinColumns = @JoinColumn(name = "child_fk")
+  private List<Child> children;
+}
+```
+
+```sql
+create table PARENT_CHILD_JOIN (
+  PARENT_FK BIGINT not null,
+  CHILD_FK BIGINT not null,
+  primary key (PARENT_FK, CHILD_FK),
+  foreign key (CHILD_FK) references CHILD(ID),
+  foreign key (PARENT_FK) references PARENT(ID)
+);
+```
+
+The default rule for a one-to-many unidirectional relationship is to use a join table, but it is very easy (and useful
+for legacy databases) to change to using foreign keys. The Order entity has to provide a @JoinColumn annotation
+instead of a @JoinTable.
+
+```java
+@Entity
+public class Parent {
+  @Id
+  private Long id;
+  @OneToMany(fetch = FetchType.EAGER)
+  @JoinColumn(name = "parent_fk")
+  private List<Child> children;
+}
+```
+The foreign key is renamed to PARENT_FK by the annotation and exists in the target table (CHILD).
+
+@ManyToMany Bidirectional
+
+In the Java world, each entity will have a collection of target entities. In the relational world, the only way to map a
+many-to-many relationship is to use a join table.
+
+
+## ordering relationships
+
+With one-to-many or many-to-many relationships, your entities deal with collections of objects. On the Java side, these
+collections are usually unordered. Neither do relational databases preserve any order in their tables. Therefore, if you
+want an ordered list, it is necessary to either sort your collection programmatically or use a JPQL query with an Order
+By clause. JPA has easier mechanisms, based on annotations that can help in ordering relationships.
+
+### @OrderBy
+
+### @OrderColumn
+
+
 
 ## persistence context
 
