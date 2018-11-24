@@ -127,6 +127,11 @@ https://medium.freecodecamp.org/how-to-show-informational-messages-using-materia
 * [react-virtualized](https://github.com/bvaughn/react-virtualized)
 
 
+## react-canvas
+* [react-canvas](https://github.com/Flipboard/react-canvas)
+* [60 FPS on the mobile-web](https://engineering.flipboard.com/2015/02/mobile-web)
+
+
 ## how to include 3rd party libraries
 
 ### moment.js
