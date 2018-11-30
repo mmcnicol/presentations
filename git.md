@@ -12,6 +12,9 @@ $ git branch
 ```
 * list local branches - the current branch will be highlighted with an asterisk
 
+
+be careful - if renaming a branch when it also exists remotely
+
 ```
 $ git branch -m <new-branch-name>
 ```
@@ -49,7 +52,32 @@ $ git merge <branch-name>
 
 ### git log
 
+```
 git log
+```
+* show a list of all commits/revisions for the current local branch
+
+```
+ git log --pretty=oneline
+```
+* the oneline option prints each commit on a single line, which is useful if you’re looking at a lot of commits
+
+#### limiting Log Output
+
+```
+ git log -2
+```
+* show a list of the last 2 commits/revisions for the current local branch
+
+```
+ git log --since=2.weeks
+```
+* show a list of the any commits/revisions for the current local branch in the last 2 weeks
+
+tips
+* you can specify a specific date like "2018-01-01"
+* the --author option allows you to filter on a specific author
+* to prevent the display of merge commits cluttering up your log history, simply add the log option --no-merges
 
 #### searching the logs
 
