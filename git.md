@@ -71,7 +71,7 @@ $ git branch -d <branch-name>
 
 delete a remote branch-name
 ```
-git push origin --delete <branch-name>
+$ git push origin --delete <branch-name>
 ```
 
 
@@ -88,24 +88,24 @@ $ git push --tags
 
 show a list of all commits/revisions for the current local branch
 ```
-git log
+$ git log
 ```
 
 the oneline option prints each commit on a single line, which is useful if you’re looking at a lot of commits
 ```
- git log --pretty=oneline
+$ git log --pretty=oneline
 ```
 
 #### limiting Log Output
 
 show a list of the last 2 commits/revisions for the current local branch
 ```
- git log -2
+$ git log -2
 ```
 
 show a list of the any commits/revisions for the current local branch in the last 2 weeks
 ```
- git log --since=2.weeks
+$ git log --since=2.weeks
 ```
 
 more tips:
