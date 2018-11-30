@@ -75,6 +75,15 @@ git push origin --delete <branch-name>
 ```
 
 
+### create a tag
+
+create a tag on current branch - before doing this you should have saved any local change (commit & push).
+```
+$ git tag -a 1.1 -m "my commit message"
+$ git push --tags
+```
+
+
 ### list branch commits/revisions
 
 show a list of all commits/revisions for the current local branch
