@@ -5,6 +5,48 @@ Git is a free and open source distributed version control system.
 
 ## some command-line examples
 
+### git branch
+
+```
+$ git branch
+```
+* list local branches - the current branch will be highlighted with an asterisk
+
+```
+$ git branch -m <new-branch-name>
+```
+* rename the current local branch
+
+```
+$ git branch -m <old-branch-name> <new-branch-name>
+```
+* rename a local branch - if you are on a different branch
+
+
+### git checkout
+
+be careful - check if you have modified any files in the current branch before doing a checkout
+
+```
+$ git checkout -b <new-branch-name>
+```
+* generate and switch to new local branch-name
+
+```
+$ git checkout <branch-name>
+```
+* switch to another local branch-name or tag-name
+
+
+### git merge
+
+```
+$ git status # just to confirm that you are on branch master
+$ git merge <branch-name>
+```
+* merge a local branch-name into the branch master
+
+
 ### git log
 
 git log
@@ -12,17 +54,17 @@ git log
 #### searching the logs
 
 ```
-git log -p <path-to-file>
+$ git log -p <path-to-file>
 ```
 * show list of every revision/change/commit to that file
 
 ```
-git log -L <start-line>,<end-line>:<path-to-file>
+$ git log -L <start-line>,<end-line>:<path-to-file>
 ```
 * show list of every revision/change/commit to that file, within the specified range of line numbers
 
 ```
-git log -S '<string-to-search-for>'
+$ git log -S '<string-to-search-for>'
 ```
 * the git log command accepts the -S option, which looks for the code change (additions or deletions) for the specified string as an argument to the command.
 * git actually parses all of the revisions in the repo to match the string
