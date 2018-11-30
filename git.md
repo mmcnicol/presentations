@@ -55,4 +55,5 @@ Git is a free and open source distributed version control system.
 * [why git](https://www.atlassian.com/git/tutorials/why-git)
 * [From Collaborative Coding To Wedding Invitations: Github Is Going Mainstream](https://www.wired.com/2013/09/github-for-anything/)
 * [2007 Tech Talk: Linus Torvalds on git](http://www.youtube.com/watch?v=4XpnKHJAok8)
-
+* [Git for Humans Speakerdeck by Alice Bartlett](https://speakerdeck.com/alicebartlett/git-for-humans)
+* [Git for Humans Gist by Lucio Martinez](https://gist.github.com/luciomartinez/11277737)
