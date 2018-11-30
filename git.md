@@ -5,97 +5,121 @@ Git is a free and open source distributed version control system.
 
 ## some command-line examples
 
-### git branch
 
+### list branches
+
+list local branches - the current branch will be highlighted with an asterisk
 ```
 $ git branch
 ```
-* list local branches - the current branch will be highlighted with an asterisk
 
 
-be careful - if renaming a branch when it also exists remotely
+### rename a branch
 
+rename the current local branch
 ```
 $ git branch -m <new-branch-name>
 ```
-* rename the current local branch
 
+rename a local branch - if you are on a different branch
 ```
 $ git branch -m <old-branch-name> <new-branch-name>
 ```
-* rename a local branch - if you are on a different branch
 
+if you have renamed a branch which also exists remotely...
+```
+$ git push origin :old-name new-name # delete the old-name remote branch and push the new-name local branch
 
-### git checkout
+$ git branch new-name # switch to the branch
+$ git push origin -u new-name # reset the upstream branch for the new-name local branch
+
+```
+
+### switch branch
 
 be careful - check if you have modified any files in the current branch before doing a checkout
 
-```
-$ git checkout -b <new-branch-name>
-```
-* generate and switch to new local branch-name
-
+switch to another local branch-name or tag-name
 ```
 $ git checkout <branch-name>
 ```
-* switch to another local branch-name or tag-name
 
 
-### git merge
+### create a branch
 
+generate and switch to new local branch-name
+```
+$ git checkout -b <new-branch-name>
+```
+
+
+### merge a branch
+
+merge a local branch-name into the branch master
 ```
 $ git status # just to confirm that you are on branch master
 $ git merge <branch-name>
 ```
-* merge a local branch-name into the branch master
 
 
-### git log
+### delete a branch
 
+delete a local branch-name
+```
+$ git branch -d <branch-name>
+```
+
+delete a remote branch-name
+```
+git push origin --delete <branch-name>
+```
+
+
+### list branch commits/revisions
+
+show a list of all commits/revisions for the current local branch
 ```
 git log
 ```
-* show a list of all commits/revisions for the current local branch
 
+the oneline option prints each commit on a single line, which is useful if you’re looking at a lot of commits
 ```
  git log --pretty=oneline
 ```
-* the oneline option prints each commit on a single line, which is useful if you’re looking at a lot of commits
 
 #### limiting Log Output
 
+show a list of the last 2 commits/revisions for the current local branch
 ```
  git log -2
 ```
-* show a list of the last 2 commits/revisions for the current local branch
 
+show a list of the any commits/revisions for the current local branch in the last 2 weeks
 ```
  git log --since=2.weeks
 ```
-* show a list of the any commits/revisions for the current local branch in the last 2 weeks
 
-tips
+more tips:
 * you can specify a specific date like "2018-01-01"
 * the --author option allows you to filter on a specific author
 * to prevent the display of merge commits cluttering up your log history, simply add the log option --no-merges
 
 #### searching the logs
 
+show list of every revision/change/commit to that file
 ```
 $ git log -p <path-to-file>
 ```
-* show list of every revision/change/commit to that file
 
+show list of every revision/change/commit to that file, within the specified range of line numbers
 ```
 $ git log -L <start-line>,<end-line>:<path-to-file>
 ```
-* show list of every revision/change/commit to that file, within the specified range of line numbers
 
+the git log command accepts the -S option, which looks for the code change (additions or deletions) for the specified string as an argument to the command - git actually parses all of the revisions in the repo to match the string
 ```
 $ git log -S '<string-to-search-for>'
 ```
-* the git log command accepts the -S option, which looks for the code change (additions or deletions) for the specified string as an argument to the command.
-* git actually parses all of the revisions in the repo to match the string
 
 
 ## reasons to use git
