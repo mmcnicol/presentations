@@ -3,6 +3,25 @@
 
 Git is a free and open source distributed version control system.
 
+## commands
+
+### git log
+
+git log
+
+#### searching the logs
+
+git log -p <path-to-file>
+* show list of every revision/change/commit to that file
+
+git log -L <start-line>,<end-line>:<path-to-file>
+* show list of every revision/change/commit to that file, within the specified range of line numbers
+
+git log -S '<string-to-search-for>'
+* the git log command accepts the -S option, which looks for the code change (additions or deletions) for the specified string as an argument to the command.
+* git actually parses all of the revisions in the repo to match the string
+
+
 ## reasons to use git
 
 ### for developers
