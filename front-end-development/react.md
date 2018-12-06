@@ -67,6 +67,13 @@ React is a JavaScript library for building user interfaces.
 * any change on the store (data) will trigger a render for related components and the view is always kept in sync with data
 
 * [redux](https://redux.js.org/)
+* [redux-practical-tutorial](https://auth0.com/blog/redux-practical-tutorial/)
+* [redux-i18n](https://github.com/APSL/redux-i18n)
+* [redux-form](https://github.com/erikras/redux-form)
+* [A practical guide to Redux Form - Erik Rasmussen](https://www.youtube.com/watch?v=ey7H8h4ERHg)
+* [redux-auth](https://github.com/lynndylanhurley/redux-auth)
+* [react-redux-oauth2](https://github.com/garbin/react-redux-oauth2)
+
 
 
 ## how to add inline style
@@ -86,6 +93,13 @@ also see:
 * [react lifecycle methods diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 
 
+
+## how to find published components and libraries
+* [npmjs.com](https://www.npmjs.com/)
+* [js.coach](https://js.coach/?collection=React)
+* [reactjsexample.com](https://reactjsexample.com/)
+
+
 ## individual react ui components
 * [table](https://www.npmjs.com/package/rc-table)
 * [react-table](https://www.npmjs.com/package/react-table)
@@ -94,7 +108,28 @@ also see:
 * [dialog](https://www.npmjs.com/package/rc-dialog)
 * [notification](https://www.npmjs.com/package/rc-notification)
 * [toastify](https://www.npmjs.com/package/react-toastify)
+* [react-authmanager](https://github.com/pierrecabriere/react-authmanager)
+* [react-filter-box](https://github.com/nhabuiduc/react-filter-box)
+* [react-moment](https://github.com/headzoo/react-moment)
+* [react-date-picker](https://github.com/wojtekmaj/react-date-picker)
+* [react-permissible](https://brainhubeu.github.io/react-permissible/)
+* [react-loading-overlay](https://github.com/derrickpelletier/react-loading-overlay)
+* [react-collapsible)](https://github.com/glennflanagan/react-collapsible)
+* [react-confirm-alert)](https://github.com/GA-MO/react-confirm-alert)
+* [react-time-ago](https://github.com/catamphetamine/react-time-ago)
+* [react-calendar-heatmap](https://github.com/patientslikeme/react-calendar-heatmap)
+* [react-waypoint](https://github.com/brigade/react-waypoint)
+* [react-clipboard.js](https://github.com/nihey/react-clipboard.js)
+* [react-portal-tooltip](https://github.com/romainberger/react-portal-tooltip)
+* [react-web-resize](https://github.com/helm168/react-web-resize)
+* [react-keybinding-component](https://github.com/martpie/react-keybinding-component)
+* [react-if](https://github.com/romac/react-if)
+* [react-progressive-image](https://github.com/FormidableLabs/react-progressive-image)
+* [react-lazy](https://github.com/jonathanobino/react-lazy)
 
+### idle timer
+* [react-idle-timer](https://github.com/supremetechnopriest/react-idle-timer)
+* [react-idle-manager](https://github.com/planttheidea/react-idle-manager)
 
 ### react-table - How to link the whole row in the table?
 https://github.com/react-tools/react-table/issues/206
@@ -121,6 +156,7 @@ https://medium.freecodecamp.org/how-to-show-informational-messages-using-materia
 ## forms
 * [jsonforms.io](https://jsonforms.io/)
 * [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form)
+* [react-validify](https://www.npmjs.com/package/react-validify)
 
 
 ## efficiently render large lists and tabular data
@@ -160,6 +196,12 @@ Moment(d.date).local().format("DD/MM/YYYY")
 ## security
 * [Exploiting Script Injection Flaws in ReactJS Apps](https://medium.com/dailyjs/exploiting-script-injection-flaws-in-reactjs-883fb1fe36c1)
 * [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0)
+
+
+## other
+* [storybook](https://github.com/storybooks/storybook)
+* [storybook.js.org](https://storybook.js.org/)
+* [gatsby](https://github.com/gatsbyjs/gatsby)
 
 
 ## links
