@@ -154,6 +154,7 @@ https://medium.freecodecamp.org/how-to-show-informational-messages-using-materia
 
 
 ## forms
+* [formik](https://jaredpalmer.com/formik)
 * [jsonforms.io](https://jsonforms.io/)
 * [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form)
 * [react-validify](https://www.npmjs.com/package/react-validify)
