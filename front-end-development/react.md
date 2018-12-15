@@ -73,7 +73,7 @@ React is a JavaScript library for building user interfaces.
 * [A practical guide to Redux Form - Erik Rasmussen](https://www.youtube.com/watch?v=ey7H8h4ERHg)
 * [redux-auth](https://github.com/lynndylanhurley/redux-auth)
 * [react-redux-oauth2](https://github.com/garbin/react-redux-oauth2)
-
+* [react-redux-loading-bar](https://www.npmjs.com/package/react-redux-loading-bar)
 
 
 ## how to add inline style
@@ -126,6 +126,7 @@ also see:
 * [react-if](https://github.com/romac/react-if)
 * [react-progressive-image](https://github.com/FormidableLabs/react-progressive-image)
 * [react-lazy](https://github.com/jonathanobino/react-lazy)
+* [react-loading-bar](https://www.npmjs.com/package/react-loading-bar)
 
 ### idle timer
 * [react-idle-timer](https://github.com/supremetechnopriest/react-idle-timer)
