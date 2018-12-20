@@ -82,6 +82,8 @@ also see:
 * [radium](https://www.npmjs.com/package/radium)
 * [Getting started with CSS modules in React](https://blog.pusher.com/css-modules-react/)
 * [babel-plugin-react-css-modules](https://github.com/gajus/babel-plugin-react-css-modules)
+* [glamor](https://github.com/threepointone/glamor)
+* [glamorous](https://glamorous.rocks/)
 
 
 ## components
