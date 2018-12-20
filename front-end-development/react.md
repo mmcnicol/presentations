@@ -202,6 +202,13 @@ Moment(d.date).local().format("DD/MM/YYYY")
 * [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0)
 
 
+## How to handle environment-specific settings
+* [Deployment · Create React App](https://facebook.github.io/create-react-app/docs/deployment)
+* [Using environment variables in React – Sam Pakvis](https://medium.com/@trekinbami/using-environment-variables-in-react-6b0a99d83cf5)
+* [Using React in Multiple Environments](https://daveceddia.com/multiple-environments-with-react/)
+* [How to handle environment-specific settings in your JavaScript apps](https://medium.freecodecamp.org/environment-settings-in-javascript-apps-c5f9744282b6)
+
+
 ## other
 * [storybook](https://github.com/storybooks/storybook)
 * [storybook.js.org](https://storybook.js.org/)
