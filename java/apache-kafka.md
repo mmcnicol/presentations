@@ -22,3 +22,4 @@ https://kafka.apache.org/quickstart
 * [All your streaming data are belong to Kafka](https://www.javaworld.com/article/3212846/application-development/all-your-streaming-data-are-belong-to-kafka.html)
 * [Developing Real-Time Data Pipelines with Apache Kafka](https://youtu.be/GRPLRONVDWY)
 * [Building cloud-native applications with Kubernetes and Istio, by Kelsey Hightower](https://youtu.be/6BYq6hNhceI)
+* [GOTO 2018 • Event-based Architecture and Implementations with Kafka and Atom • Eberhard Wolff](https://youtu.be/Ecg7lvvm8aU)
