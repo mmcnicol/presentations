@@ -100,6 +100,7 @@ example tools:
 * [grafana](https://grafana.com/)
 * [kibana](https://www.elastic.co/products/kibana)
 
+"One way to assess the value of a metric is: would you pay someone big bucks to move it? Can you correlate movement with profit/loss?" -- Allen Holub (@allenholub)
 
 #### alerts
 
