@@ -185,3 +185,4 @@ $ git log -S '<string-to-search-for>'
 * [2007 Tech Talk: Linus Torvalds on git](http://www.youtube.com/watch?v=4XpnKHJAok8)
 * [Git for Humans Speakerdeck by Alice Bartlett](https://speakerdeck.com/alicebartlett/git-for-humans)
 * [Git for Humans Gist by Lucio Martinez](https://gist.github.com/luciomartinez/11277737)
+* [Knowledge is Power: Getting out of Trouble by Understanding Git - Steve Smith](https://www.youtube.com/watch?v=fHLcZGi3yMQ)
