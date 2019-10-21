@@ -47,4 +47,4 @@ a map (key/value mappings) with:
 ## links
 * [caching in applications still matters](https://youtu.be/-oNd0FN5R6I)
 * [write-through write-around write-back cache explained](http://www.computerweekly.com/feature/Write-through-write-around-write-back-Cache-explained)
-
+* [Top Redis Use Cases by Core Data Structure Types](https://scalegrid.io/blog/top-redis-use-cases-by-core-data-structure-types/)
