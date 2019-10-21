@@ -1,5 +1,5 @@
 
-# software architecture
+# architectural patterns
 
 
 we talk about architecture because we want our applications to contain two attributes:
@@ -9,6 +9,14 @@ we talk about architecture because we want our applications to contain two attri
 
 ## microservices
 * [microservices](microservices.md)
+
+
+## domain-driven design
+* [Domain-Driven Design with Relational Databases Using Spring Data JDBC](https://youtu.be/GOSW911Ox6s)
+
+
+## hexagonal architecture
+* [hexagonal architecture](hexagonal-architecture.md)
 
 
 ## event-driven programming
