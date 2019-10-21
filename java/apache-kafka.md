@@ -23,3 +23,4 @@ https://kafka.apache.org/quickstart
 * [Developing Real-Time Data Pipelines with Apache Kafka](https://youtu.be/GRPLRONVDWY)
 * [Building cloud-native applications with Kubernetes and Istio, by Kelsey Hightower](https://youtu.be/6BYq6hNhceI)
 * [GOTO 2018 • Event-based Architecture and Implementations with Kafka and Atom • Eberhard Wolff](https://youtu.be/Ecg7lvvm8aU)
+* [I can't believe it's not a queue: Using Kafka with Spring](https://www.youtube.com/watch?v=l8V6PkVV1Ec)
