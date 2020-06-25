@@ -10,3 +10,4 @@ an open source programming language that makes it easy to build simple, reliable
 * (GopherCon 2014 Go for Sysadmins by Kelsey Hightower)[https://www.youtube.com/watch?v=wyRbHhHFZh8]
 * (From Java to Golang, the journey of the nexuzhealth team by Dylan Meeus)[https://www.youtube.com/watch?v=4dSw3tkclQ4]
 * (Go - A Key Language in Enterprise Application Development?)[https://www.youtube.com/watch?v=McAPHkZSTKk]
+* [PKI for Gophers - Eric Chiang - GopherCon 2019](https://www.youtube.com/watch?v=VwPQKS9Njv0)
