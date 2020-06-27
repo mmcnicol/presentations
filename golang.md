@@ -11,3 +11,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [From Java to Golang, the journey of the nexuzhealth team by Dylan Meeus](https://www.youtube.com/watch?v=4dSw3tkclQ4)
 * [Go - A Key Language in Enterprise Application Development?](https://www.youtube.com/watch?v=McAPHkZSTKk)
 * [PKI for Gophers - Eric Chiang - GopherCon 2019](https://www.youtube.com/watch?v=VwPQKS9Njv0)
+* [From a Monolith to Microservices in Go - Golang in London with Aden Fraser](https://www.youtube.com/watch?v=YIvlufNTHTw)
