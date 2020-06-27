@@ -13,3 +13,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [PKI for Gophers - Eric Chiang - GopherCon 2019](https://www.youtube.com/watch?v=VwPQKS9Njv0)
 * [From a Monolith to Microservices in Go - Golang in London with Aden Fraser](https://www.youtube.com/watch?v=YIvlufNTHTw)
 * [Anatomy of a Go Microservice at Countingup - Mike Moate - Bristech Meetup (July 2019, #61)](https://www.youtube.com/watch?v=LM1He8DJOZc)
+* [Building Microservices with Go, gRPC, and Kubernetes - Kelsey Hightower - All Things Open 2017](https://www.youtube.com/watch?v=lEGPYRjrpyw)
