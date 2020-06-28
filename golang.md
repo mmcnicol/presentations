@@ -15,3 +15,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [Anatomy of a Go Microservice at Countingup - Mike Moate - Bristech Meetup (July 2019, #61)](https://www.youtube.com/watch?v=LM1He8DJOZc)
 * [Building Microservices with Go, gRPC, and Kubernetes - Kelsey Hightower - All Things Open 2017](https://www.youtube.com/watch?v=lEGPYRjrpyw)
 * [A Hitchhiker's Guide to Enterprise Microservices with Go | Mario-Leander Reimer](https://www.youtube.com/watch?v=x26Q7iGpblw)
+* [The Challenges of Writing a Massive and Complex Go Application](https://www.youtube.com/watch?v=hWNwI5q01gI)
