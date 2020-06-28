@@ -17,3 +17,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [A Hitchhiker's Guide to Enterprise Microservices with Go | Mario-Leander Reimer](https://www.youtube.com/watch?v=x26Q7iGpblw)
 * [The Challenges of Writing a Massive and Complex Go Application](https://www.youtube.com/watch?v=hWNwI5q01gI)
 * [Betting the Company on Go and Winning - Kelsey Hightower - GopherCon 2015](https://www.youtube.com/watch?v=wqVbLlHqAeY)
+* [Program your next server in Go - Sameer Ajmani](https://www.youtube.com/watch?v=5bYO60-qYOI)
