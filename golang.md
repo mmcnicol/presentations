@@ -16,3 +16,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [Building Microservices with Go, gRPC, and Kubernetes - Kelsey Hightower - All Things Open 2017](https://www.youtube.com/watch?v=lEGPYRjrpyw)
 * [A Hitchhiker's Guide to Enterprise Microservices with Go | Mario-Leander Reimer](https://www.youtube.com/watch?v=x26Q7iGpblw)
 * [The Challenges of Writing a Massive and Complex Go Application](https://www.youtube.com/watch?v=hWNwI5q01gI)
+* [Betting the Company on Go and Winning - Kelsey Hightower - GopherCon 2015](https://www.youtube.com/watch?v=wqVbLlHqAeY)
