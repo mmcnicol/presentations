@@ -15,5 +15,5 @@
 
 links:
 
-https://leadershipchamps.wordpress.com/2011/05/20/the-five-dysfunctions-of-a-team/amp/
-https://leadershipchamps.wordpress.com/2011/05/20/the-five-dysfunctions-of-a-team/
+* [The Art of Product Management with Sachin Rekhi (ENG’05 W’05)](https://www.youtube.com/watch?v=huTSPanUlQM)
+
