@@ -16,4 +16,4 @@
 links:
 
 * [The Art of Product Management with Sachin Rekhi (ENG’05 W’05)](https://www.youtube.com/watch?v=huTSPanUlQM)
-
+* [Splitting the monolith | Jimmy Bogard | #LeadDevAustin](https://www.youtube.com/watch?v=oyY3Iec5IAc)
