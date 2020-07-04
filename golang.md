@@ -25,3 +25,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [Go 2 Draft Specifications | Sydney Golang Meetup | Rob Pike](https://www.youtube.com/watch?v=RIvL2ONhFBI)
 * [Go for Information Displays | Anthony Starks | GopherCon 2018](https://youtu.be/NyDNJnioWhI)
 * [Feature Flags | Anagha Todalbagi | GopherCon 2019 Lightning Talk](https://youtu.be/1BXPyweHFqA)
+* [High Performance Systems in Go | Derek Collison | GopherCon 2014](https://www.youtube.com/watch?v=ylRKac5kSOk)
