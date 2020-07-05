@@ -27,3 +27,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [Go for Information Displays | Anthony Starks | GopherCon 2018](https://youtu.be/NyDNJnioWhI)
 * [Feature Flags | Anagha Todalbagi | GopherCon 2019 Lightning Talk](https://youtu.be/1BXPyweHFqA)
 * [High Performance Systems in Go | Derek Collison | GopherCon 2014](https://www.youtube.com/watch?v=ylRKac5kSOk)
+* [chromedp: A New Way to Drive the Web | Kenneth Shaw | GopherCon SG 2017](https://youtu.be/_7pWCg94sKw)
