@@ -33,4 +33,5 @@ an open source programming language that makes it easy to build simple, reliable
 * [Absolute Unit (Test) | Dave Cheney | LondonGophers 20/03/2019](https://youtu.be/UKe5sX1dZ0k)
 * [Dont Just Check Errors Handle Them Gracefully | Dave Cheney | GopherCon 2016](https://youtu.be/lsBF58Q-DnY)
 * [Go Anti-Patterns | Edward Muller | GopherCon 2017](https://youtu.be/ltqV6pDKZD8)
+* [{"encoding":"json"} episode of Go Time](https://open.spotify.com/episode/797q1lIwjEXwPLk9LlTGuh?si=6BIGy5j4RxKOXX4iu1ftpw)
 
