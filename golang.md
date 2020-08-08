@@ -32,3 +32,5 @@ an open source programming language that makes it easy to build simple, reliable
 * [Focusing in on PostgreSQL | Go Time](https://open.spotify.com/episode/5tekx4vgCZxntJVvmZo3O4?si=yNjxHZ3HSoerACdlUYW-7g)
 * [Absolute Unit (Test) | Dave Cheney | LondonGophers 20/03/2019](https://youtu.be/UKe5sX1dZ0k)
 * [Dont Just Check Errors Handle Them Gracefully | Dave Cheney | GopherCon 2016](https://youtu.be/lsBF58Q-DnY)
+* [Go Anti-Patterns | Edward Muller | GopherCon 2017](https://youtu.be/ltqV6pDKZD8)
+
