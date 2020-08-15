@@ -45,5 +45,5 @@
 * [docker.com; user guide; docker links](https://docs.docker.com/userguide/dockerlinks/)
 * [docker.com; hub](https://hub.docker.com/)
 * [getting-started-with-docker article](https://serversforhackers.com/getting-started-with-docker)
-
+* [New Docker Desktop Filesharing Features](https://youtu.be/gyddZyc8r48)
 
