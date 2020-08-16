@@ -35,4 +35,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [Go Anti-Patterns | Edward Muller | GopherCon 2017](https://youtu.be/ltqV6pDKZD8)
 * [{"encoding":"json"} episode of Go Time](https://open.spotify.com/episode/797q1lIwjEXwPLk9LlTGuh?si=6BIGy5j4RxKOXX4iu1ftpw)
 * [Go & AWS Lambda | Alex Catighera | Go NYC](https://youtu.be/nOKmrLwho2U)
-
+* [From Chaos to Domain Driven Design | Joan López de la Franca Beltran | GopherCon UK 2019](https://youtu.be/KEUmOomnEqc)
