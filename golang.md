@@ -36,4 +36,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [{"encoding":"json"} episode of Go Time](https://open.spotify.com/episode/797q1lIwjEXwPLk9LlTGuh?si=6BIGy5j4RxKOXX4iu1ftpw)
 * [Go & AWS Lambda | Alex Catighera | Go NYC](https://youtu.be/nOKmrLwho2U)
 * [From Chaos to Domain Driven Design | Joan López de la Franca Beltran | GopherCon UK 2019](https://youtu.be/KEUmOomnEqc)
-* [Let's implement a concurrent non-blocking cache in Go| Konrad Reiche](https://youtu.be/KlDWmTcyXdA)
+* [Let's implement a concurrent non-blocking cache in Go | Konrad Reiche](https://youtu.be/KlDWmTcyXdA)
