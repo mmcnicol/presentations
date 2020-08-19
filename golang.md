@@ -37,3 +37,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [Go & AWS Lambda | Alex Catighera | Go NYC](https://youtu.be/nOKmrLwho2U)
 * [From Chaos to Domain Driven Design | Joan López de la Franca Beltran | GopherCon UK 2019](https://youtu.be/KEUmOomnEqc)
 * [Let's implement a concurrent non-blocking cache in Go | Konrad Reiche](https://youtu.be/KlDWmTcyXdA)
+* [Building a High-Performance Key/Value Store in Go | Marty Schoch | GopherCon 2017](https://youtu.be/ttebJcN5bgQ)
