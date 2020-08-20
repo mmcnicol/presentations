@@ -29,3 +29,6 @@
 * [Amazon Web Services website](https://aws.amazon.com/)
 * [Getting Started with Amazon MQ - Managed Message Broker Service](https://youtu.be/iDT1zFpy1kE)
 * [Amazon Elasticsearch Service](https://youtu.be/WuonfW-zQJ8)
+* [Introduction to AWS CloudFormation](https://youtu.be/Omppm_YUG2g)
+* [Introduction to Amazon Kinesis](https://youtu.be/MbEfiX4sMXc)
+
