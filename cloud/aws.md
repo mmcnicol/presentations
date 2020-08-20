@@ -35,3 +35,6 @@
 * [Introduction to AWS Lambda - Serverless Compute on Amazon Web Services](https://youtu.be/eOBq__h4OJ4)
 * [Introduction to AWS CodePipeline - Continuous Delivery on Amazon Web Services](https://youtu.be/YxcIj_SLflw)
 * [Why Build Business Applications on AWS](https://youtu.be/Mr0ZOnjwsXk)
+* [Rapid Development - Why Serverless First Is Like Building with Lego](https://youtu.be/5siD210Grr4)
+* [Larry Augustin Announces Amazon Honeycode](https://youtu.be/zPupFm0BBFw)
+
