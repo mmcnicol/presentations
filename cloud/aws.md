@@ -33,4 +33,5 @@
 * [Introduction to Amazon Kinesis](https://youtu.be/MbEfiX4sMXc)
 * [Introduction to Amazon Simple Storage Service (S3) - Cloud Storage on AWS](https://youtu.be/77lMCiiMilo)
 * [Introduction to AWS Lambda - Serverless Compute on Amazon Web Services](https://youtu.be/eOBq__h4OJ4)
-
+* [Watch "
+Why Build Business Applications on AWS](
