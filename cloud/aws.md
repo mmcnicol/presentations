@@ -31,4 +31,6 @@
 * [Amazon Elasticsearch Service](https://youtu.be/WuonfW-zQJ8)
 * [Introduction to AWS CloudFormation](https://youtu.be/Omppm_YUG2g)
 * [Introduction to Amazon Kinesis](https://youtu.be/MbEfiX4sMXc)
+* [Introduction to Amazon Simple Storage Service (S3) - Cloud Storage on AWS](https://youtu.be/77lMCiiMilo)
+* [Introduction to AWS Lambda - Serverless Compute on Amazon Web Services](https://youtu.be/eOBq__h4OJ4)
 
