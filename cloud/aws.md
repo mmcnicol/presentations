@@ -37,4 +37,5 @@
 * [Why Build Business Applications on AWS](https://youtu.be/Mr0ZOnjwsXk)
 * [Rapid Development - Why Serverless First Is Like Building with Lego](https://youtu.be/5siD210Grr4)
 * [Larry Augustin Announces Amazon Honeycode](https://youtu.be/zPupFm0BBFw)
+* [AWS re:Invent 2018: Building with AWS Databases: Match Your Workload to the Right Database (DAT301)](https://youtu.be/hwnNbLXN4vA)
 
