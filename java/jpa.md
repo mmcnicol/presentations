@@ -380,3 +380,4 @@ A Converter must implement the javax.persistence.AttributeConverter interface.
 * [A beginner’s guide to flush strategies in JPA and Hibernate](https://vladmihalcea.com/a-beginners-guide-to-jpahibernate-flush-strategies/)
 * [Query pagination with JPA and Hibernate](https://vladmihalcea.com/query-pagination-jpa-hibernate/#more-10933)
 * [What's new in JPA 2.2 - Stream the result of a Query execution - Vlad Mihalcea](https://vladmihalcea.com/whats-new-in-jpa-2-2-stream-the-result-of-a-query-execution/)
+* [JPA & Hibernate: Entity Lifecycle Model | Thorben Janssen](https://youtu.be/Y7PpjerZkc0)
