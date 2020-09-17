@@ -377,7 +377,8 @@ A Converter must implement the javax.persistence.AttributeConverter interface.
 ## links
 * [java ee 7 jpa samples](https://github.com/javaee-samples/javaee7-samples/tree/master/jpa)
 * [difference between jpa hibernate eclipselink](https://www.thoughts-on-java.org/difference-jpa-hibernate-eclipselink/)
-* [A beginner’s guide to flush strategies in JPA and Hibernate](https://vladmihalcea.com/a-beginners-guide-to-jpahibernate-flush-strategies/)
-* [Query pagination with JPA and Hibernate](https://vladmihalcea.com/query-pagination-jpa-hibernate/#more-10933)
-* [What's new in JPA 2.2 - Stream the result of a Query execution - Vlad Mihalcea](https://vladmihalcea.com/whats-new-in-jpa-2-2-stream-the-result-of-a-query-execution/)
+* [A beginner’s guide to flush strategies in JPA and Hibernate | Vlad Mihalcea](https://vladmihalcea.com/a-beginners-guide-to-jpahibernate-flush-strategies/)
+* [Query pagination with JPA and Hibernate | Vlad Mihalcea](https://vladmihalcea.com/query-pagination-jpa-hibernate/#more-10933)
+* [What's new in JPA 2.2 - Stream the result of a Query execution | Vlad Mihalcea](https://vladmihalcea.com/whats-new-in-jpa-2-2-stream-the-result-of-a-query-execution/)
+* [Getting started with Hibernate | Thorben Janssen](https://www.youtube.com/watch?v=6TPDK6MOkz4)
 * [JPA & Hibernate: Entity Lifecycle Model | Thorben Janssen](https://youtu.be/Y7PpjerZkc0)
