@@ -218,3 +218,4 @@ Moment(d.date).local().format("DD/MM/YYYY")
 ## links
 * [reactjs website](https://reactjs.org/)
 * [react howto](https://github.com/petehunt/react-howto)
+* [Building React-Select | Jed Watson | React Conf 2019](https://youtu.be/yS0jUnmBujE)
