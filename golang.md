@@ -40,3 +40,5 @@ an open source programming language that makes it easy to build simple, reliable
 * [Building a High-Performance Key/Value Store in Go | Marty Schoch | GopherCon 2017](https://youtu.be/ttebJcN5bgQ)
 * [How Go helped save HealthCare.gov | Go Time](https://open.spotify.com/episode/5vwHec9IwaKKeQyOMfSI7B?si=WnsET__YS8aUDFSGqhGlCw)
 * [The Context Package | justforfunc #9](https://www.youtube.com/watch?v=LSzR0VEraWw)
+* [Write Less (Code), Generate More | Paul Jolly | GopherCon UK 2019](https://youtu.be/xcpboZZy-64)
+* [Code Generation: Go's Secret Weapon | Katrina Ellison Geltman | Go Northwest](https://youtu.be/3llI65DQB_w)
