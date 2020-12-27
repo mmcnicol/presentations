@@ -42,3 +42,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [The Context Package | justforfunc #9](https://www.youtube.com/watch?v=LSzR0VEraWw)
 * [Write Less (Code), Generate More | Paul Jolly | GopherCon UK 2019](https://youtu.be/xcpboZZy-64)
 * [Code Generation: Go's Secret Weapon | Katrina Ellison Geltman | Go Northwest](https://youtu.be/3llI65DQB_w)
+* [Go Lift | John Cinnamond | dotGo 2017](https://www.youtube.com/watch?v=1B71SL6Y0kA)
