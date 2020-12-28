@@ -1,6 +1,7 @@
 # java ee (jakarta, enterprise java)
 
 * [jakarta blog](https://jakartablogs.ee/)
+* [jakarta specifications](https://jakarta.ee/specifications/)
 
 ## links
 * [javaee7-samples](https://github.com/javaee-samples/javaee7-samples)
