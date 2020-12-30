@@ -21,7 +21,7 @@
   * if the test passes, the bug isn't what you think it is
 * use continuous integration (e.g. jenkins)
 
-## testing state vs. testing interaction
+## testing state vs. testing interaction (when verifying the behaviour of production code)
 * state == the expected result.
 * implementation details can include interactions; verifying that the code under test calls certain methods properly.
 * in most cases, tests should focus on testing your code's public API, and your code's implementation details shouldn't need to be exposed to tests.
