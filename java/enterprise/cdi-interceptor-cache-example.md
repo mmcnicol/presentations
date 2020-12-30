@@ -18,6 +18,10 @@ publuc class CacheInterceptor {
    
    @Inject
    ...
+   
+   // An interceptor class must have a public, no-argument constructor.
+   public CacheInterceptor() {
+   }
 
    @AroundInvoke
    public Object aroundInvoke(InvokationContext ctx) {
