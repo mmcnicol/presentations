@@ -32,9 +32,16 @@
 * OO design tends to treat a class as a unit
 * "Although I start with the notion of the unit being a class, I often take a bunch of closely related classes and treat them as a single unit." (source: "UnitTest", by Martin Fowler, 2014)
 
+## opinion
+
+source: "Writing Readable, Refactor Tolerant Unit Tests", by Josh Rolstad, 2017.
+* "Tests should invoke the system under test at the top most level only."
+  * "Only external dependencies should be mocked / faked (such as databases, message queues, web services)"
+  * "The tests should not expose any of the internals of the system under test."
+
 ## links
 * [UnitTest | Martin Fowler](https://martinfowler.com/bliki/UnitTest.html)
 * [effective unit testing](https://youtu.be/mjlEhR-pFnY)
 * [Testing on the Toilet: Test Behavior, Not Implementation](https://testing.googleblog.com/2013/08/testing-on-toilet-test-behavior-not.html)
 * [how just about everyone gets unit testing wrong](https://www.javaworld.com/article/2892225/testing-debugging/how-just-about-everyone-gets-unit-testing-wrong.html)
-
+* [Writing Readable, Refactor Tolerant Unit Tests | Josh Rolstad](https://medium.com/@jrolstad/writing-readable-refactor-tolerant-unit-tests-43988887ed62)
