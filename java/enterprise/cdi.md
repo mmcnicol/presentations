@@ -1,16 +1,18 @@
 # cdi (context & dependancy injection)
 
-2009: CDI 1.0 released (java ee 6)
-2013: CDI 1.1 released (java ee 7, jboss 7.0/7.1?)
-2016: CDI 2.0 released (java ee 8, jboss 7.2)
+2009: CDI 1.0 released (java ee 6)  
+2013: CDI 1.1 released (java ee 7, jboss 7.0/7.1?)  
+2016: CDI 2.0 released (java ee 8, jboss 7.2)  
 
 since CDI 1.1, CDI is activated by default
 
 ## contexts (a way to manage a Bean's lifecycle)
-@Dependent (the default, depends on the context of the Bean to which it is injected)
-@ApplicationScoped, @SessionScoped, @RequestScoped,
-@ConversationScoped
+@Dependent (the default, depends on the context of the Bean to which it is injected)  
+@ApplicationScoped, @SessionScoped, @RequestScoped,  
+@ConversationScoped  
 @Singleton
+
+note: @SessionScoped and @ConversationScoped must be serializable
 
 ## inject
 
