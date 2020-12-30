@@ -25,8 +25,9 @@
 * In most cases, tests should focus on testing your code's public API, and your code's implementation details shouldn't need to be exposed to tests.
 * Tests that are independent of implementation details are easier to maintain since they don't need to be changed each time you make a change to the implementation.
 
-"Although I start with the notion of the unit being a class, I often take a bunch of closely related classes and treat them as a single unit."  
-source: "UnitTest", by Martin Fowler, 2014.
+## what is a unit?
+* OO design tends to treat a class as a unit
+* "Although I start with the notion of the unit being a class, I often take a bunch of closely related classes and treat them as a single unit." (source: "UnitTest", by Martin Fowler, 2014)
 
 ## links
 * [UnitTest | Martin Fowler](https://martinfowler.com/bliki/UnitTest.html)
