@@ -11,6 +11,27 @@ http://www.adam-bien.com/roller/abien/entry/setting_timeout_for_the_jax
 
 # REST security
 
+[Securing RESTful Web Services](https://docs.oracle.com/cd/E24329_01/web.1211/e24983/secure.htm#RESTF115)
+
+Securing RESTful Web Services Using web.xml
+
+Securing RESTful Web Services Using SecurityContext
+
+Securing RESTful Web Services Using Annotations
+
+OAuth / OAuth2  
+* Using Jersey OAuth libraries to sign and verify requests.
+* maven: com.auth0 / java-jwt / 3.3.0
+* maven: org.bitbucket.b_c / jose4j / 0.6.3
+* maven: com.nimbusds / nimbus-jose-jwt / 5.7
+* maven: io.jsonwebtoken / jjwt-root / 0.11.1
+* maven: io.fusionauth / fusionauth-jwt / 4.0.0
+* maven: io.vertx / vertx-auth-jwt / 3.5.1
+
+microprofile jwt  
+https://www.eclipse.org/community/eclipse_newsletter/2017/september/article2.php  
+https://github.com/eclipse/microprofile-jwt-auth
+
 Advanced JAX-RS 24 - Implementing REST API Authorization
 https://www.youtube.com/watch?v=W5jm4E0TTlA
 
