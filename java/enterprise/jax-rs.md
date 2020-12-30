@@ -32,20 +32,15 @@ microprofile jwt
 https://www.eclipse.org/community/eclipse_newsletter/2017/september/article2.php  
 https://github.com/eclipse/microprofile-jwt-auth
 
-Advanced JAX-RS 24 - Implementing REST API Authorization
-https://www.youtube.com/watch?v=W5jm4E0TTlA
+[Advanced JAX-RS 24 - Implementing REST API Authorization](https://www.youtube.com/watch?v=W5jm4E0TTlA)
 
-Deconstructing REST Security by David Blevins, April 2017
-https://www.youtube.com/watch?v=9CJ_BAeOmW0
+[Deconstructing REST Security by David Blevins, April 2017](https://www.youtube.com/watch?v=9CJ_BAeOmW0)
 
-Deconstructing and Evolving REST Security 1/2 by David Blevins, Jan 2018
-https://www.youtube.com/watch?v=_wWxfZxCQfQ
+[Deconstructing and Evolving REST Security 1/2 by David Blevins, Jan 2018](https://www.youtube.com/watch?v=_wWxfZxCQfQ)
 
-Deconstructing and Evolving REST Security 2/2 by David Blevins, Jan 2018
-https://www.youtube.com/watch?v=osQmFNm0YDU
+[Deconstructing and Evolving REST Security 2/2 by David Blevins, Jan 2018](https://www.youtube.com/watch?v=osQmFNm0YDU)
 
-Deconstructing and Evolving REST Security by David Blevins, Feb 2018
-https://www.recallact.com/presentation/deconstructing-and-evolving-rest-security
+[Deconstructing and Evolving REST Security by David Blevins, Feb 2018](https://www.recallact.com/presentation/deconstructing-and-evolving-rest-security)  
 https://vimeo.com/260488042
 
 # CORS
