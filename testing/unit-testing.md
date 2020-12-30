@@ -45,3 +45,4 @@ source: "Writing Readable, Refactor Tolerant Unit Tests", by Josh Rolstad, 2017.
 * [Testing on the Toilet: Test Behavior, Not Implementation](https://testing.googleblog.com/2013/08/testing-on-toilet-test-behavior-not.html)
 * [how just about everyone gets unit testing wrong](https://www.javaworld.com/article/2892225/testing-debugging/how-just-about-everyone-gets-unit-testing-wrong.html)
 * [Writing Readable, Refactor Tolerant Unit Tests | Josh Rolstad](https://medium.com/@jrolstad/writing-readable-refactor-tolerant-unit-tests-43988887ed62)
+* [Refactoring On A Desk: The Command Pattern](https://www.youtube.com/watch?v=zf4WQ8jWbic)
