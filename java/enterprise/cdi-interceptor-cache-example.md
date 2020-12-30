@@ -1,7 +1,7 @@
 # cdi interceptor cache example
 
 ```
-publuc class DocumentStoreClient {
+public class DocumentStoreClient {
 
    @Interceptors(CacheInterceptor.class)
    public Object get(long id) {
@@ -13,7 +13,7 @@ publuc class DocumentStoreClient {
 
 ```
 @Interceptor
-publuc class CacheInterceptor {
+public class CacheInterceptor {
    private static final Logger LOGGER = ...
    
    @Inject
