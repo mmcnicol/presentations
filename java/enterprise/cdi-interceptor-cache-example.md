@@ -26,8 +26,13 @@ public class CacheInterceptor {
    @AroundInvoke
    public Object aroundInvoke(InvokationContext ctx) {
       // can use ctx.getMethod(), ctx.getParameters()
+      Object[] parameters = ctx.getParameters();
+      Long id = (Long) parameters[0];
+      
       cacheKey = ...
+      
       cache = ...
+      
       CacheEntry entry = cache.get(cacheKey);
       if(entry == null) {
          // cache miss
