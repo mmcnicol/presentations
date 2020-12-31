@@ -45,3 +45,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [Code generation in Go: Code generation need not always be a bad thing | Sudarshan Reddy | GoSG](https://www.youtube.com/watch?v=4_6IG07FHzo)
 * [sqlc - Generate your Go database code with ease](https://www.youtube.com/watch?v=uBPXNREhZZw)
 * [Go Lift | John Cinnamond | dotGo 2017](https://www.youtube.com/watch?v=1B71SL6Y0kA)
+* [Using Go for Healthcare | Carmen Ruiz Vicente | Gophercon UK 2018](https://youtu.be/YWdJlXxFO-U)
