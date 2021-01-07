@@ -48,3 +48,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [Using Go for Healthcare | Carmen Ruiz Vicente | Gophercon UK 2018](https://youtu.be/YWdJlXxFO-U)
 * [Achieving maintainability with hexagonal architecture | Kat Zień | dotGo 2019](https://www.youtube.com/watch?v=vKbVrsMnhDc)
 * [How Do You Structure Your Go Apps | Kat Zien | GopherCon 2018](https://www.youtube.com/watch?v=oL6JBUk6tj0)
+* [a Text to Speech server with gRPC and Kubernetes | justforfunc #12](https://youtu.be/XaMr--wAuSI)
