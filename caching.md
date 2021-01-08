@@ -45,6 +45,7 @@ a map (key/value mappings) with:
 * you can export metrics to prometheus
 
 ## redhat datagrid
+* [version 8.0 docs](https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.0/)
 * [version 7.0 docs](https://access.redhat.com/documentation/en-us/red_hat_data_grid/7.0/)
   * [Eviction](https://access.redhat.com/documentation/en-us/red_hat_data_grid/7.0/html/administration_and_configuration_guide/chap-Set_Up_Eviction)
   * [Expiration](https://access.redhat.com/documentation/en-us/red_hat_data_grid/7.0/html/administration_and_configuration_guide/chap-Set_Up_Expiration)
