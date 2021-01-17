@@ -50,3 +50,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [How Do You Structure Your Go Apps | Kat Zien | GopherCon 2018](https://www.youtube.com/watch?v=oL6JBUk6tj0)
 * [a Text to Speech server with gRPC and Kubernetes | justforfunc #12](https://youtu.be/XaMr--wAuSI)
 * [Go for frontend | Aarushi Kansal (Tier) | Golang Channel](https://youtu.be/G8lptDqPP-0)
+* [High-performance messaging with Go and Redis | INSIGHT | Chris Goddard (Charge Communications) | Twilio](https://youtu.be/x5__QAIxQZw)
