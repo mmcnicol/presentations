@@ -51,3 +51,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [a Text to Speech server with gRPC and Kubernetes | justforfunc #12](https://youtu.be/XaMr--wAuSI)
 * [Go for frontend | Aarushi Kansal (Tier) | Golang Channel](https://youtu.be/G8lptDqPP-0)
 * [High-performance messaging with Go and Redis | INSIGHT | Chris Goddard (Charge Communications) | Twilio](https://youtu.be/x5__QAIxQZw)
+* [Amazon SNS/SQS with Go | Paul Borlin | GoDays](https://youtu.be/iKC9ctbStU0)
