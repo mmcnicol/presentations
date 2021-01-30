@@ -52,10 +52,21 @@ or,
 
 Soundcard soundcard = maybeSoundCard.orElseThrow(IllegalStateException::new);
 
+### Rejecting Certain Values Using the filter Method
 
+Often you need to call a method on an object and check some property. For example, you might need to check whether the USB port is a particular version. To do this in a safe way, you first need to check whether the reference pointing to a USB object is null and then call the getVersion() method, as follows:
 
+USB usb = ...;
+if(usb != null && "3.0".equals(usb.getVersion())){
+  System.out.println("ok");
+}
 
+This pattern can be rewritten using the filter method on an Optional object, as follows:
 
+Optional<USB> maybeUSB = ...;
+maybeUSB.filter(usb -> "3.0".equals(usb.getVersion()).ifPresent(() -> System.out.println("ok"));
+
+...
 
 
 ## links
