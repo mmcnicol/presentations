@@ -14,5 +14,49 @@ Java SE 8 introduces a new class called java.util.Optional
 > Since:
 > 1.8
 
+## examples
+
+Here is an empty Optional:
+
+Optional<Soundcard> sc = Optional.empty();
+
+And here is an Optional with a non-null value:
+
+SoundCard soundcard = new Soundcard();
+Optional<Soundcard> sc = Optional.of(soundcard);
+
+Also, by using ofNullable, you can create an Optional object that may hold a null value:
+
+Optional<Soundcard> sc = Optional.ofNullable(soundcard);
+
+### Do Something If a Value Is Present
+
+Optional<Soundcard> soundcard = ...;
+soundcard.ifPresent(System.out::println);
+
+You no longer need to do an explicit null check; it is enforced by the type system. If the Optional object were empty, nothing would be printed.
+
+You can also use the isPresent() method to find out whether a value is present in an Optional object. In addition, there's a get() method that returns the value contained in the Optional object, if it is present. Otherwise, it throws a NoSuchElementException. The two methods can be combined, as follows, to prevent exceptions:
+
+if(soundcard.isPresent()){
+  System.out.println(soundcard.get());
+}
+
+However, this is not the recommended use of Optional (it's not much of an improvement over nested null checks), and there are more idiomatic alternatives, which we explore below.
+
+### Default Values and Actions
+
+Soundcard soundcard = maybeSoundcard.orElse(new Soundcard("defaut"));
+
+or,
+
+Soundcard soundcard = maybeSoundCard.orElseThrow(IllegalStateException::new);
+
+
+
+
+
+
+
 ## links
 * [Tired of Null Pointer Exceptions? Consider Using Java SE 8's "Optional"!](https://www.oracle.com/technical-resources/articles/java/java8-optional.html)
