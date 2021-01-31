@@ -52,3 +52,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [Go for frontend | Aarushi Kansal (Tier) | Golang Channel](https://youtu.be/G8lptDqPP-0)
 * [High-performance messaging with Go and Redis | INSIGHT | Chris Goddard (Charge Communications) | Twilio](https://youtu.be/x5__QAIxQZw)
 * [Amazon SNS/SQS with Go | Paul Borlin | GoDays](https://youtu.be/iKC9ctbStU0)
+* [Why writing is important | Go Time](https://open.spotify.com/episode/3iQOz9GEEaHUT2sZkReBJi?si=4TIssHClReyi7r57ZOEW3A)
