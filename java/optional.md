@@ -90,3 +90,4 @@ return Optional.of(someObj).filter(not(String::isBlank))
 
 ## links
 * [Tired of Null Pointer Exceptions? Consider Using Java SE 8's "Optional"!](https://www.oracle.com/technical-resources/articles/java/java8-optional.html)
+* [12 recipes for using the optional class as its meant to be used | javamagazine](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
