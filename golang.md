@@ -53,3 +53,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [High-performance messaging with Go and Redis | INSIGHT | Chris Goddard (Charge Communications) | Twilio](https://youtu.be/x5__QAIxQZw)
 * [Amazon SNS/SQS with Go | Paul Borlin | GoDays](https://youtu.be/iKC9ctbStU0)
 * [Why writing is important | Go Time](https://open.spotify.com/episode/3iQOz9GEEaHUT2sZkReBJi?si=4TIssHClReyi7r57ZOEW3A)
+* [Why GitHub's CLI team switched from Ruby to Go | Changelog](https://youtu.be/fuYwyQllMpE)
