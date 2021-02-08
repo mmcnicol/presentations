@@ -1,6 +1,6 @@
 # streams
 
-* stream let you process data in a declarative way
+* streams let you process data in a declarative way
 * use stream operations to express sophisticated data processing queries
 * streams can leverage multi-core architectures without you having to write a single line of multithread code
 * several operations (filter, sorted, map, collect) can be chained together to form a pipeline
@@ -67,4 +67,4 @@ repeatedly applies an operation (for example, adding two numbers) on each elemen
 * [Lambda Multiple Filters example Java 8](https://gist.github.com/vulab/1e7ca7ce8bfa4ac445de)
 * [lambda - Java 8 Streams: multiple filters vs. complex condition](https://stackoverflow.com/questions/24054773/java-8-streams-multiple-filters-vs-complex-condition)
 * [Streams: The Real Powerhouse in Java 8 by Venkat Subramaniam](https://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/)
-
+* [Java 8 STREAMS Tutorial | Joe James](https://youtu.be/t1-YZ6bF-g0)
