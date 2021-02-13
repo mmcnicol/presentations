@@ -240,6 +240,7 @@ Table per concrete class
 Each mapping strategy is incrementally more complicated.
 
 ## hibernate 5.2
+* [hibernate 5.2 documentation](http://hibernate.org/orm/documentation/5.2/)
 * [hibernate 5.2 user guide | jboss](http://docs.jboss.org/hibernate/orm/5.2/userguide/html_single/Hibernate_User_Guide.html)
 * [use java 8 optional hibernate](https://thorben-janssen.com/use-java-8-optional-hibernate/)
 
