@@ -374,11 +374,23 @@ A Converter must implement the javax.persistence.AttributeConverter interface.
 * [How to map java.time.Year and java.time.Month with JPA and Hibernate](https://vladmihalcea.com/java-time-year-month-jpa-hibernate/)
 
 
-## links
+## jakarta persistence
+
+* [Jakarta Persistence](https://projects.eclipse.org/projects/ee4j.jpa)
+
+### java ee 7 jpa
 * [java ee 7 jpa samples](https://github.com/javaee-samples/javaee7-samples/tree/master/jpa)
+
+### jakarta 8 persistence
+* [jakarta specifications persistence 2.2](https://jakarta.ee/specifications/persistence/2.2/)
+* [What's new in JPA 2.2 - Stream the result of a Query execution | Vlad Mihalcea](https://vladmihalcea.com/whats-new-in-jpa-2-2-stream-the-result-of-a-query-execution/)
+
+### jakarta 9 persistence
+* [jakarta specifications persistence 3.0](https://jakarta.ee/specifications/persistence/3.0/)
+
+## links
 * [difference between jpa hibernate eclipselink](https://www.thoughts-on-java.org/difference-jpa-hibernate-eclipselink/)
 * [A beginner’s guide to flush strategies in JPA and Hibernate | Vlad Mihalcea](https://vladmihalcea.com/a-beginners-guide-to-jpahibernate-flush-strategies/)
 * [Query pagination with JPA and Hibernate | Vlad Mihalcea](https://vladmihalcea.com/query-pagination-jpa-hibernate/#more-10933)
-* [What's new in JPA 2.2 - Stream the result of a Query execution | Vlad Mihalcea](https://vladmihalcea.com/whats-new-in-jpa-2-2-stream-the-result-of-a-query-execution/)
 * [Getting started with Hibernate | Thorben Janssen](https://www.youtube.com/watch?v=6TPDK6MOkz4)
 * [JPA & Hibernate: Entity Lifecycle Model | Thorben Janssen](https://youtu.be/Y7PpjerZkc0)
