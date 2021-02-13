@@ -239,21 +239,10 @@ Table per concrete class
 
 Each mapping strategy is incrementally more complicated.
 
+## hibernate 5.2
+* [hibernate 5.2 user guide | jboss](http://docs.jboss.org/hibernate/orm/5.2/userguide/html_single/Hibernate_User_Guide.html)
+* [use java 8 optional hibernate](https://thorben-janssen.com/use-java-8-optional-hibernate/)
 
-
-
----
-
-http://docs.jboss.org/hibernate/orm/5.2/userguide/html_single/Hibernate_User_Guide.html
-
----
-
-https://www.youtube.com/watch?v=Yv2xctJxE-w&list=PL_5aB2ncz1K8swf-bMC6cQpfzF12VxpHt
-
-Java Persistance Api (JPA) = standards
-
-
----
-
-http://www.srccodes.com/p/article/7/Annotation-based-Hibernate-Hello-World-example-using-Maven-build-tool-and-SQLite-database
-
+## links
+* [Hibernate Tutorial 01 - Introduction To Hibernate | Java Brains](https://www.youtube.com/watch?v=Yv2xctJxE-w&list=PL_5aB2ncz1K8swf-bMC6cQpfzF12VxpHt)
+* [Annotation based Hibernate Hello World example using Maven build tool and SQLite database](http://www.srccodes.com/p/article/7/Annotation-based-Hibernate-Hello-World-example-using-Maven-build-tool-and-SQLite-database)
