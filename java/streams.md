@@ -68,3 +68,5 @@ repeatedly applies an operation (for example, adding two numbers) on each elemen
 * [lambda - Java 8 Streams: multiple filters vs. complex condition](https://stackoverflow.com/questions/24054773/java-8-streams-multiple-filters-vs-complex-condition)
 * [Streams: The Real Powerhouse in Java 8 by Venkat Subramaniam](https://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/)
 * [Java 8 STREAMS Tutorial | Joe James](https://youtu.be/t1-YZ6bF-g0)
+* [Java 8 Streams API | Defog Tech](https://www.youtube.com/watch?v=N3gQdIn90CI)
+* [Functional Interfaces in Java 8 | Defog Tech](https://youtu.be/lX0PzE0Dho0)
