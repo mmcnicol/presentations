@@ -55,3 +55,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [Why writing is important | Go Time](https://open.spotify.com/episode/3iQOz9GEEaHUT2sZkReBJi?si=4TIssHClReyi7r57ZOEW3A)
 * [Why GitHub's CLI team switched from Ruby to Go | Changelog](https://youtu.be/fuYwyQllMpE)
 * [Building Resilient Data Pipelines in Go | Grant Griffiths | GopherCon UK 2018](https://youtu.be/gm34Aph9v0M)
+* [Building your own log-based message queue in Go | Victor Ruiz | Golang UK Conference 2016](https://youtu.be/ysjcEN548yc)
