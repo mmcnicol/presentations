@@ -394,3 +394,4 @@ A Converter must implement the javax.persistence.AttributeConverter interface.
 * [Query pagination with JPA and Hibernate | Vlad Mihalcea](https://vladmihalcea.com/query-pagination-jpa-hibernate/#more-10933)
 * [Getting started with Hibernate | Thorben Janssen](https://www.youtube.com/watch?v=6TPDK6MOkz4)
 * [JPA & Hibernate: Entity Lifecycle Model | Thorben Janssen](https://youtu.be/Y7PpjerZkc0)
+* [Implementing Batch Jobs with Hibernate | Thorben Janssen](https://www.youtube.com/watch?v=COrDelJMWqw)
