@@ -17,5 +17,5 @@ Feature Toggle is the capability for an application, a system or a product to en
 
 http://featureflags.io/
 
----
-
+## links
+* [Managing Feature Toggles in Teams | Paul Börding | ThoughtWorks Presents](https://www.youtube.com/watch?v=6e88toIoUiU)
