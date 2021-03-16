@@ -21,10 +21,11 @@ we talk about architecture because we want our applications to contain two attri
 
 ## event-driven programming
 * [Design Patterns: Why Event Sourcing?](https://youtu.be/rUDN40rdly8)
+* [The Power of Event-Driven Systems without Burning your Hands or Budgets | Allard Buijze | GOTO 2020](https://www.youtube.com/watch?v=Fso2OyguRuQ)
 
 
 ## serverless
-* [GOTO 2017 • Serverless: the Future of Software Architecture • Peter Sbarski](https://youtu.be/LAWjdZYrUgI)
+* [Serverless: the Future of Software Architecture | Peter Sbarski | GOTO 2017](https://youtu.be/LAWjdZYrUgI)
 
 
 ## monolithic
