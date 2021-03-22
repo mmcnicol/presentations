@@ -55,6 +55,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Building your own log-based message queue in Go | Victor Ruiz | Golang UK Conference 2016](https://youtu.be/ysjcEN548yc)
 * [Go for Real Time Streaming Architectures | Mickaël Rémond | dotGo 2017](https://youtu.be/0h-Kau4jxeE)
 * [NATS: A new nervous system for distributed cloud platforms | Derek Collison | SCALE 13x](https://youtu.be/sm63oAVPqAM)
+* [Go for Windows | Mike Lloyd | Boulder Meetup](https://www.youtube.com/watch?v=B4Hwv17Ae_4)
 
 ### why use golang?
 * [Journey from OO language to Golang | Sergey Kibish | @DevFest Switzerland 2018](https://youtu.be/1ZjvhGfpwJ8)
