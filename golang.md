@@ -59,6 +59,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Unbounded Concurrency & Top 10 Tips for Making Remote Work Actually Work | Golang NYC Meetup](https://www.youtube.com/watch?v=HDDNYA9MeNQ)
 * [Basic concurrency in Go (Twitch Stream) | TomNomNom](https://www.youtube.com/watch?v=nVhdEs_O7Bo)
 * [Trials and tribulations of testing in Go | Go Time – Episode #174](https://changelog.com/gotime/174)
+* [Death by 3,000 Timers: Streaming Video-on-Demand for Cable TV | Chris Hines | GopherCon 2019](https://www.youtube.com/watch?v=h0s8CWpIKdg)
 
 ### why use golang?
 * [Journey from OO language to Golang | Sergey Kibish | @DevFest Switzerland 2018](https://youtu.be/1ZjvhGfpwJ8)
