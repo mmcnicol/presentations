@@ -63,6 +63,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Event Driven Systems with Daniel Selans and Steve High | Go Time #179 Live! | Changelog](https://www.youtube.com/watch?v=b95HWDF0IAg)
 * [gRPC and Go: Developing Efficient and Type-Safe Services | Clinton Kitson | The Linux Foundation](https://www.youtube.com/watch?v=J-NTfvYL_OE)
 * [Taskflow - Create build pipelines in Go | Robert Pająk | GDG Berlin Golang 02/2021](https://www.youtube.com/watch?v=8rOBZafbVGY)
+* [A Go Security Journey | Adrian Hesketh | GopherCon UK 2019](https://www.youtube.com/watch?v=hTfxc4qcCC0)
 
 ### why use golang?
 * [Journey from OO language to Golang | Sergey Kibish | @DevFest Switzerland 2018](https://youtu.be/1ZjvhGfpwJ8)
