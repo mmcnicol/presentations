@@ -66,6 +66,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [A Go Security Journey | Adrian Hesketh | GopherCon UK 2019](https://www.youtube.com/watch?v=hTfxc4qcCC0)
 * [Hacking with Go | Victoria Almazova | NDC Conferences](https://www.youtube.com/watch?v=BRLKNH6A3ds)
 * [Hands-on Writing Malware in Go | BSides DC 2019](https://www.youtube.com/watch?v=2cGsTEkDkT8)
+* [Building startups with Go | Episode #177 | Go Time](https://changelog.com/gotime/177)
 
 ### why use golang?
 * [Journey from OO language to Golang | Sergey Kibish | @DevFest Switzerland 2018](https://youtu.be/1ZjvhGfpwJ8)
