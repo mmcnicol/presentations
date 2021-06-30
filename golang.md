@@ -70,6 +70,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [The Legacy of Go | Day 3 Closing Talk | Steve Francia | GoLab 2019](https://www.youtube.com/watch?v=k0VsfTAqqEA)
 * [You Want To Build a Web Service? | Keynote | Bill Kennedy | GoLab 2019](https://www.youtube.com/watch?v=IV0wrVb31Pg)
 * [Go: Optimizing For Correctness | William Kennedy | code::dive 2017](https://www.youtube.com/watch?v=OTLjN8NQDyo)
+* [Computer Audio Programming | Dylan Meeus | GopherCon Europe](https://www.youtube.com/watch?v=3-PGN23rjzA)
 
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
