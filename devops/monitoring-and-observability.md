@@ -154,3 +154,4 @@ example tools:
 * [We can do better than percentile latencies](https://medium.com/theburningmonk-com/we-can-do-better-than-percentile-latencies-2257d20c3b39)
 * [Observability-Driven Development (is the Future of DevOps) by Charity Majors](https://youtu.be/z2JoDjoZCM4)
 * [Observability pre-release: Using Prometheus to test and fix new software - GitHub Universe 2018](https://youtu.be/6gh9CcC_i5c)
+* [Why Observability Requires a Distributed Column Store | Alex Vondrak | 2021.08.12 | honeycomb.io/blog](https://www.honeycomb.io/blog/why-observability-requires-distributed-column-store/)
