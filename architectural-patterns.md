@@ -12,7 +12,8 @@ we talk about architecture because we want our applications to contain two attri
 
 
 ## domain-driven design
-* [Domain-Driven Design with Relational Databases Using Spring Data JDBC](https://youtu.be/GOSW911Ox6s)
+* [Domain-Driven Design with Relational Databases Using Spring Data JDBC | SpringDeveloper](https://youtu.be/GOSW911Ox6s)
+* [What is DDD | Eric Evans | DDD Europe 2019 | Domain-Driven Design Europe](https://www.youtube.com/watch?v=pMuiVlnGqjk)
 
 
 ## hexagonal architecture
