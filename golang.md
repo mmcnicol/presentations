@@ -78,6 +78,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
 * [Controlling the Docker Engine from Go](https://medium.com/backendarmy/controlling-the-docker-engine-in-go-d25fc0fe2c45)
 * [Update an XML node value with Go | penkovski.com](https://www.penkovski.com/post/golang-update-xml-node/)
+* [Golang Application Instrumentation for Distributed Traces | logicmonitor.com/blog](https://www.logicmonitor.com/blog/golang-application-instrumentation-for-distributed-traces)
 
 ### why use golang?
 * [Journey from OO language to Golang | Sergey Kibish | @DevFest Switzerland 2018](https://youtu.be/1ZjvhGfpwJ8)
