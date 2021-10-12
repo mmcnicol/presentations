@@ -73,6 +73,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Computer Audio Programming | Dylan Meeus | GopherCon Europe](https://www.youtube.com/watch?v=3-PGN23rjzA)
 * [Go Without Wires | Rob Evans | GoDevNet](https://www.youtube.com/watch?v=xtR07r8fsiU)
 * [Terminal Emulator Basics in Golang | Ishuah Kariuki | Conf42: Golang 2021](https://www.youtube.com/watch?v=A90IyuRkrPs)
+* [Monitoring Go Applications with OpenTelemetry | Johannes Liebermann | GoDays](https://www.youtube.com/watch?v=R3A3BjpMi6k)
 
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
