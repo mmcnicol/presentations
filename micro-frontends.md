@@ -2,6 +2,7 @@
 
 * micro-frontends enable splitting of monolithic frontends into individual and semi-independent and smaller units
 * are concerned with decomposition of the presentation layer
+* aim to divide the presentation layer (application) vertically
 * share the main principles, benefits, and issues of microservices
 
 
