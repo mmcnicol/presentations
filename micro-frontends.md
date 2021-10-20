@@ -18,6 +18,7 @@
 * use/require common services
   * logging, audit, error
   * security (authentication, authorisation)
+  * feature switches, settings
   * access to application/3rd-party/cached data
 
 
@@ -29,6 +30,7 @@
   * potentially reduce need to strictly adhere to a single project structure/style (grouping & naming of packages, classes)
   * promotes establishing a bounded context (a DDD concept)
   * build isolated and loosely coupled services
+  * potentially promotes failure isolation
   * potentially reduce project build time
 * for production
   * reduce release size/risk - avoid releasing the whole app - release smaller things which reflect just what has changed - deploy independently
