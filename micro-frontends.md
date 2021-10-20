@@ -34,7 +34,7 @@
 
 ## issues, drawbacks, cons
 * for developers
-  * increased code duplication
+  * potentially increased code duplication
   * increased overhead
   * requires careful planning
 * for production
