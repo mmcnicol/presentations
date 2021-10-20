@@ -6,6 +6,8 @@ we talk about architecture because we want our applications to contain two attri
 * high maintainability
 * low technical debt
 
+"No silver bullet for designing a software architecture has been made and there will be no such thing coming in the future."
+
 
 ## microservices
 * [microservices](microservices.md)
