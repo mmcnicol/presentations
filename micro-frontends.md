@@ -18,7 +18,7 @@
 * use/require common services
   * logging, audit, error
   * security (authentication, authorisation)
-  * feature switches, settings
+  * feature switches, settings/configuration
   * user session, user session timeout
   * access to application/3rd-party/cached data
 
