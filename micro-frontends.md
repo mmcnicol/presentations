@@ -1,15 +1,19 @@
 # micro-frontends
 
-* micro-frontends enable splitting of monolithic frontends into independent and smaller micro applications
-* are concerned with the presentation layer of a modern web application
-* enable the decomposition of the front-end into individual and semi-independent front-ends, and creating independent services that interact together
-* are not concerned with separating the frontend and back-end completely from each other
-* micro-frontends share the main principles, benefits, and issues of microservices
+* micro-frontends enable splitting of monolithic frontends into individual and semi-independent and smaller units
+* are concerned with decomposition of the presentation layer
+* share the main principles, benefits, and issues of microservices
 
 
 ## micro applications, mini applications
-* have an isolated/dedicated business layer
+* enable splitting of monolithic applications into individual and semi-independent and smaller micro applications
+* are concerned with decomposition of the presentation layer, business layer, and database access layer
+* are not concerned with separating the frontend and back-end completely from each other
+* have an isolated/dedicated business/domain layer
 * can utilise a dedicated/independant database schema
+* can be accessed on their own, or integrated into a parent/container/skelaton application
+  * if accessed on their own, require certain mandatory inputs (context)
+* share the main principles, benefits, and issues of microservices
 * use/require common services
   * logging, audit, error
   * security (authentication, authorisation)
@@ -33,4 +37,8 @@
 * for production
   * increased payload size of the application
   * more complexity for observability & monitoring
+
+
+## links
+* [Motivations, benefits, and issues for adopting Micro-Frontends: A Multivocal Literature Review](https://www.sciencedirect.com/science/article/pii/S0950584921000549)
 
