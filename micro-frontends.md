@@ -24,7 +24,10 @@
 * for developers
   * can reduce the overall complexity of the frontend
   * can enable developers to quickly and effectively deliver value to customers
-  * developer attention - work on smaller projects (reduce cognitive load, reduce build time)
+  * reduce cognitive load - work on smaller projects - avoid working on a huge code base
+  * promotes establishing a bounded context (a DDD concept)
+  * potentially reduce need to strictly adhere to a single project structure (grouping & naming of packages, classes)
+  * potentially reduce project build time
 * for production
   * reduce release size/risk - avoid releasing the whole app - release smaller things which reflect just what has changed - deploy independently
 
@@ -37,6 +40,11 @@
 * for production
   * increased payload size of the application
   * more complexity for observability & monitoring
+
+
+## is an alternative to
+* component driven development
+* monolithic applications, where code becomes tightly coupled
 
 
 ## links
