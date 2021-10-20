@@ -19,6 +19,7 @@
   * logging, audit, error
   * security (authentication, authorisation)
   * feature switches, settings
+  * user session, user session timeout
   * access to application/3rd-party/cached data
 
 
