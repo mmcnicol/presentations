@@ -26,7 +26,7 @@
   * can reduce the overall complexity of the frontend
   * can enable developers to quickly and effectively deliver value to customers
   * reduce cognitive load - work on smaller projects - avoid working on a huge code base
-  * potentially reduce need to strictly adhere to a single project structure (grouping & naming of packages, classes)
+  * potentially reduce need to strictly adhere to a single project structure/style (grouping & naming of packages, classes)
   * promotes establishing a bounded context (a DDD concept)
   * build isolated and loosely coupled services
   * potentially reduce project build time
