@@ -54,4 +54,5 @@
 
 ## links
 * [Motivations, benefits, and issues for adopting Micro-Frontends: A Multivocal Literature Review](https://www.sciencedirect.com/science/article/pii/S0950584921000549)
+* [Micro Frontends - The Nitty Gritty Details or Frontend, Backend | Michael Geers | Micro CPH](https://www.youtube.com/watch?v=wCHYILvM7kU)
 
