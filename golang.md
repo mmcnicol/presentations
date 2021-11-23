@@ -76,6 +76,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Monitoring Go Applications with OpenTelemetry | Johannes Liebermann | GoDays](https://www.youtube.com/watch?v=R3A3BjpMi6k)
 * [How to not build legacy systems that everyone hates | Chris James | LondonGophers 2018](https://www.youtube.com/watch?v=Kwtit8ZEK7U)
 * [Optimizing Go for Clouds | Bartłomiej Płotka | GopherCon UK 2021](https://www.youtube.com/watch?v=lOQbvikazMk)
+* [Test coverage in Go, the whole package | Eleni Fragkiadaki | GopherCon UK 2021](https://www.youtube.com/watch?v=JTLB7j8M85A)
 
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
