@@ -77,6 +77,8 @@ an open source programming language that makes it easy to build simple, reliable
 * [How to not build legacy systems that everyone hates | Chris James | LondonGophers 2018](https://www.youtube.com/watch?v=Kwtit8ZEK7U)
 * [Optimizing Go for Clouds | Bartłomiej Płotka | GopherCon UK 2021](https://www.youtube.com/watch?v=lOQbvikazMk)
 * [Test coverage in Go, the whole package | Eleni Fragkiadaki | GopherCon UK 2021](https://www.youtube.com/watch?v=JTLB7j8M85A)
+* [How Go powered our elastic search | Stuart Murray | GopherCon UK 2021](https://www.youtube.com/watch?v=r3g-uSJcU1Y)
+* [Deadlocks: The Dark Side of Concurrency | Nick Craig-Wood | GopherCon UK 2021](https://www.youtube.com/watch?v=9j0oQkqzhAE)
 
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
