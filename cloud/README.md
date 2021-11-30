@@ -30,4 +30,5 @@ cloud should now be the default option - principle of "Cloud First"
 ## links
 * [The boring technology behind a one-person Internet company | Wenbin Fang](https://www.listennotes.com/blog/the-boring-technology-behind-a-one-person-23/)
 * [The Architecture Behind A One-Person Tech Startup | Anthony Simon](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+* [Java, Clouds and Cost Driven Architectures #lowslides (Keynote) | Adam Bien | Devoxx 2021](https://www.youtube.com/watch?v=kl_Hu38nK34)
 
