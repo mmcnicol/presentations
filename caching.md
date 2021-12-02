@@ -57,3 +57,4 @@ a map (key/value mappings) with:
 * [write-through write-around write-back cache explained](http://www.computerweekly.com/feature/Write-through-write-around-write-back-Cache-explained)
 * [Top Redis Use Cases by Core Data Structure Types](https://scalegrid.io/blog/top-redis-use-cases-by-core-data-structure-types/)
 * [Redis vs Infinispan: Battle of the in-memory data stores | DevNation Tech Talk | Red Hat Developer](https://www.youtube.com/watch?v=Kb46QFigx84)
+* [What is Redis? | IBM Technology](https://www.youtube.com/watch?v=muqiHwa8UvQ)
