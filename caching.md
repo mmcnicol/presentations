@@ -59,4 +59,5 @@ a map (key/value mappings) with:
 * [Redis vs Infinispan: Battle of the in-memory data stores | DevNation Tech Talk | Red Hat Developer](https://www.youtube.com/watch?v=Kb46QFigx84)
 * [What is Redis? | IBM Technology](https://www.youtube.com/watch?v=muqiHwa8UvQ)
 * [Why Redis? | Redis](https://www.youtube.com/watch?v=OG610oe_kxs)
+* [Microservices and Redis: A Match made in Heaven | Redis](https://www.youtube.com/watch?v=wfyq_-tWkiY)
 
