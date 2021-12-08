@@ -80,6 +80,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [How Go powered our elastic search | Stuart Murray | GopherCon UK 2021](https://www.youtube.com/watch?v=r3g-uSJcU1Y)
 * [Deadlocks: The Dark Side of Concurrency | Nick Craig-Wood | GopherCon UK 2021](https://www.youtube.com/watch?v=9j0oQkqzhAE)
 * [Using NATS | Adelina Simion | GopherCon UK 2021](https://www.youtube.com/watch?v=AhnL5addsVo)
+* [Generics! | Robert Griesemer & Ian Lance Taylor | Gopher Academy](https://www.youtube.com/watch?v=KepBhuQJT9E)
 * Go at Mainframe Scale | Kaylyn Gibilterra | GopherCon 2021
  
 ### articles
