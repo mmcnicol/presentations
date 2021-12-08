@@ -80,7 +80,8 @@ an open source programming language that makes it easy to build simple, reliable
 * [How Go powered our elastic search | Stuart Murray | GopherCon UK 2021](https://www.youtube.com/watch?v=r3g-uSJcU1Y)
 * [Deadlocks: The Dark Side of Concurrency | Nick Craig-Wood | GopherCon UK 2021](https://www.youtube.com/watch?v=9j0oQkqzhAE)
 * [Using NATS | Adelina Simion | GopherCon UK 2021](https://www.youtube.com/watch?v=AhnL5addsVo)
-
+* Go at Mainframe Scale | Kaylyn Gibilterra | GopherCon 2021
+ 
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
 * [Controlling the Docker Engine from Go](https://medium.com/backendarmy/controlling-the-docker-engine-in-go-d25fc0fe2c45)
