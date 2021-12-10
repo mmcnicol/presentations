@@ -82,6 +82,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Using NATS | Adelina Simion | GopherCon UK 2021](https://www.youtube.com/watch?v=AhnL5addsVo)
 * [Generics! | Robert Griesemer & Ian Lance Taylor | Gopher Academy](https://www.youtube.com/watch?v=KepBhuQJT9E)
 * Go at Mainframe Scale | Kaylyn Gibilterra | GopherCon 2021
+* Becoming the Metaprogrammer: Real World Code Generation | Alan Shreve | GopherCon 2021
  
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
