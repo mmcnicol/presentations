@@ -90,6 +90,8 @@ an open source programming language that makes it easy to build simple, reliable
 * [Update an XML node value with Go | penkovski.com](https://www.penkovski.com/post/golang-update-xml-node/)
 * [Golang Application Instrumentation for Distributed Traces | logicmonitor.com/blog](https://www.logicmonitor.com/blog/golang-application-instrumentation-for-distributed-traces)
 * [Go is Boring...And That’s Fantastic! | Jon Bodner | CapitalOne tech blog 2020](https://www.capitalone.com/tech/software-engineering/go-is-boring/)
+* [introducing sqlc](https://conroy.org/introducing-sqlc)
+* [gomock](https://github.com/golang/mock)
 
 ### why use golang?
 * [Journey from OO language to Golang | Sergey Kibish | @DevFest Switzerland 2018](https://youtu.be/1ZjvhGfpwJ8)
