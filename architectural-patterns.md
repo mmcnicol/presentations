@@ -56,3 +56,4 @@ we talk about architecture because we want our applications to contain two attri
 * [8 reasons why government contractors should embrace open source software](https://www.fedscoop.com/government-contractors-open-source-ben-balter/)
 * [gov.uk; service design manual; Choosing technology: an introduction](https://www.gov.uk/service-manual/technology/choosing-technology-an-introduction)
 * https://github.com/donnemartin/system-design-primer
+* [The Evolution From Monolith to Microservices to Serverless and Beyond | Hugh Mckee | Devoxx 2019](https://www.youtube.com/watch?v=arxm7llvDdg)
