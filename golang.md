@@ -81,8 +81,9 @@ an open source programming language that makes it easy to build simple, reliable
 * [Deadlocks: The Dark Side of Concurrency | Nick Craig-Wood | GopherCon UK 2021](https://www.youtube.com/watch?v=9j0oQkqzhAE)
 * [Using NATS | Adelina Simion | GopherCon UK 2021](https://www.youtube.com/watch?v=AhnL5addsVo)
 * [Generics! | Robert Griesemer & Ian Lance Taylor | Gopher Academy](https://www.youtube.com/watch?v=KepBhuQJT9E)
-* Go at Mainframe Scale | Kaylyn Gibilterra | GopherCon 2021
-* Becoming the Metaprogrammer: Real World Code Generation | Alan Shreve | GopherCon 2021
+* [Go at Mainframe Scale | Kaylyn Gibilterra | GopherCon 2021](https://www.youtube.com/watch?v=VsACrKv8B1Y)
+* [Becoming the Metaprogrammer: Real World Code Generation | Alan Shreve | GopherCon 2021](https://www.youtube.com/watch?v=RpmYXh0ppRo)
+* [Automate the Boring | Mark Smith | GDG Berlin Golang November/2021](https://www.youtube.com/watch?v=o2b0Sm0UJuI)
  
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
