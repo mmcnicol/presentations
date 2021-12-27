@@ -101,3 +101,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [switching from C# to go for backend development | aluma.io | 2021](https://aluma.io/resources/blog/switching-from-c-to-go-for-backend-development?s=03)
 * [Why we switched from Python to Go | getstream.io](https://getstream.io/blog/switched-python-go/)
 * [Half a million lines of Go | Kevin Dangoor | khan academy](https://blog.khanacademy.org/half-a-million-lines-of-go/)
+* [Why Go - Case Studies](https://go.dev/solutions/#case-studies)
