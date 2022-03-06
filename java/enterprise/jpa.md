@@ -397,3 +397,6 @@ A Converter must implement the javax.persistence.AttributeConverter interface.
 * [Implementing Batch Jobs with Hibernate | Thorben Janssen](https://www.youtube.com/watch?v=COrDelJMWqw)
 * [What is the easiest way to ignore a JPA field during persistence? | stackoverflow](https://stackoverflow.com/questions/1281952/what-is-the-easiest-way-to-ignore-a-jpa-field-during-persistence)
 * [Why does JPA have a @Transient annotation? | stackoverflow](https://stackoverflow.com/questions/2154622/why-does-jpa-have-a-transient-annotation)
+* [Setting default values for columns in JPA | stackoverflow](https://stackoverflow.com/questions/197045/setting-default-values-for-columns-in-jpa)
+* [Map enum in JPA with fixed values? | stackoverflow](https://stackoverflow.com/questions/2751733/map-enum-in-jpa-with-fixed-values)
+* [JPA and Hibernate - Criteria vs. JPQL or HQL | stackoverflow](https://stackoverflow.com/questions/197474/jpa-and-hibernate-criteria-vs-jpql-or-hql)
