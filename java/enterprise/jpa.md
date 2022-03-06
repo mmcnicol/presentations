@@ -395,3 +395,4 @@ A Converter must implement the javax.persistence.AttributeConverter interface.
 * [Getting started with Hibernate | Thorben Janssen](https://www.youtube.com/watch?v=6TPDK6MOkz4)
 * [JPA & Hibernate: Entity Lifecycle Model | Thorben Janssen](https://youtu.be/Y7PpjerZkc0)
 * [Implementing Batch Jobs with Hibernate | Thorben Janssen](https://www.youtube.com/watch?v=COrDelJMWqw)
+* [What is the easiest way to ignore a JPA field during persistence? | stackoverflow](https://stackoverflow.com/questions/1281952/what-is-the-easiest-way-to-ignore-a-jpa-field-during-persistence)
