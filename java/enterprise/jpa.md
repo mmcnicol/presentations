@@ -396,3 +396,4 @@ A Converter must implement the javax.persistence.AttributeConverter interface.
 * [JPA & Hibernate: Entity Lifecycle Model | Thorben Janssen](https://youtu.be/Y7PpjerZkc0)
 * [Implementing Batch Jobs with Hibernate | Thorben Janssen](https://www.youtube.com/watch?v=COrDelJMWqw)
 * [What is the easiest way to ignore a JPA field during persistence? | stackoverflow](https://stackoverflow.com/questions/1281952/what-is-the-easiest-way-to-ignore-a-jpa-field-during-persistence)
+* [Why does JPA have a @Transient annotation? | stackoverflow](https://stackoverflow.com/questions/2154622/why-does-jpa-have-a-transient-annotation)
