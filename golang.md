@@ -86,6 +86,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Automate the Boring | Mark Smith | GDG Berlin Golang November/2021](https://www.youtube.com/watch?v=o2b0Sm0UJuI)
 * [When Toy Languages Grow Up | Linus Lee | GopherCon 2021](https://www.youtube.com/watch?v=ALwmdcFiuGg)
 * [Intro to MongoDB and its Go driver | Jack Woehr | Mile High Gophers](https://www.youtube.com/watch?v=Aw6mWa5Pfa4)
+* [JSON Serialization - The Fine Print | Mike Tebeka | fosdem 2022](https://ftp.heanet.ie/mirrors/fosdem-video/2022/D.go/go_json.webm)
  
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
