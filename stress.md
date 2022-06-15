@@ -16,7 +16,7 @@
 * psychological manipulation, gaslighting
 * domination and intimidation techniques - use of deep-pitched voice
 
-# positive factors
+## positive factors
 * environment, systems / processes, people
 * leadership (facilitating progress)
 * managing complexity
