@@ -7,7 +7,7 @@
 * burn-out
 * lack of engagement
 * stress-response system cronically activated
-* unhealthy addictions
+* unhealthy addictions, stimulants
 
 ## negative factors
 * negative stresses: environment, systems / processes, people
