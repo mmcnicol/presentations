@@ -20,6 +20,7 @@
 * toxic culture
 * psychological manipulation, gaslighting
 * domination and intimidation techniques - use of deep-pitched voice
+* poor health
 
 ## positive factors
 * environment, systems / processes, people
