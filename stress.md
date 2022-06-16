@@ -27,8 +27,11 @@
 * leadership (facilitating progress)
 * managing complexity
 * mindfulness practices
-  * rest, relaxation, ability to switch-off, focus on breathing, walking, excercise, relationships
+  * rest, relaxation, ability to switch-off, focus on breathing, walking, relationships
 * empathy
+* excercise
+* healthy food
+* sleep
 
 ## positive outcomes
 * equanimity - calmness and composure, especially in a difficult situations
