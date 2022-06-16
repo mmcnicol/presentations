@@ -12,6 +12,11 @@
 ## negative factors
 * negative stresses: environment, systems / processes, people
 * cognitive load - too high, for too long?
+* pressure of deadlines
+* lack of knowledge
+  * effort to get something working
+  * effort to debug a problem
+  * time to iterate (frequent waiting)
 * toxic culture
 * psychological manipulation, gaslighting
 * domination and intimidation techniques - use of deep-pitched voice
