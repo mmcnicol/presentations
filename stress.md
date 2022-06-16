@@ -14,9 +14,9 @@
 * cognitive load - too high, for too long?
 * pressure of deadlines
 * lack of knowledge
-  * effort to get something working
-  * effort to debug a problem
-  * time to iterate (frequent waiting)
+  * effort to get something working (taking longer than expected)
+  * effort to debug a problem (taking longer than expected)
+  * time to iterate (frequent waiting, repitition)
 * toxic culture
 * psychological manipulation, gaslighting
 * domination and intimidation techniques - use of deep-pitched voice
