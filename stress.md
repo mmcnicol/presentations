@@ -13,6 +13,7 @@
 * negative stresses: environment, systems / processes, people
 * cognitive load - too high, for too long?
 * pressure of deadlines
+  * a fake deadline is a stress inducer and productivity killer in all situations.
 * lack of knowledge
   * effort to get something working (taking longer than expected)
   * effort to debug a problem (taking longer than expected)
