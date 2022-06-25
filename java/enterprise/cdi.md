@@ -31,8 +31,22 @@ there are 3 reserved qualifiers:
 * [Design Patterns and Best Practices in Java EE 8 : Decorator Pattern | packtpub.com](https://www.youtube.com/watch?v=0iLqRq8CyOk)
 * [Apache TomEE and CDI (Decorators) | Alex Soto Bueno](https://www.youtube.com/watch?v=s8TJFub2m7c)
 
+## events
+
+events can be synchronous or asynchronous.
+
+synchronous:
+```
+obj.fire()
+```
+
+asynchronous:
+```
+obj.fireAsync()
+```
 
 ## links
 * [Chapter 7. Contexts and Dependency Injection | redhat jboss eap docs](https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.2/html/development_guide/contexts_and_dependency_injection)
 * [Contexts and Dependency Injection | Getting Started with MicroProfile](https://www.youtube.com/watch?v=Q8jHRDu9Fbo)
 * [Introduction to CDI | Virtual JBoss User Group](https://www.youtube.com/watch?v=E0lhfKIHclc)
+* [Using Events in CDI Applications | Java Platform, Enterprise Edition (Java EE) 8 | The Java EE Tutorial](https://javaee.github.io/tutorial/cdi-adv005.html)
