@@ -10,7 +10,7 @@ since CDI 1.1, CDI is activated by default
 @Dependent (the default, depends on the context of the Bean to which it is injected)  
 @ApplicationScoped, @SessionScoped, @RequestScoped,  
 @ConversationScoped  
-@Singleton
+@Singleton (javax.inject.Singleton)
 
 note: @SessionScoped and @ConversationScoped must be serializable
 
