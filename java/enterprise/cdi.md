@@ -33,7 +33,7 @@ there are 3 reserved qualifiers:
 
 ## events
 
-events can be synchronous or asynchronous.
+CDI events can be synchronous or asynchronous.
 
 synchronous:
 ```
