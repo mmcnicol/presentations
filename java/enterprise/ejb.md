@@ -1,5 +1,7 @@
 # Enterprise JavaBeans (EJB)
 
+2013: EJB 3.2 released (Java EE 7, JBoss EAP 7)
+
 Types of Enterprise Beans:
 * Session Beans
 * Message Driven Beans
