@@ -15,6 +15,25 @@ The lifecycle of a session bean instance is, naturally, managed by the EJB conta
 * Stateful
 * Singelton
 
+### Asynchronous EJBs
+
+at class level:
+@Stateless + @Asynchronous
+
+at method level:
+@Asynchronous
+return void
+or, 
+```
+// caller
+Future<String> resultFuture = ...
+resultFuture.get();
+
+// service
+String result;
+return new AsyncResult<>(result);
+```
+
 ## Message Driven Beans
 
 A message-driven bean or MDB is an enterprise bean that allows you to process messages asynchronously. This type of bean normally acts as a JMS message listener, which is similar to an event listener but receives JMS messages instead of events.
