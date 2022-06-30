@@ -39,6 +39,9 @@ we talk about architecture because we want our applications to contain two attri
 * [Pattern: Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
 
 
+## fractal architecture
+* [Fractal Architecture | Mark Seemann | NDC Porto 2022](https://www.youtube.com/watch?v=t3rSCpcJzm0)
+
 
 ## links
 
