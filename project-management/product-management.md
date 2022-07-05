@@ -2,6 +2,7 @@
 
 * figuring out what needs to be done and why
 * maintaining a narrative about the work
+* the intersection of business, user experience, and technology
 
 
 links:
