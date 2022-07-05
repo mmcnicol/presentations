@@ -1,5 +1,9 @@
 # product management
 
+* figuring out what needs to be done and why
+* maintaining a narrative about the work
+
+
 links:
 
 * [The Art of Product Management with Sachin Rekhi (ENG’05 W’05)](https://www.youtube.com/watch?v=huTSPanUlQM)
