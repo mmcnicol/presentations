@@ -11,17 +11,6 @@ project management is the use of specific knowledge, skills, tools and technique
 * project close
 
 
-## transition processes:
-* mission analysis
-* goal specification
-* strategy formulation
-
-
-## action processes:
-* monitoring progress toward goals
-* coordination
-
-
 ## major factors
 * scope
 * time
@@ -37,4 +26,15 @@ project management is the use of specific knowledge, skills, tools and technique
 * anticipate and mitigate risks
 * organizational awareness
 * diplomacy
+
+
+## transition processes
+* mission analysis
+* goal specification
+* strategy formulation
+
+
+## action processes
+* monitoring progress toward goals
+* coordination
 
