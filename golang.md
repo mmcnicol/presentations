@@ -90,6 +90,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Event Sourcing – Architectures and Patterns | Matt Ho | Gopherfest 2017](https://www.youtube.com/watch?v=giUatBmmb_Y&t=2231s)
 * [Implementing 'tail -f' with Go | Fabian Stäber | FOSDEM 2017](https://www.youtube.com/watch?v=lLDWF59aZAo)
 * [Introduction to Fuzzing | Nooras Saba | The Go Programming Language 2022](https://www.youtube.com/watch?v=-hc6LGA46Bg)
+* [Generating Better Machine Code with SSA | Keith Randall | GopherCon 2017](https://www.youtube.com/watch?v=uTMvKVma5ms)
  
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
