@@ -1,5 +1,11 @@
 # work-related stress
 
+psychological hazzards cause stress
+
+remove psychological hazzards
+
+by spreading compassion & understanding
+
 
 ## symptoms of workplace stress:
 * a drop in work performance
