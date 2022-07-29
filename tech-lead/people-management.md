@@ -56,6 +56,20 @@ aka interpersonal processes
 * do something you are afraid of
 * learn a new skill
 
+### intrinsic motivation is more important than extrinsic motivation
+
+#### extrinsic motivation
+* money
+* power
+* status
+* fear
+* punishment
+
+#### intrinsic motivation
+* feeling good about yourself
+* doing an activity for its inherent satisfaction
+* a person is moved to act for the fun or challenge
+
 
 ## building skills and careers
 * product know-how
