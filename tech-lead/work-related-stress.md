@@ -1,5 +1,11 @@
 # work-related stress
 
+54% of all working days lost attribuited to stress
+
+79% of adults in employment experience work-related stress
+
+the most common cause of stress at work is related to office politics (37%)
+
 psychological hazzards cause stress
 
 remove psychological hazzards
