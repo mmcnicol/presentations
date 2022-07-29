@@ -3,7 +3,7 @@
 aka interpersonal processes
 
 
-* turning the people into a team
+* turning people into a team
 * motivation and confidence building
 * building their skills and careers
 * mentorship
@@ -18,6 +18,13 @@ aka interpersonal processes
 * building a conducive environment
 * encouraging collaboration
 
+### what makes a happy team?
+what makes highly effective teams?
+* to have an environment of psychological safety
+  * to learn
+  * to contribute
+  * to challenge
+* a culture of inclusivity
 
 ### remote work
 * a remote team must have a high level of trust
@@ -27,7 +34,6 @@ aka interpersonal processes
 * use efficient workflow and task management tools
 * minimise distractions
 * provide opportunities for remote social interaction
-
 
 ### challenges inherent in remote work
 * lack of face-to-face supervision
