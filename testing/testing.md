@@ -26,4 +26,4 @@
 * [Advanced Testing Techniques: Tips from the trenches - Graeme Foster & Rob Moore](https://vimeo.com/303275804)
 * [Acceptance Testing for Continuous Delivery - Dave Farley](https://youtu.be/SBhgteA2szg)
 * [just say no to more end to end tests | testing.googleblog.com](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
-
+* [Testing at Form3 | Episode 31 .tech](https://techpodcast.form3.tech/episodes/ep-31-tech-testing-at-form3)
