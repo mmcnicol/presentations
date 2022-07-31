@@ -7,6 +7,14 @@ core principles:
 * fail fast and learn quickly
 * keep planning
 
+
+A user story is an informal, general explanation of a software feature written from the perspective of the end user. Its purpose is to articulate how a software feature will provide value to the customer.
+
+A user story is the smallest unit of work in an agile framework. It’s an end goal, not a feature, expressed from the software user’s perspective.
+
+User stories are also the building blocks of larger agile frameworks like epics and initiatives. Epics are large work items broken down into a set of stories, and multiple epics comprise an initiative.
+
+
 the 3 most popular agile methods:
 * Scrum
 * Kanban
@@ -51,14 +59,30 @@ the empirical Scrum pillars of transparency, inspection, and adaptation come to 
 
 Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency.
 
-### Developers
+The acronym INVEST helps to remember a widely accepted set of criteria, or checklist, to assess the quality of a user story.
+
+A good user story should be:
+* "I" ndependent (of all others)
+* "N" egotiable (not a specific contract for features)
+* "V" aluable (or vertical)
+* "E" stimable (to a good approximation)
+* "S" mall (so as to fit within an iteration)
+* "T" estable (in principle, even if there isn’t a test for it yet)
+
+### Roles
+
+* Scrum Master
+* Product Owner
+* Developers
+
+#### Developers
 are always accountable for:
 * Creating a plan for the Sprint, the Sprint Backlog;
 * Instilling quality by adhering to a Definition of Done;
 * Adapting their plan each day toward the Sprint Goal; and,
 * Holding each other accountable as professionals.
 
-### Product Owner
+#### Product Owner
 is accountable for maximizing the value of the product resulting from the work of the Scrum Team.
 
 is also accountable for effective Product Backlog management, which includes:
@@ -67,7 +91,7 @@ is also accountable for effective Product Backlog management, which includes:
 * Ordering Product Backlog items; and,
 * Ensuring that the Product Backlog is transparent, visible and understood.
 
-### Scrum Master
+#### Scrum Master
 is accountable for establishing Scrum as defined in the Scrum Guide. 
 is accountable for the Scrum Team’s effectiveness.
 are true leaders who serve the Scrum Team and the larger organization.
@@ -103,6 +127,7 @@ The purpose of the Sprint Retrospective is to plan ways to increase quality and 
 * product backlog
 * sprint backlog
 * increment
+* story
 
 
 ## Kanban
