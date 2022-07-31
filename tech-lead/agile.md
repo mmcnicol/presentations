@@ -19,6 +19,13 @@ a highly structured model with clearly defined roles and responsibilities
 
 can be particularly useful for traditionally structured organisations that are moving to agile
 
+values:
+* courage
+* focus
+* commitment
+* respect
+* openness
+
 requires a Scrum Master
 
 a Product Owner orders the work for a complex problem into a Product Backlog
