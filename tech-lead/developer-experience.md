@@ -25,7 +25,7 @@ what makes developers unhappy at work?
 * feeling unproductive at work
 * the absence of growth opportunities
 * a lack of autonomy
-* poor or unhealthy work relationships - control and domination
+* poor or unhealthy work relationships - control and domination, micromanaging
 * using a niche product
 
 what makes developers feel productive?
