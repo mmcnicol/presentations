@@ -17,6 +17,11 @@ project management is the use of specific knowledge, skills, tools and technique
 * budget
 * quality
 
+### project management triangle
+a model of the constraints of project management
+* the quality of work is constrained by the project's budget (resources), deadlines and scope (features).
+* the project manager can trade between constraints.
+* changes in one constraint necessitate changes in others to compensate or quality will suffer.
 
 ## skills
 * communication
