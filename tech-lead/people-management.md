@@ -178,3 +178,7 @@ what makes highly effective teams?
 * create a supportive classroom environment
 * create an environment where questions and answers - even wrong answers - are encouraged and valued
 * tuning into team emotions
+
+## links
+* [Don’t Negotiate, Be Persuasive | Katherine McMahan | NYT Open](https://open.nytimes.com/dont-negotiate-be-persuasive-f45b3db93c2e)
+* [Growing a Successful and Collaborative Team | Akhilesh Nayak | NYT Open](https://open.nytimes.com/growing-a-successful-and-collaborative-team-4e4c608ab2fc)
