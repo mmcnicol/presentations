@@ -11,3 +11,4 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 * [Practical Cloud Native: What Works, What Doesn't | Sarah Wells | GOTO 2021](https://www.youtube.com/watch?v=esaoQPIIiTo)
 * [Kubernetes: The Documentary - PART 1 | Honeypot 2022](https://www.youtube.com/watch?v=BE77h7dmoQU)
 * [Kubernetes: The Documentary - PART 2 | Honeypot 2022](https://www.youtube.com/watch?v=318elIq37PE)
+* [Kubernetes Design Principles: Understand the Why | Saad Ali, Google 2018](https://www.youtube.com/watch?v=ZuIQurh_kDk)
