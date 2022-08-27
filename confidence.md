@@ -1,0 +1,4 @@
+# confidence
+
+confidence is preperation
+
