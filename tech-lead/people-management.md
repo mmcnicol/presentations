@@ -187,3 +187,4 @@ what makes highly effective teams?
 * [Don’t Negotiate, Be Persuasive | Katherine McMahan | NYT Open](https://open.nytimes.com/dont-negotiate-be-persuasive-f45b3db93c2e)
 * [Growing a Successful and Collaborative Team | Akhilesh Nayak | NYT Open](https://open.nytimes.com/growing-a-successful-and-collaborative-team-4e4c608ab2fc)
 * [How to Quit Your Job, The Right Way | Inc. 2022](https://www.youtube.com/watch?v=6KR8_nxkJ3E)
+* [Upskilling: Why it makes sense to retrain staff | Working It (podcast) | Financial Times](https://open.spotify.com/episode/00dUgCdgWDvFF9uLL6ySQq?si=FpSUGSxUTyy5qQ1ZEmjL6Q)
