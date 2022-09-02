@@ -92,6 +92,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Introduction to Fuzzing | Nooras Saba | The Go Programming Language 2022](https://www.youtube.com/watch?v=-hc6LGA46Bg)
 * [Generating Better Machine Code with SSA | Keith Randall | GopherCon 2017](https://www.youtube.com/watch?v=uTMvKVma5ms)
 * [Go for DevOps | Caskey L. Dickson | linux conf au 2017 - Hobart, Australia](https://www.youtube.com/watch?v=hsgkdMrEJPs)
+* [From Service To Platform: A Ranking System in Go | Konrad Reiche | GopherCon Europe 2022](https://www.youtube.com/watch?v=5jSyctW1rPg)
  
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
