@@ -113,3 +113,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [Half a million lines of Go | Kevin Dangoor | khan academy](https://blog.khanacademy.org/half-a-million-lines-of-go/)
 * [Why Go - Case Studies](https://go.dev/solutions/#case-studies)
 * [Sean Schade on Moving from Scala to Golang | North Austin Golang Meetup, hosted by Agrarian Labs, in September 2016](https://www.youtube.com/watch?v=pCmLUb5ITUc)
+* [How Go Became its Best Self | Cameron Balahan | GopherCon Europe 2022](https://www.youtube.com/watch?v=vQm_whJZelc)
