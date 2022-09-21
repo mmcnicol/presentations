@@ -24,3 +24,5 @@ being a tech lead is an exercise in influencing without direct authority.
 * always keep learning.
 * prioritise the needs of the team over the needs of the individual.
 
+## links
+* [Leading in Tech | Michael Cullum | GopherCon UK 2022](https://www.youtube.com/watch?v=JpGG3eOd5P4)
