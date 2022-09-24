@@ -95,6 +95,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [From Service To Platform: A Ranking System in Go | Konrad Reiche | GopherCon Europe 2022](https://www.youtube.com/watch?v=5jSyctW1rPg)
 * [Respecting Memory Limits In Go | Michael Knyszek | GopherCon Europe 2022](https://www.youtube.com/watch?v=07wduWyWx8M)
 * [Building a custom Kubernetes scheduler | Kelsey Hightower | GopherCon 2016](https://www.youtube.com/watch?v=IYcL0Un1io0)
+* [Production Go Service Essentials | Elliot Williams | GopherCon UK 2022](https://www.youtube.com/watch?v=BVEcbifDrMk)
  
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
