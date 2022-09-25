@@ -1,5 +1,30 @@
-
 # microservices
+
+## golden rules
+* use a mono repo
+* each services should have the same structure
+* use a template to create a new services
+** so you can concentrate on just writing business logic
+* use event-driven, to divide complex processes into independant chunks of work
+* make it easy to update common functionality
+* write tests to lock the behaviour of your services' API
+
+## pros
+* technical debt easier to control in individual services
+* they naturally keep many things simple (individual services)
+** because a large number of individually simple and loosely-coupled systems are more resilient than a small number of individually complex and tightly-coupled systems
+* hot deployment of individual services (components)
+* elasticity
+
+## cons
+* overkill for a small system which would be easier as a monolith
+* deployment more complex (compared to a single monolith)
+* good tracing & logging is necessary
+* cascading failures & retry storms
+* platform is complex e.g. kubernetes/docker (service discovery)
+* easy to get burned by microservices gone wrong
+* seems impossible due to large number of services
+* not a silver bullet
 
 ## links
 * [article: microservices | Martin Fowler](https://www.martinfowler.com/articles/microservices.html)
