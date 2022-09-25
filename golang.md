@@ -97,6 +97,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Building a custom Kubernetes scheduler | Kelsey Hightower | GopherCon 2016](https://www.youtube.com/watch?v=IYcL0Un1io0)
 * [Production Go Service Essentials | Elliot Williams | GopherCon UK 2022](https://www.youtube.com/watch?v=BVEcbifDrMk)
 * [2 ways to test your Go HTTP server | Boldly Go 2022](https://www.youtube.com/watch?v=tCAl8fdqDnM)
+* [Explaining my standard golangci-lint configuration | Boldly Go 2022](https://www.youtube.com/watch?v=gpa1kIusbws)
  
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
