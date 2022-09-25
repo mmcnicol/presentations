@@ -99,6 +99,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [2 ways to test your Go HTTP server | Boldly Go 2022](https://www.youtube.com/watch?v=tCAl8fdqDnM)
 * [Explaining my standard golangci-lint configuration | Boldly Go 2022](https://www.youtube.com/watch?v=gpa1kIusbws)
 * [Go Linters: Myths and Best Practices | Denis Isaev | GopherCon 2019](https://www.youtube.com/watch?v=1U-Gzz4TYP0)
+* [Write your own Golang Linter | WebHack#33 | WebHack Meetup 2020](https://www.youtube.com/watch?v=eozUQMLHyD8)
  
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
