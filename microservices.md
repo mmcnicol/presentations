@@ -11,3 +11,4 @@
 * [Event-based Architecture and Implementations with Kafka and Atom | Eberhard Wolff | GOTO 2018](https://youtu.be/Ecg7lvvm8aU)
 * [Avoiding Microservice Megadisasters | Jimmy Bogard | NDC Conferences](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 * [Microservices in Go | Matt Heath | GOTO 2016](https://www.youtube.com/watch?v=WiCru2zIWWs)
+* [How to Structure Your Microservices | Kat Zień | GopherCon Europe 2020](https://www.youtube.com/watch?v=KCyMtx5ev80)
