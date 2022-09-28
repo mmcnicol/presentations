@@ -107,3 +107,5 @@ by spreading compassion & understanding
 ## links
 * [Work-related stress](https://www.betterhealth.vic.gov.au/health/healthyliving/work-related-stress)
 * [The cost of workplace stress -- and how to reduce it | Rob Cooke | TED](https://www.youtube.com/watch?v=QE8kNh52EeU)
+* [Keynote: Managing the Burnout Burndown | Anjuan Simmons | NDC Conferences 2022](https://www.youtube.com/watch?v=yl41A7UVrPE)
+
