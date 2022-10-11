@@ -26,3 +26,4 @@ http://www.baeldung.com/maven-dependency-scopes
 
 https://www.petrikainulainen.net/programming/tips-and-tricks/creating-profile-specific-configuration-files-with-maven/
 
+* [Maven, my life is short! | Peter Palaga | Devoxx 2022](https://www.youtube.com/watch?v=Gwmmz_T6THA)
