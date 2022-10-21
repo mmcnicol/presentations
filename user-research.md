@@ -36,4 +36,4 @@ Good user needs should:
 
 ## links
 * [gov.uk; service manual; user research; start by learning user needs](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs)
-
+* [It’s easy to create good looking products, but what about useful ones | Eleftheria Batsou | Devoxx 2022](https://www.youtube.com/watch?v=qI91Tt_tkxI)
