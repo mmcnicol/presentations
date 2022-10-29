@@ -103,6 +103,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Rethinking Classical Concurrency Patterns | Bryan C. Mills | GopherCon 2018](https://www.youtube.com/watch?v=5zXAHh5tJqQ)
 * [Building web services in Go | Richard Crowley | GopherCon 2014 | Confreaks](https://www.youtube.com/watch?v=YPQ-aFjJX5Q)
 * [From OOP to GO | Yarden Laifenfeld | CNCF Cloud Native Computing Foundation 2022](https://www.youtube.com/watch?v=9oVr7rrNZVI)
+* [Compatibility: How Go Programs Keep Working | Russ Cox | GopherCon 2022](https://www.youtube.com/watch?v=v24wrd3RwGo)
  
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
