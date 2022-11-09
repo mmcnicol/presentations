@@ -46,3 +46,4 @@
 * [Is there #Stress in the world of #Tech? | Crux Conception | JSConf 2022](https://www.youtube.com/watch?v=50MVwFWe0hA)
 * [Tips & Tricks to Manage Stress as a Developer | John Le Drew & Markus Wittwer | GOTO 2019](https://www.youtube.com/watch?v=xvWCVL96Xhw)
 * [The Mindful Developer: The Neuroscience of Stress Management | Matthew Renze | Devoxx 2018](https://www.youtube.com/watch?v=dd_Tq3Drymg)
+* [The Thing About Burnout | Ashley McNamara | All Things Open 2019](https://www.youtube.com/watch?v=-TVdRgT2j54)
