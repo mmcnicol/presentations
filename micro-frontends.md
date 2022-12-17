@@ -56,3 +56,4 @@
 * [Motivations, benefits, and issues for adopting Micro-Frontends: A Multivocal Literature Review](https://www.sciencedirect.com/science/article/pii/S0950584921000549)
 * [Micro Frontends - The Nitty Gritty Details or Frontend, Backend | Michael Geers | Micro CPH](https://www.youtube.com/watch?v=wCHYILvM7kU)
 * [The Problems Micro Frontends Won't Solve That No One Wants to Talk About | Jennifer Wadella | NDC Conferences](https://www.youtube.com/watch?v=KfezmwfTu7Y)
+* [Loosely Coupled - Micro-Frontends And Capital One’s Contact Centers | Steve Husak & Noah Mandelbaum | The Linux Foundation](https://www.youtube.com/watch?v=rLF_N0f2Z9U)
