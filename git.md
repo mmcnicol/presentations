@@ -186,3 +186,4 @@ $ git log -S '<string-to-search-for>'
 * [Git for Humans Speakerdeck by Alice Bartlett](https://speakerdeck.com/alicebartlett/git-for-humans)
 * [Git for Humans Gist by Lucio Martinez](https://gist.github.com/luciomartinez/11277737)
 * [Knowledge is Power: Getting out of Trouble by Understanding Git - Steve Smith](https://www.youtube.com/watch?v=fHLcZGi3yMQ)
+* [How to find number of commits done to a file across a repository | stackoverflow.com](https://stackoverflow.com/questions/29865578/how-to-find-number-of-commits-done-to-a-file-across-a-repository)
