@@ -2,6 +2,10 @@
 
 * focus takes effort
   * we only have a certain amount of cognative resources
+  * we are happier when we are doing a rote, easy activity because it doesn't involve much mental effort
+* recharge our mental resources
+  * by doing rote, easy, engaging activities (playing a game, going for a short walk)
+  * use purposefully, to replenish & recharge
 * task switching
   * there is a switch cost
   * increases stress
