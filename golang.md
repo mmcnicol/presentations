@@ -107,6 +107,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Zero-effort Type-safe Parsing of JSON and XML | Zürich Go Meetup 2023](https://www.youtube.com/watch?v=VcNNy_4h9Ps)
 * [Deploy Go applications in a serverless environment | The Go Programming Language 2023](https://www.youtube.com/watch?v=pHCKVXUwceg)
 * [Go development for your startup | The Go Programming Language 2023](https://www.youtube.com/watch?v=Gp3iKZMW21g)
+* [The Secret Life of a Goroutine | Jesús Espino | April Gophers 2023](https://www.youtube.com/watch?v=MYtUOOizITs)
  
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
