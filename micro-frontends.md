@@ -57,3 +57,5 @@
 * [Micro Frontends - The Nitty Gritty Details or Frontend, Backend | Michael Geers | Micro CPH](https://www.youtube.com/watch?v=wCHYILvM7kU)
 * [The Problems Micro Frontends Won't Solve That No One Wants to Talk About | Jennifer Wadella | NDC Conferences](https://www.youtube.com/watch?v=KfezmwfTu7Y)
 * [Loosely Coupled - Micro-Frontends And Capital One’s Contact Centers | Steve Husak & Noah Mandelbaum | The Linux Foundation](https://www.youtube.com/watch?v=rLF_N0f2Z9U)
+* [Micro-Frontends in AWS | Luca Mezzalira | NDC London 2023](https://www.youtube.com/watch?v=Wn1Cj7785i8)
+
