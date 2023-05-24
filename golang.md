@@ -108,7 +108,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Deploy Go applications in a serverless environment | The Go Programming Language 2023](https://www.youtube.com/watch?v=pHCKVXUwceg)
 * [Go development for your startup | The Go Programming Language 2023](https://www.youtube.com/watch?v=Gp3iKZMW21g)
 * [The Secret Life of a Goroutine | Jesús Espino | April Gophers 2023](https://www.youtube.com/watch?v=MYtUOOizITs)
-* [ Mocking in Go with Testify/Mockery | Mirjam Uher | Golang Melbourne Meetup 18 May 2023](https://www.youtube.com/watch?v=4ZAHodrUU0M)
+* [Mocking in Go with Testify/Mockery | Mirjam Uher | Golang Melbourne Meetup 18 May 2023](https://www.youtube.com/watch?v=4ZAHodrUU0M)
  
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
