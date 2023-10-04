@@ -29,6 +29,7 @@ we talk about architecture because we want our applications to contain two attri
 ## event-driven programming
 * [Design Patterns: Why Event Sourcing?](https://youtu.be/rUDN40rdly8)
 * [The Power of Event-Driven Systems without Burning your Hands or Budgets | Allard Buijze | GOTO 2020](https://www.youtube.com/watch?v=Fso2OyguRuQ)
+* [Microservices Got Talent: The Event Driven Beautiful Dance | Renato Cavalcanti | Devoxx 2023](https://www.youtube.com/watch?v=6FuB3cNfRNQ)
 
 
 ## serverless
