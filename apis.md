@@ -15,3 +15,4 @@ https://gdstechnology.blog.gov.uk/2016/05/20/assessing-documentation-tooling-for
 
 ## links
 * [Migrations - The Hardest Actual Problem in Computer Science | Matt Ranney | YOW! 2022](https://www.youtube.com/watch?v=yJOrMDMqeoI)
+* [API-Driven Development with OpenAPI Specification Testing | Brett Bush | Nordic APIs 2023](https://www.youtube.com/watch?v=kv8MhhCbG1U)
