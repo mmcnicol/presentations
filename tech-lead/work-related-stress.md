@@ -109,4 +109,5 @@ by spreading compassion & understanding
 * [The cost of workplace stress -- and how to reduce it | Rob Cooke | TED](https://www.youtube.com/watch?v=QE8kNh52EeU)
 * [Keynote: Managing the Burnout Burndown | Anjuan Simmons | NDC Conferences 2022](https://www.youtube.com/watch?v=yl41A7UVrPE)
 * [Raising Awareness of Invisible Illnesses in the Tech Workplace | Joe McNeil | ACCU 2023](https://www.youtube.com/watch?v=CXX3LWeXuv8)
+* [Tackling Burnout in theIT Industry | Sonia Cuff | YOW! 2018](https://www.youtube.com/watch?v=p43v3Xi2OAk)
 
