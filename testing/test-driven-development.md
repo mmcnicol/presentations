@@ -5,10 +5,10 @@ TDD done well should support refactoring, which enables incremental and iterativ
 ## the TTD cycle
 
 * write a test
-* see it fail
+* red; see it fail
 * write some code to make the test pass
-* see the test pass
-^ refactor
+* green; see the test pass
+* refactor
 
 
 ## links
