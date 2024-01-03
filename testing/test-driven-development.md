@@ -19,3 +19,4 @@
 * [First International TDD Conference | Saturday July 10, 2021 | TDD Conference](https://www.youtube.com/watch?v=-_noEVCR__I)
 * [Improving your Test Driven Development in 45 minutes | Jakub Nabrdalik | Devoxx 2018](https://www.youtube.com/watch?v=2vEoL3Irgiw)
 * [TDD: Purposes and Practices | Tim Ottinger | 2019](https://www.industriallogic.com/blog/tdd-purposes-and-practices/)
+* [TDD Revisited | Ian Cooper | NDC Porto 2023](https://www.youtube.com/watch?v=IN9lftH0cJc)
