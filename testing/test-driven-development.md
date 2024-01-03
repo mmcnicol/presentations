@@ -1,5 +1,6 @@
 # test-driven-development (TDD)
 
+TDD done well should support refactoring, which enables incremental and iterative development with continuous integration.
 
 ## the TTD cycle
 
@@ -7,7 +8,7 @@
 * see it fail
 * write some code to make the test pass
 * see the test pass
-
+^ refactor
 
 
 ## links
