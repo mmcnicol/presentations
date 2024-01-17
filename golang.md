@@ -111,6 +111,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Mocking in Go with Testify/Mockery | Mirjam Uher | Golang Melbourne Meetup 18 May 2023](https://www.youtube.com/watch?v=4ZAHodrUU0M)
 * [Go and Redis, better together! | Abhishek Gupta | Conf42 Golang 2023](https://www.youtube.com/watch?v=IfL6J_6el7E)
 * [Go Testing By Example | Russ Cox | GopherConAU 2023](https://www.youtube.com/watch?v=1-o-iJlL4ak)
+* [The Future of JSON in Go | Joe Tsai | GopherCon 2023](https://www.youtube.com/watch?v=mBinOZ4KW7k)
  
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
