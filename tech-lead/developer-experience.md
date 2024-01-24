@@ -78,3 +78,4 @@ developers enjoy that dopamine rush when they get something working
 * [What makes developers happy at work | stackoverflow.blog 2022](https://stackoverflow.blog/2022/03/17/new-data-what-makes-developers-happy-at-work/)
 * [How do you measure Developer Productivity? The Good Day Project | Eirini Kalliamvakou | GitHub ](https://www.youtube.com/watch?v=MmgXIPTYMlY)
 * [Developer Toil: The Hidden Tech Debt; Developer Toil Audit](https://tanzu.vmware.com/developer/learningpaths/developer-toil/developer-toil-audit/)
+* [Developer Joy: How great teams get s%*t done | Sven Peters | Øredev 2023](https://www.youtube.com/watch?v=C6v2bfxBafg)
