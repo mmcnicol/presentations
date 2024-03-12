@@ -22,3 +22,4 @@ influence is a product of:
 
 ## links
 * Tanmay Vora
+* [Debugging Difficult Conversations - Or "How not to chicken out" | Andrew Murphy | NDC Porto 2024](https://www.youtube.com/watch?v=G17W6y7ClSo)
