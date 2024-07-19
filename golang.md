@@ -114,7 +114,8 @@ an open source programming language that makes it easy to build simple, reliable
 * [The Future of JSON in Go | Joe Tsai | GopherCon 2023](https://www.youtube.com/watch?v=mBinOZ4KW7k)
 * [Runtime Generated, Typesafe, and Declarative: Pick Any Three | Jon Bodner | GopherCon 2017](https://www.youtube.com/watch?v=hz6d7rzqJ6Q)
 * [Productionise any Application in Kubernetes Using Sidecar Containers | Davy Jones | GopherCon UK 2019](https://www.youtube.com/watch?v=2n_5LhV_Ef8)
- 
+* [HTTP Routing Enhancements | Jonathan Amsterdam | GopherCon Europe 2024](https://www.youtube.com/watch?v=4VSyrJI09K0)
+
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
 * [Controlling the Docker Engine from Go](https://medium.com/backendarmy/controlling-the-docker-engine-in-go-d25fc0fe2c45)
