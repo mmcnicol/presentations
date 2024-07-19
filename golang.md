@@ -135,3 +135,4 @@ an open source programming language that makes it easy to build simple, reliable
 * [Sean Schade on Moving from Scala to Golang | North Austin Golang Meetup, hosted by Agrarian Labs, in September 2016](https://www.youtube.com/watch?v=pCmLUb5ITUc)
 * [How Go Became its Best Self | Cameron Balahan | GopherCon Europe 2022](https://www.youtube.com/watch?v=vQm_whJZelc)
 * [A Golang Deep Dive with Bill Kennedy | Mangtas Nation Season 2 Episode 3](https://www.youtube.com/watch?v=pAZc0mhyPDM)
+* [The Business of Go | Cameron Balahan | GopherCon Europe 2024](https://www.youtube.com/watch?v=OaKcuq6ej1I)
