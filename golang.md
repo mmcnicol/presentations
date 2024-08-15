@@ -118,6 +118,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Unraveling Go Anti-Patterns | Rabieh Fashwall | GopherCon Europe 2024](https://www.youtube.com/watch?v=UCe88lVm1LE)
 * [How to Win Frames and Influence Pointers | Felix Geisendörfer | GopherCon Europe 2024](https://www.youtube.com/watch?v=0f8JnJhC0-0)
 * [Securing Containers Against Known Go Vulnerabilities | Zvonimir Pavlinovic | GopherCon Europe 2024](https://www.youtube.com/watch?v=tilSFyXL_z8)
+* [How I Wrote 10K Lines of Go in a Weekend | Tom Payne | 2024 Zürich Go Meetup ](https://www.youtube.com/watch?v=9XiVqfLVtIs)
 
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
