@@ -51,7 +51,6 @@ an open source programming language that makes it easy to build simple, reliable
 * [High-performance messaging with Go and Redis | INSIGHT | Chris Goddard (Charge Communications) | Twilio](https://youtu.be/x5__QAIxQZw)
 * [Amazon SNS/SQS with Go | Paul Borlin | GoDays](https://youtu.be/iKC9ctbStU0)
 * [Why writing is important | Go Time](https://open.spotify.com/episode/3iQOz9GEEaHUT2sZkReBJi?si=4TIssHClReyi7r57ZOEW3A)
-* [Building Resilient Data Pipelines in Go | Grant Griffiths | GopherCon UK 2018](https://youtu.be/gm34Aph9v0M)
 * [Building your own log-based message queue in Go | Victor Ruiz | Golang UK Conference 2016](https://youtu.be/ysjcEN548yc)
 * [Go for Real Time Streaming Architectures | Mickaël Rémond | dotGo 2017](https://youtu.be/0h-Kau4jxeE)
 * [NATS: A new nervous system for distributed cloud platforms | Derek Collison | SCALE 13x](https://youtu.be/sm63oAVPqAM)
@@ -127,6 +126,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Go for Data Science | Daniel Whitenack | GopherCon 2016](https://www.youtube.com/watch?v=D5tDubyXLrQ)
 * [Go, the Data Engineer's Missing Tool? | Juan Brandao | GopherCon 2022](https://www.youtube.com/watch?v=NP9tTNZ6I8o)
 * [Introduction to Modern Data Science with Go | Sam Kreter | Go Northwest 2018](https://www.youtube.com/watch?v=gwg_YXyCYBw)
+* [Building Resilient Data Pipelines in Go | Grant Griffiths | GopherCon UK 2018](https://www.youtube.com/watch?v=gm34Aph9v0M)
 
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
