@@ -127,6 +127,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Go, the Data Engineer's Missing Tool? | Juan Brandao | GopherCon 2022](https://www.youtube.com/watch?v=NP9tTNZ6I8o)
 * [Introduction to Modern Data Science with Go | Sam Kreter | Go Northwest 2018](https://www.youtube.com/watch?v=gwg_YXyCYBw)
 * [Building Resilient Data Pipelines in Go | Grant Griffiths | GopherCon UK 2018](https://www.youtube.com/watch?v=gm34Aph9v0M)
+* [Go Microservices for ML at the Edge | Samantha Coyle | GopherCon 2023](https://www.youtube.com/watch?v=aQFSxJnH6tQ)
 
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
