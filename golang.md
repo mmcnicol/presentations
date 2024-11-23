@@ -131,6 +131,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Northwestern's Data Science Program Features Go | Tom Miller | GopherCon 2021](https://www.youtube.com/watch?v=hwWBwGSNK3g)
 * [Going Serverless | Kelsey Hightower | GopherCon 2018](https://www.youtube.com/watch?v=U7glyWYj4qg)
 * [Inside the Map Implementation | Keith Randall | GopherCon 2016](https://www.youtube.com/watch?v=Tl7mi9QmLns)
+* [Mind the Gap | Katrina Owen | GopherCon 2016](https://www.youtube.com/watch?v=ClPIeuL9HnI)
 
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
