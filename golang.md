@@ -134,6 +134,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Mind the Gap | Katrina Owen | GopherCon 2016](https://www.youtube.com/watch?v=ClPIeuL9HnI)
 * [Go’s Strategic Advantage in the Era of EU Cyber Resilience and Liability | Tom Graupner | GoLab conference](https://www.youtube.com/watch?v=lqWypAYVja0)
 * [Learn Neural Networks With Go, Not Math | Ellen Körbes | GopherCon Europe 2019](https://www.youtube.com/watch?v=jb-12DOr5y4)
+* [Advanced Code Instrumentation Techniques for High-Performance Trading Systems | | GopherCon 2024](https://www.youtube.com/watch?v=oEm9w9-Geds)
 
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
