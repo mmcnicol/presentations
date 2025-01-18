@@ -136,6 +136,9 @@ an open source programming language that makes it easy to build simple, reliable
 * [Learn Neural Networks With Go, Not Math | Ellen Körbes | GopherCon Europe 2019](https://www.youtube.com/watch?v=jb-12DOr5y4)
 * [Advanced Code Instrumentation Techniques for High-Performance Trading Systems | | GopherCon 2024](https://www.youtube.com/watch?v=oEm9w9-Geds)
 * [Digital Audio from Scratch | Patrick Stephen | GopherCon 2024](https://www.youtube.com/watch?v=sXtSotGM_AA)
+* [Secure Coding in Go: Avoiding Common Vulnerabilities | Benji Vesterby | GopherCon 2022](https://www.youtube.com/watch?v=com5l5DKvqQ)
+* [Lightning-Fast Database Tests | Robin Hallabro-Kokko | GopherCon 2024](https://www.youtube.com/watch?v=wjglVMq3YuA)
+* [You Can Store That in a Container Registry?! | Siva Manivannan | GopherCon 2024](https://www.youtube.com/watch?v=Ahz5YlYZ-IM)
 
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
