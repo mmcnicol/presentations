@@ -148,6 +148,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Go is Boring...And That’s Fantastic! | Jon Bodner | CapitalOne tech blog 2020](https://www.capitalone.com/tech/software-engineering/go-is-boring/)
 * [introducing sqlc](https://conroy.org/introducing-sqlc)
 * [gomock](https://github.com/golang/mock)
+* [We Replaced Our React Frontend with Go and WebAssembly | Alex Suraci | dagger.io 2005](https://dagger.io/blog/replaced-react-with-go)
 
 ### why use golang?
 * [Journey from OO language to Golang | Sergey Kibish | @DevFest Switzerland 2018](https://youtu.be/1ZjvhGfpwJ8)
