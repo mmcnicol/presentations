@@ -40,3 +40,93 @@
 * [AWS re:Invent 2018: Building with AWS Databases: Match Your Workload to the Right Database (DAT301)](https://youtu.be/hwnNbLXN4vA)
 * [Podcast: How our Site Reliability Engineers migrated GOV.UK Pay | Government Digital Service](https://gds.blog.gov.uk/2021/10/28/podcast-how-our-site-reliability-engineers-migrated-gov-uk-pay/)
 * [Banking in the Cloud: 10 Lessons Learned | Jonathan Allen – AWS Enterprise Strategist and Evangelist | Amazon Web Services 2019](https://www.youtube.com/watch?v=phK8P7JQeso)
+
+
+
+
+
+https://github.com/aws
+
+https://aws.amazon.com/lambda/
+Run code without thinking about servers or clusters
+serverless applications - AWS Lambda is a compute service that runs your code in response to events and automatically manages the compute resources. 
+
+https://aws.amazon.com/containers/
+AWS container services
+
+https://aws.amazon.com/opensearch-service/
+ElasticSearch - real-time search, monitoring, and analysis of business and operational data
+
+https://aws.amazon.com/cloudformation/
+Speed up cloud provisioning with infrastructure as code
+
+https://aws.amazon.com/elasticbeanstalk/
+Deploy and scale web applications
+
+https://aws.amazon.com/dynamodb/
+Serverless, NoSQL, fully managed database
+
+https://aws.amazon.com/api-gateway/
+Create, maintain, and secure APIs
+traffic management, CORS support, authorization and access control, throttling, monitoring, and API version management.
+
+https://aws.amazon.com/secrets-manager/
+Centrally manage the lifecycle of secrets
+https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html
+https://docs.aws.amazon.com/secretsmanager/
+
+https://docs.aws.amazon.com/kms/latest/developerguide/overview.html
+AWS Key Management Service (AWS KMS) is an AWS managed service that makes it easy for you to create and control the encryption keys
+
+https://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html
+AWS Certificate Manager (ACM) handles the complexity of creating, storing, and renewing public and private SSL/TLS X.509 certificates and keys
+
+https://aws.amazon.com/sns/
+AWS Identity and Access Management - Fully managed Pub/Sub messaging service
+
+https://aws.amazon.com/iam/
+Securely manage identities and access to AWS services and resources
+
+https://aws.amazon.com/ecs/
+Amazon Elastic Container Service (Amazon ECS) is a fully managed container orchestration service that helps you to more efficiently deploy, manage, and scale containerized applications.
+
+https://aws.amazon.com/eks/?pg=ln&sec=hiw
+Amazon Elastic Kubernetes Service - Start, run, and scale Kubernetes
+
+https://aws.amazon.com/s3/
+Amazon Simple Storage Service (Amazon S3) is an object storage service
+
+https://aws.amazon.com/fargate/
+Serverless compute for containers
+
+https://aws.amazon.com/batch/
+Batch processing for ML model training, simulation, and analysis at any scale
+
+https://aws.amazon.com/ecr/
+Elastic Container Registry - docker containers
+
+https://aws.amazon.com/codecommit/
+private Git repositories and collaborate on code
+
+https://aws.amazon.com/codepipeline/
+
+https://aws.amazon.com/codebuild/
+prepackaged build environments - Build, test, package code
+Create a fully automated software release process that promotes code changes through multiple deployment environments.
+
+https://aws.amazon.com/codedeploy/
+Automate and consistently deploy your applications across your development, test, and production environments.
+Support multiple deployment types, including in-place, canary, and blue/green deployments.
+
+https://codecatalyst.aws/explore
+a unified software development service 
+
+https://aws.amazon.com/q/
+a generative AI assistant
+
+
+
+
+
+
+
