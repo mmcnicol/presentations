@@ -173,7 +173,9 @@ an open source programming language that makes it easy to build simple, reliable
 
 ### web application
 * [Build Web Application with Golang | astaxie.gitbooks.io](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
+* [Building Web Apps with Go! | codegangsta.gitbooks.io](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 * [Chapter 1. Go and web applications | Go Web Programming | livebook.manning.com](https://livebook.manning.com/book/go-web-programming/chapter-1/)
+
 
 #### middleware
 * [Middleware - Basic | Go Web Examples](https://gowebexamples.com/basic-middleware/)
@@ -192,16 +194,19 @@ an open source programming language that makes it easy to build simple, reliable
 #### security
 
 ##### CSRF
-* [CSRF attacks](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/09.1.html)
+* [Cross Site Request Forgery - CSRF | owasp.org](https://owasp.org/www-community/attacks/csrf)
+* [CSRF attacks | astaxie.gitbooks.io](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/09.1.html)
 
 ##### XSS
-* [XSS attacks](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/09.3.html)
+* [Cross Site Scripting - XSS | owasp.org](https://owasp.org/www-community/attacks/xss/)
+* [XSS attacks | astaxie.gitbooks.io](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/09.3.html)
 
 ##### sanitizing user input
-* [Filtering inputs](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/09.2.html)
+* [Filtering inputs | astaxie.gitbooks.io](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/09.2.html)
 
 ##### SQL injection
-* [SQL injection](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/09.4.html)
+* [SQL Injection | owasp.org](https://owasp.org/www-community/attacks/SQL_Injection)
+* [SQL injection | astaxie.gitbooks.io](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/09.4.html)
 
 
 ### cloud
