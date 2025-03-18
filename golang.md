@@ -140,6 +140,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Lightning-Fast Database Tests | Robin Hallabro-Kokko | GopherCon 2024](https://www.youtube.com/watch?v=wjglVMq3YuA)
 * [You Can Store That in a Container Registry?! | Siva Manivannan | GopherCon 2024](https://www.youtube.com/watch?v=Ahz5YlYZ-IM)
 
+
 ### articles
 * [A simpler building block for Go CLIs | Michael Fridman](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
 * [Controlling the Docker Engine from Go](https://medium.com/backendarmy/controlling-the-docker-engine-in-go-d25fc0fe2c45)
@@ -149,6 +150,11 @@ an open source programming language that makes it easy to build simple, reliable
 * [introducing sqlc](https://conroy.org/introducing-sqlc)
 * [gomock](https://github.com/golang/mock)
 * [We Replaced Our React Frontend with Go and WebAssembly | Alex Suraci | dagger.io 2005](https://dagger.io/blog/replaced-react-with-go)
+
+
+### news and jobs
+* [golangnews.com](https://golangnews.com/)
+
 
 ### why use golang?
 * [Journey from OO language to Golang | Sergey Kibish | @DevFest Switzerland 2018](https://youtu.be/1ZjvhGfpwJ8)
