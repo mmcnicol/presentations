@@ -164,19 +164,39 @@ an open source programming language that makes it easy to build simple, reliable
 * [The Business of Go | Cameron Balahan | GopherCon Europe 2024](https://www.youtube.com/watch?v=OaKcuq6ej1I)
 * [Using Go in government](https://technology.blog.gov.uk/2014/11/14/using-go-in-government/)
 
+
 ### web application
 * [Build Web Application with Golang | astaxie.gitbooks.io](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
+* [Chapter 1. Go and web applications | Go Web Programming | livebook.manning.com](https://livebook.manning.com/book/go-web-programming/chapter-1/)
 
 #### middleware
 * [Middleware - Basic | Go Web Examples](https://gowebexamples.com/basic-middleware/)
 * [Middleware - Advanced | Go Web Examples](https://gowebexamples.com/advanced-middleware/)
 
+
 #### database access
 * [An Introduction to using SQL Databases in Go | Alex Edwards](https://www.alexedwards.net/blog/introduction-to-using-sql-databases-in-go)
 * [Organising Database Access in Go | Alex Edwards](https://www.alexedwards.net/blog/organising-database-access)
 
+
 #### rate limiting
 * [How to Rate Limit HTTP Requests | Alex Edwards](https://www.alexedwards.net/blog/how-to-rate-limit-http-requests)
+
+
+#### security
+
+##### CSRF
+* [CSRF attacks](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/09.1.html)
+
+##### XSS
+* [XSS attacks](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/09.3.html)
+
+##### sanitizing user input
+* [Filtering inputs](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/09.2.html)
+
+##### SQL injection
+* [SQL injection](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/09.4.html)
+
 
 ### cloud
 
