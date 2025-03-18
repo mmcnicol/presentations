@@ -172,4 +172,8 @@ an open source programming language that makes it easy to build simple, reliable
 #### database access
 * [Organising Database Access in Go | Alex Edwards](https://www.alexedwards.net/blog/organising-database-access)
 
+### cloud
+
+#### aws
+* [How to build a Serverless API with Go and AWS Lambda | Alex Edwards](https://www.alexedwards.net/blog/serverless-api-with-go-and-aws-lambda)
 
