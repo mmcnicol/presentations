@@ -162,3 +162,8 @@ an open source programming language that makes it easy to build simple, reliable
 * [How Go Became its Best Self | Cameron Balahan | GopherCon Europe 2022](https://www.youtube.com/watch?v=vQm_whJZelc)
 * [A Golang Deep Dive with Bill Kennedy | Mangtas Nation Season 2 Episode 3](https://www.youtube.com/watch?v=pAZc0mhyPDM)
 * [The Business of Go | Cameron Balahan | GopherCon Europe 2024](https://www.youtube.com/watch?v=OaKcuq6ej1I)
+
+### middleware
+* [Middleware - Basic | Go Web Examples](https://gowebexamples.com/basic-middleware/)
+* [Middleware - Advanced | Go Web Examples](https://gowebexamples.com/advanced-middleware/)
+
