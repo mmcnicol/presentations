@@ -165,6 +165,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Using Go in government](https://technology.blog.gov.uk/2014/11/14/using-go-in-government/)
 
 ### web application
+* [Build Web Application with Golang | astaxie.gitbooks.io](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 
 #### middleware
 * [Middleware - Basic | Go Web Examples](https://gowebexamples.com/basic-middleware/)
