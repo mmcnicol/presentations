@@ -162,7 +162,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [How Go Became its Best Self | Cameron Balahan | GopherCon Europe 2022](https://www.youtube.com/watch?v=vQm_whJZelc)
 * [A Golang Deep Dive with Bill Kennedy | Mangtas Nation Season 2 Episode 3](https://www.youtube.com/watch?v=pAZc0mhyPDM)
 * [The Business of Go | Cameron Balahan | GopherCon Europe 2024](https://www.youtube.com/watch?v=OaKcuq6ej1I)
-* [Using Go in government](https://technology.blog.gov.uk/2014/11/14/using-go-in-government/)
+* [Using Go in government | technology.blog.gov.uk](https://technology.blog.gov.uk/2014/11/14/using-go-in-government/)
 
 
 ### web application
