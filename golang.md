@@ -208,6 +208,9 @@ an open source programming language that makes it easy to build simple, reliable
 * [SQL Injection | owasp.org](https://owasp.org/www-community/attacks/SQL_Injection)
 * [SQL injection | astaxie.gitbooks.io](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/09.4.html)
 
+##### CSP
+* [Content Security Policy Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html)
+
 
 ### cloud
 
