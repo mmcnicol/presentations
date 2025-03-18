@@ -171,6 +171,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Middleware - Advanced | Go Web Examples](https://gowebexamples.com/advanced-middleware/)
 
 #### database access
+* [An Introduction to using SQL Databases in Go | Alex Edwards](https://www.alexedwards.net/blog/introduction-to-using-sql-databases-in-go)
 * [Organising Database Access in Go | Alex Edwards](https://www.alexedwards.net/blog/organising-database-access)
 
 #### rate limiting
