@@ -216,4 +216,5 @@ an open source programming language that makes it easy to build simple, reliable
 
 #### aws
 * [How to build a Serverless API with Go and AWS Lambda | Alex Edwards](https://www.alexedwards.net/blog/serverless-api-with-go-and-aws-lambda)
+* [Your First AWS Lambda Function with Go | Brian Morrison](https://www.youtube.com/watch?v=13rnse0zYK8)
 
