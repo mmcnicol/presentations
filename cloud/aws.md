@@ -46,7 +46,7 @@
 * [Back to Basics: Release Features Safely with AWS AppConfig Feature Flags | Amazon Web Services](https://www.youtube.com/watch?v=20NhUuWua_c)
 * [Back to Basics: Modernizing Monolithic Applications Using Cloud Strangler Pattern | Amazon Web Services](https://www.youtube.com/watch?v=Y4CuUxiWY5w)
 * [Back to Basics: Running Serverless Websites | Amazon Web Services](https://www.youtube.com/watch?v=rk9oGdfcbE4)
-
+* [Back to Basics: Modernize Your Frontend Apps with Micro-Frontends | Amazon Web Services](https://www.youtube.com/watch?v=obb1Ps-cl2k)
 
 https://github.com/aws
 
