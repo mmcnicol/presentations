@@ -42,6 +42,7 @@
 * [Banking in the Cloud: 10 Lessons Learned | Jonathan Allen – AWS Enterprise Strategist and Evangelist | Amazon Web Services 2019](https://www.youtube.com/watch?v=phK8P7JQeso)
 * [Back to Basics: Building Fan-Out Serverless Architectures Using SNS, SQS and Lambda | Amazon Web Services](https://www.youtube.com/watch?v=CEj0yyubNgQ)
 * [Back to Basics: Event-Driven Architecture with Kinesis | Amazon Web Services](https://www.youtube.com/watch?v=uwVYQv-HRYU)
+* [Back to Basics: Change Data Capture with Amazon DynamoDB | Amazon Web Services](https://www.youtube.com/watch?v=6YVjzD-70p4)
 
 
 
