@@ -44,7 +44,7 @@
 * [Back to Basics: Event-Driven Architecture with Kinesis | Amazon Web Services](https://www.youtube.com/watch?v=uwVYQv-HRYU)
 * [Back to Basics: Change Data Capture with Amazon DynamoDB | Amazon Web Services](https://www.youtube.com/watch?v=6YVjzD-70p4)
 * [Back to Basics: Release Features Safely with AWS AppConfig Feature Flags | Amazon Web Services](https://www.youtube.com/watch?v=20NhUuWua_c)
-
+* [Back to Basics: Modernizing Monolithic Applications Using Cloud Strangler Pattern | Amazon Web Services](https://www.youtube.com/watch?v=Y4CuUxiWY5w)
 
 
 
