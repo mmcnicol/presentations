@@ -172,6 +172,10 @@ private Git repositories and collaborate on code
 * https://aws.amazon.com/codepipeline/
 * [Introduction to AWS CodePipeline - Continuous Delivery on Amazon Web Services](https://youtu.be/YxcIj_SLflw)
 
+#### Code Artifact
+Secure, scalable, and cost-effective package management for software development.
+* https://aws.amazon.com/codeartifact/
+
 #### Code Build
 prepackaged build environments - Build, test, package code. Create a fully automated software release process that promotes code changes through multiple deployment environments.
 * https://aws.amazon.com/codebuild/
@@ -206,6 +210,11 @@ Speed up cloud provisioning with infrastructure as code
 
 #### IAM
 Securely manage identities and access to AWS services and resources
+* https://aws.amazon.com/iam/
+
+#### Fault Injection Service
+Improve resilience and performance with controlled experiments
+* https://aws.amazon.com/fis/
 
 #### Q Developer
 The most capable generative AI–powered assistant for software development.
