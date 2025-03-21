@@ -181,17 +181,9 @@ Automate and consistently deploy your applications across your development, test
 Support multiple deployment types, including in-place, canary, and blue/green deployments.
 * https://aws.amazon.com/codedeploy/
 
-#### Q Developer
-The most capable generative AI–powered assistant for software development.
-* https://aws.amazon.com/q/
-
-#### Code Catalyst
-a unified software development service.
-* https://codecatalyst.aws/explore
-
-#### Honeycode
-a fully managed service that allows customers to quickly build powerful mobile and web applications – with no programming required.
-* [Larry Augustin Announces Amazon Honeycode](https://youtu.be/zPupFm0BBFw)
+#### App Config 
+centrally stores, manages, and deploys application configurations.
+* https://aws.amazon.com/blogs/devops/deploying-and-managing-application-configurations-using-aws-appconfig/
 
 #### Secrets Manager
 Centrally manage the lifecycle of secrets
@@ -214,5 +206,17 @@ Speed up cloud provisioning with infrastructure as code
 
 #### IAM
 Securely manage identities and access to AWS services and resources
+
+#### Q Developer
+The most capable generative AI–powered assistant for software development.
+* https://aws.amazon.com/q/
+
+#### Code Catalyst
+a unified software development service.
+* https://codecatalyst.aws/explore
+
+#### Honeycode
+a fully managed service that allows customers to quickly build powerful mobile and web applications – with no programming required.
+* [Larry Augustin Announces Amazon Honeycode](https://youtu.be/zPupFm0BBFw)
 
 * https://aws.amazon.com/iam/
