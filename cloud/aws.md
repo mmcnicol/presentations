@@ -208,10 +208,6 @@ Speed up cloud provisioning with infrastructure as code
 * https://aws.amazon.com/cloudformation/
 * [Introduction to AWS CloudFormation](https://youtu.be/Omppm_YUG2g)
 
-#### IAM
-Securely manage identities and access to AWS services and resources
-* https://aws.amazon.com/iam/
-
 #### Fault Injection Service
 Improve resilience and performance with controlled experiments
 * https://aws.amazon.com/fis/
@@ -228,4 +224,21 @@ a unified software development service.
 a fully managed service that allows customers to quickly build powerful mobile and web applications – with no programming required.
 * [Larry Augustin Announces Amazon Honeycode](https://youtu.be/zPupFm0BBFw)
 
+
+### security
+
+#### IAM
+Securely manage identities and access to AWS services and resources
 * https://aws.amazon.com/iam/
+
+
+### managment
+
+#### Cloud Watch
+Observe and monitor resources and applications. CloudWatch is a service that monitors applications, responds to performance changes, optimizes resource use, and provides insights into operational health.
+* https://aws.amazon.com/cloudwatch/
+
+#### Cloud Trail
+Track user activity and API usage. AWS CloudTrail is a service that enables governance, compliance, operational auditing, and auditing of your AWS account.
+* https://aws.amazon.com/cloudtrail/
+
