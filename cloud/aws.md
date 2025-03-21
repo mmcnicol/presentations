@@ -142,7 +142,16 @@ Fully managed Pub/Sub messaging service
 * https://aws.amazon.com/sns/
 
 #### MQ
+Fully managed service for open-source message brokers
+* https://aws.amazon.com/amazon-mq/
 * [Getting Started with Amazon MQ - Managed Message Broker Service](https://youtu.be/iDT1zFpy1kE)
+
+
+### business applications
+
+#### Simple Email Service
+Optimize your email communication with reliable, scalable, and secure solutions
+* https://aws.amazon.com/ses/
 
 
 ### analytics
@@ -181,6 +190,7 @@ a unified software development service.
 * https://codecatalyst.aws/explore
 
 #### Honeycode
+a fully managed service that allows customers to quickly build powerful mobile and web applications – with no programming required.
 * [Larry Augustin Announces Amazon Honeycode](https://youtu.be/zPupFm0BBFw)
 
 #### Secrets Manager
@@ -204,4 +214,5 @@ Speed up cloud provisioning with infrastructure as code
 
 #### IAM
 Securely manage identities and access to AWS services and resources
+
 * https://aws.amazon.com/iam/
