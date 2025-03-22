@@ -165,6 +165,11 @@ ElasticSearch - real-time search, monitoring, and analysis of business and opera
 
 ### development tools
 
+#### CDK
+Define your cloud application resources using familiar programming languages
+* [AWS Cloud Development Kit](https://aws.amazon.com/cdk/)
+* [Werner Vogels on the AWS Cloud Development Kit (AWS CDK) | AWS Events 2001](https://www.youtube.com/watch?v=AYYTrDaEwLs)
+
 #### Code Commit
 private Git repositories and collaborate on code
 * https://aws.amazon.com/codecommit/
