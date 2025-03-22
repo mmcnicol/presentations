@@ -89,6 +89,7 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service
 * https://aws.amazon.com/dynamodb/
 * Serverless, NoSQL, fully managed database
 * [Tables, Items, and Attributes - Amazon DynamoDB Core Concepts | Amazon Web Services](https://www.youtube.com/watch?v=Mw8wCj0gkRc)
+* [DynamoDB: Its purpose, main features, and key concepts | Jason Hunter | AWS Events](https://www.youtube.com/watch?v=ummOosOW4lE)
 * [Back to Basics: Change Data Capture with Amazon DynamoDB | Amazon Web Services](https://www.youtube.com/watch?v=6YVjzD-70p4)
 
 #### ElastiCache (in-memory data store and cache)
