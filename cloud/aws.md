@@ -167,6 +167,9 @@ ElasticSearch - real-time search, monitoring, and analysis of business and opera
 Tools for developing and managing applications on AWS
 * https://aws.amazon.com/developer/tools/
 
+#### Language SDKs
+* SDKs take the complexity out of coding by providing language-specific APIs for AWS services.
+
 #### CDK
 Define your cloud application resources using familiar programming languages
 * [AWS Cloud Development Kit](https://aws.amazon.com/cdk/)
