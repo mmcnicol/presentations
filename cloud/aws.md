@@ -164,6 +164,8 @@ ElasticSearch - real-time search, monitoring, and analysis of business and opera
 
 
 ### development tools
+Tools for developing and managing applications on AWS
+* https://aws.amazon.com/developer/tools/
 
 #### CDK
 Define your cloud application resources using familiar programming languages
