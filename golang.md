@@ -139,6 +139,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Secure Coding in Go: Avoiding Common Vulnerabilities | Benji Vesterby | GopherCon 2022](https://www.youtube.com/watch?v=com5l5DKvqQ)
 * [Lightning-Fast Database Tests | Robin Hallabro-Kokko | GopherCon 2024](https://www.youtube.com/watch?v=wjglVMq3YuA)
 * [You Can Store That in a Container Registry?! | Siva Manivannan | GopherCon 2024](https://www.youtube.com/watch?v=Ahz5YlYZ-IM)
+* [System Programming for Real-time Video Capture in Go | Vladimir Vivien | GopherCon 2022](https://www.youtube.com/watch?v=uiVQQi20DgM)
 
 
 ### articles
