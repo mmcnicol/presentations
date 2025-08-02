@@ -154,6 +154,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [gomock](https://github.com/golang/mock)
 * [We Replaced Our React Frontend with Go and WebAssembly | Alex Suraci | dagger.io 2005](https://dagger.io/blog/replaced-react-with-go)
 * [Go at American Express Today: Seven Key Learnings | Benjamin Cane | American Express Technology 2025](https://americanexpress.io/go-at-american-express-today/)
+* [Handling Migration Errors: How Atlas Improves on golang-migrate | Noa Rogoszinski | atlasgo.io/blog 2025](https://atlasgo.io/blog/2025/04/06/atlas-and-golang-migrate)
 
 
 ### news and jobs
