@@ -153,6 +153,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [introducing sqlc](https://conroy.org/introducing-sqlc)
 * [gomock](https://github.com/golang/mock)
 * [We Replaced Our React Frontend with Go and WebAssembly | Alex Suraci | dagger.io 2005](https://dagger.io/blog/replaced-react-with-go)
+* [Go at American Express Today: Seven Key Learnings | Benjamin Cane | American Express Technology 2025](https://americanexpress.io/go-at-american-express-today/)
 
 
 ### news and jobs
