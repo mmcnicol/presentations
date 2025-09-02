@@ -142,6 +142,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [System Programming for Real-time Video Capture in Go | Vladimir Vivien | GopherCon 2022](https://www.youtube.com/watch?v=uiVQQi20DgM)
 * [The Go Programmer's Guide to Secure Connections | Liz Rice | GopherCon 2018](https://www.youtube.com/watch?v=kxKLYDLzuHA)
 * [The Scheduler Saga | Kavya Joshi | GopherCon 2018](https://www.youtube.com/watch?v=YHRO5WQGh0k)
+* [Go Protobuf | Michael Stapelberg | GopherCon EU 2025](https://www.youtube.com/watch?v=scNYFVtD5ZM)
 
 
 ### articles
