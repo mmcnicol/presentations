@@ -146,6 +146,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [Hello, MCP World! | Daniela Petruzalek | GopherCon UK 2025](https://www.youtube.com/watch?v=WzfYd6cV4gE)
 * [Go Security – Past, Present, and Future | Roland Shoemaker | GopherCon UK 2025](https://www.youtube.com/watch?v=oLtq2sKxjto)
 * [What's coming in Go 1.25 | Daniel Marti | GopherCon UK 2025](https://www.youtube.com/watch?v=0SX7zjE5cuI)
+* [Building a coding agent from scratch | Bill Kennedy | GopherCon UK 2025](https://www.youtube.com/watch?v=ybBVOa572Tw)
 
 
 ### articles
