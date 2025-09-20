@@ -148,6 +148,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [What's coming in Go 1.25 | Daniel Marti | GopherCon UK 2025](https://www.youtube.com/watch?v=0SX7zjE5cuI)
 * [Building a coding agent from scratch | Bill Kennedy | GopherCon UK 2025](https://www.youtube.com/watch?v=ybBVOa572Tw)
 * [K8s CPU Limits Deconstructed | Bill Kennedy | GopherCon UK 2025](https://www.youtube.com/watch?v=jECXV2BdsI8)
+* [How Just Eat uses tooling to deploy Go micro-services in minutes | Ainsley Clark | GopherCon UK 2025](https://www.youtube.com/watch?v=JnjKQZOsvcw)
 
 
 ### articles
