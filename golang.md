@@ -150,6 +150,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [K8s CPU Limits Deconstructed | Bill Kennedy | GopherCon UK 2025](https://www.youtube.com/watch?v=jECXV2BdsI8)
 * [How Just Eat uses tooling to deploy Go micro-services in minutes | Ainsley Clark | GopherCon UK 2025](https://www.youtube.com/watch?v=JnjKQZOsvcw)
 * [Unleashing the Go Toolchain | Kemal Akkoyun | GopherCon UK 2025](https://www.youtube.com/watch?v=8Rw-fVEjihw)
+* [Deep dive into Go's build system | Daniel Marti | GopherCon UK 2022](https://www.youtube.com/watch?v=sTXc_JxmvV0)
 
 
 ### articles
