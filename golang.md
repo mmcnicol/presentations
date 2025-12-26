@@ -153,6 +153,9 @@ an open source programming language that makes it easy to build simple, reliable
 * [Deep dive into Go's build system | Daniel Marti | GopherCon UK 2022](https://www.youtube.com/watch?v=sTXc_JxmvV0)
 * [Go’s Trace Tooling and Concurrency | Bill Kennedy | GopherCon 2025](https://www.youtube.com/watch?v=Gqo0oCfZSjg)
 * [Standardizing Feature Flagging with OpenFeature | Sahid Velji | GopherCon 2025](https://www.youtube.com/watch?v=UqdfOiuTthI)
+* [Git Server from Scratch in Go | Sergii Iefremov | GopherCon 2025](https://www.youtube.com/watch?v=SD2Km7glhtk)
+* [LLM Agents in Production: Why Go is the Missing Piece | Kartik Ramesh | GopherCon 2025](https://www.youtube.com/watch?v=3mvD_Ud7HLY)
+* [Analysis and Transformation Tools for Go Codebase Modernization | Alan Donovan | GopherCon 2025](https://www.youtube.com/watch?v=_VePjjjV9JU)
 
 
 ### articles
