@@ -144,6 +144,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [The Scheduler Saga | Kavya Joshi | GopherCon 2018](https://www.youtube.com/watch?v=YHRO5WQGh0k)
 * [Go Protobuf | Michael Stapelberg | GopherCon EU 2025](https://www.youtube.com/watch?v=scNYFVtD5ZM)
 * [Hello, MCP World! | Daniela Petruzalek | GopherCon UK 2025](https://www.youtube.com/watch?v=WzfYd6cV4gE)
+* [Next-Gen AI Tooling with MCP Servers in Go | Katie Hockman | GopherCon 2025](https://www.youtube.com/watch?v=BNVPE8k6Nmw)
 * [Go Security – Past, Present, and Future | Roland Shoemaker | GopherCon UK 2025](https://www.youtube.com/watch?v=oLtq2sKxjto)
 * [What's coming in Go 1.25 | Daniel Marti | GopherCon UK 2025](https://www.youtube.com/watch?v=0SX7zjE5cuI)
 * [Building a coding agent from scratch | Bill Kennedy | GopherCon UK 2025](https://www.youtube.com/watch?v=ybBVOa572Tw)
