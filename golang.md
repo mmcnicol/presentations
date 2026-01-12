@@ -158,6 +158,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [LLM Agents in Production: Why Go is the Missing Piece | Kartik Ramesh | GopherCon 2025](https://www.youtube.com/watch?v=3mvD_Ud7HLY)
 * [Analysis and Transformation Tools for Go Codebase Modernization | Alan Donovan | GopherCon 2025](https://www.youtube.com/watch?v=_VePjjjV9JU)
 * [The Code You Reviewed is Not the Code You Built | Jess McClintock | GopherCon 2025](https://www.youtube.com/watch?v=70ka67DpLPc)
+* [When Failure Is Not an Option: Surviving Cloud Outages in Go | Kevin Holditch | GopherCon UK 2025](https://www.youtube.com/watch?v=vrnIrHsG7HE)
 
 
 ### articles
