@@ -5,3 +5,4 @@
 
 links:
 * [Load Testing Is Complicated: A Case Study of NJ Unemployment Insurance - Rob Bayliss](https://www.youtube.com/watch?v=y2JLGo4EcZk)
+* [Record and Author Load Tests with AI | Microsoft Azure Developers](https://www.youtube.com/watch?v=soiPJLTTK4U)
