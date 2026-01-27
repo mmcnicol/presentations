@@ -14,6 +14,7 @@
 * [Beyond the AI Hype: What's Real, What's Next | Richard Campbell | NDC Copenhagen 2025](https://www.youtube.com/watch?v=U6BdiJsIHC8)
 * [Building AI into critical systems: Lessons learned | Tatiana Stantonian | LeadDev Berlin 2025](https://www.youtube.com/watch?v=vmCjhreeuAw)
 * [Demo: Using /delegate in the GitHub Copilot CLI | Scott Hanselman | GitHub](https://www.youtube.com/watch?v=P2qK2BCdi-w)
+* [Exploring AI agent platforms — Thoughtworks Technology Podcast](https://www.youtube.com/watch?v=0PGn-HLyJj8)
 
 
 
