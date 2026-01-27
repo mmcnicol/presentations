@@ -1,5 +1,6 @@
 # artificial intelligence
 
+* [Understanding AI Concepts: Machine Learning, Gen AI, NLP, & More | Brianne Zavala | IBM Technology](https://www.youtube.com/watch?v=w__y7508704)
 * [Claude Code best practices | Code w/ Claude | Cal Rueb | Anthropic](https://www.youtube.com/watch?v=gv0WHhKelSE)
 * [I shipped code I don't understand and I bet you have too | Jake Nations, Netflix | AI Engineer](https://www.youtube.com/watch?v=eIoohUmYpGI)
 * [Learn the basics of Google Antigravity | Kevin Hou | Google Antigravity](https://www.youtube.com/watch?v=nTOVIGsqCuY)
