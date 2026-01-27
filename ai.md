@@ -1,7 +1,9 @@
 # artificial intelligence
 
+* [I shipped code I don't understand and I bet you have too | Jake Nations, Netflix | AI Engineer](https://www.youtube.com/watch?v=eIoohUmYpGI)
+* [Learn the basics of Google Antigravity | Kevin Hou | Google Antigravity](https://www.youtube.com/watch?v=nTOVIGsqCuY)
 * [Defying Gravity | Kevin Hou, Google DeepMind | AI Engineer](https://www.youtube.com/watch?v=HN-F-OQe6j0)
-* [Making Codebases Agent Ready | Eno Reyes, Factory AI| AI Engineer](https://www.youtube.com/watch?v=ShuJ_CN6zr4)
+* [Making Codebases Agent Ready | Eno Reyes, Factory AI | AI Engineer](https://www.youtube.com/watch?v=ShuJ_CN6zr4)
 * [What does Big Tech's AI obsession mean for consumers? | Reuters](https://www.youtube.com/watch?v=r-GsPLqr-YU)
 * [AI Fraud Has Exploded. This Background-Check Startup Is Cashing In | Forbes](https://www.youtube.com/watch?v=MmhDlorniOk)
 * [Rethinking interviewing in an AI era | Justin Lee | LeadDev Berlin 2025](https://www.youtube.com/watch?v=XEqZxAhZlZw)
