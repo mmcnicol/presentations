@@ -18,9 +18,18 @@
 * [Exploring AI agent platforms — Thoughtworks Technology Podcast](https://www.youtube.com/watch?v=0PGn-HLyJj8)
 
 ## Online Course: [MIT OpenCourseWare; Deep Learning](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/)
-* [Lec 01. Introduction to Deep Learning | MIT OpenCourseWare](https://www.youtube.com/watch?v=6FkRvTtUc-o)
-* [Lec 02. How to Train a Neural Net | MIT OpenCourseWare](https://www.youtube.com/watch?v=vidCX_dMCu0)
-* [Lec 03. Approximation Theory | MIT OpenCourseWare](https://www.youtube.com/watch?v=ySaoWrv3T_Q)
+* [Lec 01. Introduction to Deep Learning | Deep Learning | MIT OpenCourseWare](https://www.youtube.com/watch?v=6FkRvTtUc-o)
+* [Lec 02. How to Train a Neural Net | Deep Learning | MIT OpenCourseWare](https://www.youtube.com/watch?v=vidCX_dMCu0)
+* [Lec 03. Approximation Theory | Deep Learning | MIT OpenCourseWare](https://www.youtube.com/watch?v=ySaoWrv3T_Q)
+* [Lec 04. Architectures: Grids | Deep Learning | MIT OpenCourseWare](https://youtu.be/bxVkZ4M-hIE)
+* [Lec 05. Architectures: Graphs | Deep Learning | MIT OpenCourseWare](https://youtu.be/0niIwb37nF0)
+* [Lec 06. Generalization Theory | Deep Learning | MIT OpenCourseWare](https://youtu.be/EiO8BBa-xdc)
+* [Lec 07. Scaling Rules for Optimization | Deep Learning | MIT OpenCourseWare](https://youtu.be/VcGPE4s_oNw)
+* [Lec 08. Architectures: Transformers | Deep Learning | MIT OpenCourseWare](https://youtu.be/Q1HOKrNeh2M)
+* ...Lec 24...
 
-## Online Couse: [MIT Open Learning Library; Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
-* [Lecture 1: Introduction and Linear Classifiers](https://www.youtube.com/watch?v=kXOsRyIVAdo)
+
+
+
+
+
