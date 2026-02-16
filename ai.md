@@ -1,5 +1,6 @@
 # artificial intelligence
 
+## links
 * [Understanding AI Concepts: Machine Learning, Gen AI, NLP, & More | Brianne Zavala | IBM Technology](https://www.youtube.com/watch?v=w__y7508704)
 * [Claude Code best practices | Code w/ Claude | Cal Rueb | Anthropic](https://www.youtube.com/watch?v=gv0WHhKelSE)
 * [I shipped code I don't understand and I bet you have too | Jake Nations, Netflix | AI Engineer](https://www.youtube.com/watch?v=eIoohUmYpGI)
@@ -16,7 +17,7 @@
 * [Demo: Using /delegate in the GitHub Copilot CLI | Scott Hanselman | GitHub](https://www.youtube.com/watch?v=P2qK2BCdi-w)
 * [Exploring AI agent platforms — Thoughtworks Technology Podcast](https://www.youtube.com/watch?v=0PGn-HLyJj8)
 
-Online Course: [MIT OpenCourseWare; Deep Learning](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/)
+## Online Course: [MIT OpenCourseWare; Deep Learning](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/)
 * [Lec 01. Introduction to Deep Learning | MIT OpenCourseWare](https://www.youtube.com/watch?v=6FkRvTtUc-o)
 * [Lec 02. How to Train a Neural Net | MIT OpenCourseWare](https://www.youtube.com/watch?v=vidCX_dMCu0)
 * [Lec 03. Approximation Theory | MIT OpenCourseWare](https://www.youtube.com/watch?v=ySaoWrv3T_Q)
