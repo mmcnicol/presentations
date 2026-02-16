@@ -15,7 +15,10 @@
 * [Building AI into critical systems: Lessons learned | Tatiana Stantonian | LeadDev Berlin 2025](https://www.youtube.com/watch?v=vmCjhreeuAw)
 * [Demo: Using /delegate in the GitHub Copilot CLI | Scott Hanselman | GitHub](https://www.youtube.com/watch?v=P2qK2BCdi-w)
 * [Exploring AI agent platforms — Thoughtworks Technology Podcast](https://www.youtube.com/watch?v=0PGn-HLyJj8)
-* [Lec 01. Introduction to Deep Learning | MIT OpenCourseWare](https://www.youtube.com/watch?v=6FkRvTtUc-o)
 
+Online Course: [MIT OpenCourseWare; Deep Learning](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/)
+* [Lec 01. Introduction to Deep Learning | MIT OpenCourseWare](https://www.youtube.com/watch?v=6FkRvTtUc-o)
+* [Lec 02. How to Train a Neural Net | MIT OpenCourseWare](https://www.youtube.com/watch?v=vidCX_dMCu0)
+* [Lec 03. Approximation Theory | MIT OpenCourseWare](https://www.youtube.com/watch?v=ySaoWrv3T_Q)
 
 
