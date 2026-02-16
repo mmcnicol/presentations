@@ -22,4 +22,5 @@
 * [Lec 02. How to Train a Neural Net | MIT OpenCourseWare](https://www.youtube.com/watch?v=vidCX_dMCu0)
 * [Lec 03. Approximation Theory | MIT OpenCourseWare](https://www.youtube.com/watch?v=ySaoWrv3T_Q)
 
-
+## Online Couse: [MIT Open Learning Library; Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
+* [Lecture 1: Introduction and Linear Classifiers](https://www.youtube.com/watch?v=kXOsRyIVAdo)
