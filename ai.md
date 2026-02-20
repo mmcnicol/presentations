@@ -17,6 +17,9 @@
 * [Demo: Using /delegate in the GitHub Copilot CLI | Scott Hanselman | GitHub](https://www.youtube.com/watch?v=P2qK2BCdi-w)
 * [Exploring AI agent platforms — Thoughtworks Technology Podcast](https://www.youtube.com/watch?v=0PGn-HLyJj8)
 
+# articles
+* [How The New York Times is scaling Unit Test Coverage using AI Tools | The NYT Open Team](https://open.nytimes.com/how-the-new-york-times-is-scaling-unit-test-coverage-using-ai-tools-fa796bf9b8d2?gi=8fdd97d352f3)
+
 ## Online Course: [MIT OpenCourseWare; Deep Learning](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/)
 * [Lec 01. Introduction to Deep Learning | Deep Learning | MIT OpenCourseWare](https://www.youtube.com/watch?v=6FkRvTtUc-o)
 * [Lec 02. How to Train a Neural Net | Deep Learning | MIT OpenCourseWare](https://www.youtube.com/watch?v=vidCX_dMCu0)
