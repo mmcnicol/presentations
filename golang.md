@@ -161,6 +161,7 @@ an open source programming language that makes it easy to build simple, reliable
 * [When Failure Is Not an Option: Surviving Cloud Outages in Go | Kevin Holditch | GopherCon UK 2025](https://www.youtube.com/watch?v=vrnIrHsG7HE)
 * [Best Practices for Industrial Programming | Peter Bourgon | GopherCon EU 2018](https://www.youtube.com/watch?v=PTE4VJIdHPg)
 * [ReverseProxy is the Amazing Gem of the Go Std Lib | Alexander Else | GopherConAU 2024](https://www.youtube.com/watch?v=owctPF7RObE)
+* [When the “Go”ing Gets Tough: Relieving Pressure on a Budget | Ellen Gao | GopherConAU 2024](https://www.youtube.com/watch?v=wLBl_Z0jtZ4)
 
 
 ### articles
